@@ -9,6 +9,5 @@ Applications
 - [Distributed Machine Learning & Simulation](https://mini.ai)
 
 Tailored Solutions
-- Cut through the noise with our tools. 
-- <a href="https://thismedium.com" target="_blank">@thismedium</a>
+- Cut through the noise with our search tools. <a href="https://thismedium.com" target="_blank">@thismedium</a>
 - Use shared knowledge to <a href="https://logic.to" target="_blank">build your services</a>.
