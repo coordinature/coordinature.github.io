@@ -5,8 +5,8 @@ Departments
 - [Development & Designs](development)
 
 Applications
-- [Earthly Matters & Sustainability](https://earthly.ai)
-- [Distributed Machine Learning & Simulation](https://mini.ai)
+- <a href="https://earthly.ai" target="_blank">Earthly Matters & Sustainability</a>
+- <a href="https://mini.ai" target="_blank">Distributed Machine Learning & Simulation</a>
 
 Tailored Solutions
 - Cut through the noise with our search tools. <a href="https://thismedium.com" target="_blank">@thismedium</a>
