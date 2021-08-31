@@ -6,7 +6,7 @@ Departments
 
 Applications
 - <a href="https://earthly.ai" target="_blank">Earthly Matters & Sustainability</a>
-- <a href="https://mini.ai" target="_blank">Distributed Machine Learning & Simulation</a>
+- <a href="https://mini.ai" target="_blank">Data Science & Distributed Machine Learning</a>
 
 Tailored Solutions
 - Cut through the noise with our search tools. <a href="https://thismedium.com" target="_blank">@thismedium</a>
