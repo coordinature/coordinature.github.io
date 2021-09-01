@@ -1,4 +1,6 @@
 # Coordinature
+Collect and connect with your environment.
+
 
 ## Tailored Coordination Applications
 - Cut through the noise with our search tools. <a href="https://thismedium.com" target="_blank">@thismedium</a>
@@ -12,3 +14,7 @@
 	- User Experience Journey
 	- Self-learning services
 
+## Studios
+- Headquarters: Rotterdam
+
+Copyright 2021
