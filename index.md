@@ -28,6 +28,4 @@ We are working on ways to understand and implement the nature of work that is ef
 - <a href="https://elisemarcus.com" target="_blank">Elise Marcus</a>.
 - <a href="https://omoto.la" target="_blank">Omotola Bolarin</a>.
 
-Copyright © 2021 Coordinature
----
-All rights reserved.
+Copyright © 2021 Coordinature | All rights reserved.
