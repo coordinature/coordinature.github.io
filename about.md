@@ -2,12 +2,13 @@
 1. What do we do?
 	- ai in the field of relationships
     - transparent data collection
-    - and translatable data analysis
+    - translatable data analysis
     
 - We offer a service that helps you coordinate the process of gathering meaningful insights.
-	- asking critical questions
-    - understanding the process of data gathering and organising
-    - automating the 
+During this process you will make use of tools that help you:
+	- ask critical questions to your targetgroup
+    - understand the process of data gathering and organising
+    - automating the repeating 
     
 2. Why do we do it?
 	- We are driven by the oportunity
