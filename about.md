@@ -40,7 +40,8 @@ Omotola and Elise Joined together after working on multiple projects together. B
                 
             - thingscon
             	- facilitating workshops around implications
-                - as expert in the panel discussion
+                - as expert in the panel discussion about "from good things to good systems - the shift." 
+                https://2020conf.thingscon.org/2020/10/14/from-good-things-to-good-systems-the-shift-in-design/
                 https://www.thingscon.org/publications/the-state-of-responsible-iot-2020/
                 
             - rabobank
@@ -106,4 +107,4 @@ Omotola and Elise Joined together after working on multiple projects together. B
         -https://www.zorginnovatie.nl/innovaties/2tangosigns
         
         - Cor Wit fonds, 2tango, KPN
-        	- Directing the development and growth hacking of alternative keyboard solutions involving translating gestures to natural language. 
+        	- Directing the development and growth hacking of alternative keyboard solutions involving translating gestures to natural language.
