@@ -1,16 +1,12 @@
 ## About
 1. What do we do?
-At Coordinature we are working on the following activities:
-	- ai in the field of relationships
-    - transparent data collection
-    - translatable data analysis
-    
-	- We offer a service that helps you coordinate the process of gathering meaningful insights. During this process you will make use of tools that help you:
+
+We are developing a service that helps you coordinate the process of gathering meaningful insights. During this process you will make use of tools that help you:
 		- ask critical questions to your targetgroup
         - understand the process of data gathering and organising
     	- report the insights you've gathered
 
-We work with: 
+We have worked with: 
 - researchers: to facilitate interactive experiences
 - implementers: to implement the insights into powerful and simple User Experiences.
 
@@ -42,14 +38,27 @@ Omotola and Elise Joined together after working on multiple projects together.
     	- futurist and speculative background within the future of technology
         - speaker and facilitator within the topics of the implications of technology on society and it's system.
         - created interactive multimedia experiences to generate discussions.
+        
         - Worked with organisations such as:
         	- next nature network
+            	- facilitated workshops, lectures and exhibitions to stimulate discussion about the influence and intergration of upcoming technologisch on our society.
             - thingscon
+            	- facilitating workshops around implications
+                - as expert in the panel discussion
             - rabobank
+            	- facilitating a world-wide social-economical experiment where employees would track their social impact on their surroundings and try to inspire others. With the goal of creating a chain of positive activities. Seeing the social value of each country represented by a currency.
             - bosch
+            	- designed a future shoppingmall that visualised their latest developments in security and monitoring for the retail field.
             - stichting niet normaal
+            	- created an interactive exhibition in an VR space that tells the story of ai representing plants in the digital space.
             - nieuwe institute
+            	- created an interactive exhibition during museum night that stimulates the discussion of creating an internet of ecology.
             - erasmus university
+            	- facilitated system thinking workshops for the master sustainability course.
+            - skvr
+            	- facilitated a data gathering and visualising process for the new year 2021.
+            	- gathering stories from employees about their wished impact
+                - created a video experience where employees could get an insight in this proces.
             
     - Omotola: 
     
