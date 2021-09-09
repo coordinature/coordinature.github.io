@@ -14,15 +14,17 @@ We work with:
 - researchers: to facilitate interactive experiences
 - implementers: to implement the insights into powerful and simple User Experiences.
 
-We design an interactive experience that suits with the context of the targetgroup.
-We facilitate the research process
-We provide the tools to do it yourself
-We design implementation solutions
-We make it possible tp present the insights, in a suitable medium.
+- We design an interactive experience that suits with the context of the targetgroup.
+- We facilitate the research process
+- We provide the tools to do it yourself
+- We design implementation solutions
+- We make it possible to present the insights, in a suitable medium.
 
-- making it possible to gather insights from quantitative datasets, by natural langauge processing.
-- making it possible for the gap from research to implementation to be smaller
-- - empowerment of the targetgroup
+through this we make it possible:
+- to gather insights from quantitative datasets, by natural langauge processing.
+- for the gap from research to implementation to be smaller
+- empower of the targetgroup by giving personalised tools.
+- for data to be more inclusive, by gathering stories from a wide targetgroup.
 
 2. Why do we do it?
 
