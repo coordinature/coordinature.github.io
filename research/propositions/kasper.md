@@ -4,7 +4,10 @@ Coordinature will be partnering in the facilitation process of conducting an int
 ## Project description
 What if artificial intelligence is trained to make desiscions during ethicall dilemma's? In the game of life many humans are confronted with difficult scenario's where one is having to way important factors that might influence our or other lifes. When artificial intelligence will play a more important factor in this desciscion making process, what are the effects on our society?
 
-To map out possible effects, we will host a hackathon where we invite humans to train a general ai that will play a game simulating situations where one has to make ethicall desiscions. This ai will compete in this game against an adversarial network.
+To map out possible effects, we will host a hackathon where we invite humans to train a general ai that will play a game simulating situations where one has to make ethicall desiscions. This ai will compete in this game against an adversarial network. We will be researching:
+- inclusive engineering methods
+- the intergration of sensitifity and ethical norms and values withing ai
+- the role of ai-enabled desisionmaking processes
 
 ## projectplan
 During the researchphase we will be running a challenge between a human trained ai vs an adversarial network. This will be done by creating a simple game with affordances, that can run on it's own by using artificial agents as well as played by human players.The factors of this game include:
