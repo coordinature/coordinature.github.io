@@ -64,7 +64,9 @@ Omotola and Elise Joined together after working on multiple projects together.
             	- gathering stories from employees about their wished impact
                 - created a video experience where employees could get an insight in this proces.
             - 'what the fake workshop' for highschools students
-              	- 
+              	- facilitating
+            - signs
+            	- user experience research
             
     - Omotola: 
     
@@ -72,4 +74,3 @@ Omotola and Elise Joined together after working on multiple projects together.
         - Experienced with organising hackatons with qualoty
         - Has been working with startups and organisations within the roles of cto and technological strategy consulting.
         - Created digital solutions to improve communication.
- 
