@@ -47,7 +47,7 @@ based on the type of scenario's we can:
 ## plan of action
 ### budget proposal
 After debriefing the project proposal, we will create a budget proposal that includes:
-- fee's for experts within the field of:
+- fee's for (two or three) experts within the field of:
 	- the ethics of including artificial intelligence in desiscion making processes.
     - futurologist that are specialised in the implications of ai on society
 - services
@@ -55,6 +55,7 @@ After debriefing the project proposal, we will create a budget proposal that inc
     - location and equipment
     - facilitation
     - price
+ - pr and marketing of the event
     
 ### Organisation of the team
 1. Contacting and briefing external experts for the assignment
@@ -67,4 +68,3 @@ After debriefing the project proposal, we will create a budget proposal that inc
 3. Shaping the scenario's within the game in which we can test the ethical dilemma desiscion making.
 4. Defining the dataset on which we will train the models
 5. Defining the models
-
