@@ -1,12 +1,3 @@
-## coordinature.com
-Help us improve coordination between ecological and economical stakeholders. Empower your contributors with transparent data collections and translatable data analysis.
-
-### Connect with your environment.
-Share your experience with your network and review the stories that make a difference to you.
-
-### Collect in your environment.
-Get answers to the critical questions and gather peer-reviewed stories that match their scenarios.
-
 ## About
 1. What do we do?
 	- ai in the field of relationships
@@ -19,7 +10,8 @@ Get answers to the critical questions and gather peer-reviewed stories that matc
     - automating the 
     
 2. Why do we do it?
-	- We are driven by the oportunity t
+	- We are driven by the oportunity
+    Some of the largest issues in the world are caused by misinformation and miscommunication. Therefore it is now more than ever, time to define effective coordination. 
     
 3. What got us here?
 Omotola and Elise Joined together after working on multiple projects together.
