@@ -4,14 +4,15 @@
     - transparent data collection
     - translatable data analysis
     
-- We offer a service that helps you coordinate the process of gathering meaningful insights.
-During this process you will make use of tools that help you:
-	- ask critical questions to your targetgroup
-    - understand the process of data gathering and organising
-    - automating the repeating 
+	- We offer a service that helps you coordinate the process of gathering meaningful insights. During this process you will make use of tools that help you:
+		- ask critical questions to your targetgroup
+   		- understand the process of data gathering and organising
+    	- automating the repeating 
     
 2. Why do we do it?
-	- We are driven by the oportunity
+	- We are driven by the oportunity to rethink how information is gathered and communicated in order to:
+    	- improve understanding on relevant societal topics.
+    	- improve coordination between stakeholders
     
 3. What got us here?
 Omotola and Elise Joined together after working on multiple projects together.
