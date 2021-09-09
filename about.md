@@ -11,7 +11,6 @@
     
 2. Why do we do it?
 	- We are driven by the oportunity
-    Some of the largest issues in the world are caused by misinformation and miscommunication. Therefore it is now more than ever, time to define effective coordination. 
     
 3. What got us here?
 Omotola and Elise Joined together after working on multiple projects together.
