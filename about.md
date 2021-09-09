@@ -1,4 +1,7 @@
 ## About
+1. Who are we?
+
+
 1. What do we do?
 
 We are developing a service that helps you coordinate the process of gathering meaningful insights. During this process you will make use of tools that help you:
@@ -12,7 +15,7 @@ We have worked with:
 
 - We design an interactive experience that suits with the context of the targetgroup.
 - We facilitate the research process
-- We provide the tools to do it yourself
+- We provide the tools to do it yourself 
 - We design implementation solutions
 - We make it possible to present the insights, in a suitable medium.
 
@@ -66,3 +69,18 @@ Omotola and Elise Joined together after working on multiple projects together.
         - Experienced with organising hackatons with qualoty
         - Has been working with startups and organisations within the roles of cto and technological strategy consulting.
         - Created digital solutions to improve communication.
+        
+        
+   questions: 
+   - The topic "train your ai as if you are a parent teaching a child":
+   		- Does this the ai (chatbot or virtual character) is representing a child-like character? no
+        - Does this mean that we are modeling the relationship between a mentor-like situation and a student? yes
+        - Does this mean that as the trainer of the ai, you can teach the ai any task you want it to be good at?
+        - Does this mean that the ai is focussed on asking child-like why questions to any information you give it, in order to understand the context?
+        - Is the goal of this excersise to focus on training an ai?
+     	- or is the goal of this excersise to recreate a special bond / connection with the ai?
+        - Will the hacker try to hack the 
+        
+        - When the user is a parents to the ai. "groom your ai."
+        - what are tricky ethical issues that ml developers face?
+        - what are controversial situations?	 in relationship to "I trust the ai i am training".
