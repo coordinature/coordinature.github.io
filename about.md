@@ -1,48 +1,38 @@
 ## About
-1. Who are we?
-We are an experience designer within the topic of technology on society.
-
 
 1. What do we do?
 
-We are developing a service that helps you coordinate the process of gathering meaningful insights. During this process you will make use of tools that help you:
+We have worked on facilitating and designing interactive user experiences to research and develop solutions that improve communication between stakeholders. We have specialised ourselves in rethinking the way information is currently processed and communicated across multimedia platforms. We are currently developing a service that helps researchers, organisations and facilitators coordinate the process of gathering meaningful insights. 
+
+The tools that we are creating for this allows you to:
 		- ask critical questions to your targetgroup
         - understand the process of data gathering and organising
     	- report the insights you've gathered
 
-We have worked with: 
-- researchers: to facilitate interactive experiences
-- implementers: to implement the insights into powerful and simple User Experiences.
-
-- We design an interactive experience that suits with the context of the targetgroup.
-- We facilitate the research process
-- We provide the tools to do it yourself 
-- We design implementation solutions
-- We make it possible to present the insights, in a suitable medium.
-
-through this we make it possible:
-- to gather insights from quantitative datasets, by natural langauge processing.
-- for the gap from research to implementation to be smaller
-- empower of the targetgroup by giving personalised tools.
-- for data to be more inclusive, by gathering stories from a wide targetgroup.
 
 2. Why do we do it?
 
 We are driven by the oportunity to rethink how information is gathered and communicated in order to:
     	- improve understanding on relevant societal topics.
     	- improve coordination between stakeholders
-       
+        - excelarate the effective implementation of knowledge from new upcoming technologisch in the field.
+        - for data to be more inclusive, by gathering stories from a wide targetgroup.
+        - improve the gathering of insighs from quantitative datasets by natural language processing.
+
     
-3. What got us here?
+3. Who are we?
 
-Omotola and Elise Joined together after working on multiple projects together.
+Omotola and Elise Joined together after working on multiple projects together. Below a summery of experience of each:
 
-	- Elise: 
+	- Elise Marcus: 
     
     	- futurist and speculative background within the future of technology.
+       https://www.hogeschoolrotterdam.nl/opleidingen/bachelor/vormgeving/voltijd/vakstudies/transformation-design/
+
         - speaker and facilitator within the topics of the implications of technology on society and it's systems.
         - created interactive multimedia experiences to generate discussions.
-        
+- featured in https://www.nai010.com/en/publicaties/do-it-ourselves/245792
+
         - Worked with organisations such as:
         	- next nature network
             	- facilitated workshops, lectures and exhibitions to stimulate discussion about the influence and intergration of upcoming technologisch on our society.
@@ -69,6 +59,7 @@ Omotola and Elise Joined together after working on multiple projects together.
                 
             - nieuwe institute
             	- created an interactive exhibition during museum night that stimulates the discussion of creating an internet of ecology.
+                https://museumnacht.hetnieuweinstituut.nl/activiteiten/museumnacht010-2018
                 
            - eye film museum     
                 Interactive lecture about the Mother Earth Network and the possible implications of ai representing ecological entities.
@@ -76,8 +67,7 @@ Omotola and Elise Joined together after working on multiple projects together.
                 
             - erasmus university
             	- facilitated system thinking workshops for the master sustainability course.
-                
-                
+                    
             - skvr
             	- facilitated a data gathering and visualising process for the new year 2021.
             	- gathering stories from employees about their wished impact
@@ -93,12 +83,27 @@ Omotola and Elise Joined together after working on multiple projects together.
             	- an handson workshop where youth is challenged to think about their digital identity by creating a digital artwork through re-using their own digital pressence.
             https://cms.iffr.com/sites/default/files/content/iffr_2020_programma_compressed.pdf
             
-            - signs
-            	- user experience research
-            
-    - Omotola: 
+        	- Cor Wit fonds, 2tango, KPN
+            	- Facilitating in the User Experience Research around the improving family communication through alternative keyboard solutions involving gesturing to natural language.
+ 
+ 
+ 
+    - Omotola Bolarin: 
     
-    	- Has a background in communication
-        - Experienced with organising hackatons with qualoty
+    	- Has a background in communication with a minor in gamification
+        	- 
+        https://www.eur.nl/en/bachelor/international-bachelor-communication-and-media
+        
+        - Experienced with organising hackatons with qualoty:
+        	- facilitating a hackaton about data science for social good. 
+        https://www.qualogy.com/discover-qualogy/news-blogs/news-blog/meetup-data-science-for-social-good
+        
         - Has been working with startups and organisations within the roles of cto and technological strategy consulting.
+        https://ece.nl/getstarted2/
+        
         - Created digital solutions to improve communication.
+        	- lead inter disciplinary teams to 
+        -https://www.zorginnovatie.nl/innovaties/2tangosigns
+        
+        - Cor Wit fonds, 2tango, KPN
+        	- Directing the development and growth hacking of alternative keyboard solutions involving translating gestures to natural language. 
