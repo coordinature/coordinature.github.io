@@ -1,4 +1,4 @@
-## Kaspersky & Coordinature
+## Kasper
 Coordinature will be partnering in the facilitation process of conducting an interactive study about the role of ai in sensitive descision making processes regarding ethical dilemma's.
 
 ## Project description
