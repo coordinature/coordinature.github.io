@@ -9,8 +9,17 @@ We are working on ways to understand and implement the nature of work that is ef
 - Use shared knowledge to <a href="https://logic.to" target="_blank">build your services</a>.
 
 ## Tailored Cooperative Applications
-- Earthly Matters & Sustainability.
+- Earthly Matters & Sustainability #simulations.
+	- Stories
+		- Moments
+		- Elements
+	- Simulations
+		- Particles
+		- Formations
+
 - Distributed Machine Learning & Data Sciences. 
+	- Forms
+	- Formats
 
 ## Other Departments
 - [Research & Reports](research)
