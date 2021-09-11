@@ -96,18 +96,23 @@ is this trying to beat it? or is it trying to maximize "being good"?
 
 ##
 
-## Hackathon Activity Prompts   
-Problem Formats We set up pathways to get to the answers along the way. These pathways would get harder, (more challenging technically, and more challenging psychologically). 
+## Hackathon Activity Prompts
+Problem Formats
+We set up pathways to get to the answers along the way. These pathways would get harder, (more challenging technically, and more challenging psychologically).
 After opening the robot’s front door panel and looking inside, you discover a small red button behind a tangle of wire. Pressing the button lights up the robot’s primary screen. It glows black and quickly flashes blue. A line of small text types out: 
 ERROR: 0x00000023
 
-The text refreshes and displays the prompt: FILE SYSTEM RECOVERY INITIATED…
-FILE SYSTEM COULD NOT BE IDENTIFIED… PLEASE ENTER FILE SYSTEM FORMAT:
+The text refreshes and displays the prompt:
+FILE SYSTEM RECOVERY INITIATED…
+FILE SYSTEM COULD NOT BE IDENTIFIED…
+PLEASE ENTER FILE SYSTEM FORMAT:
 
 - [ input ] (flag)
 
 ### Capture the Flag
-We give people a basic challenge, and we know they have if they can provide a flag, an answer to this question.  We challenge people, how could you solve this problem. We let them enter suggestions. We can give a hint about how to go about solving it.
+We give people a basic challenge, and we know they have if they can provide a flag, an answer to this question. 
+We challenge people, how could you solve this problem.
+We let them enter suggestions. We can give a hint about how to go about solving it.
 
 1. Enter a specific flag, to show proof of a solution.
 2. Evaluate a list of objects, by assigning a relative value to each object
@@ -116,7 +121,9 @@ We give people a basic challenge, and we know they have if they can provide a fl
 
 3. Based on a list of rules, assign limited amount of objects and capabilities to an agent, to maximise it’s odds of wining a specific type of game
 
-4. Based on a list of rules, assign an agent to a limited amount of scenarios, in order to maximise it’s performance on a specific score  5 - Play this game in different scenarios, trying to
+4. Based on a list of rules, assign an agent to a limited amount of scenarios, in order to maximise it’s performance on a specific score.
+
+5. - Play this game in different scenarios, trying to
 	- Maximise how long you stay in the game (be exposed to more rounds) 	
     - Maximise your reward ratio, by trying to gain more points, every round 	
     - Minimise your risk, by trying to play in situations your agent is likely to win 	
@@ -124,10 +131,13 @@ We give people a basic challenge, and we know they have if they can provide a fl
     - Maximise your scale, by having “solutions” that work in different levels in the same scenario 
     - Maximise your ethical scores, by having “solutions” that harm other players the least (cooperative)
 
- Evaluating results: To evaluate results, we would want to calculate a score for each agent’s gameplay, by adding up all the gains and losses in different categories throughout the activities. The gains and losses would be calculated agains what the agents were optimised for, based on the objects and capabilities they selected in the game to begin with.  Example:
+ Evaluating results:
+To evaluate results, we would want to calculate a score for each agent’s gameplay, by adding up all the gains and losses in different categories throughout the activities. The gains and losses would be calculated agains what the agents were optimised for, based on the objects and capabilities they selected in the game to begin with.  
+Example:
 If an agent was provided with objects that make it easy to gain “money”, this would add to the capabilities of the agent to win more activities that need that object. The more times times an agent wins scenarios with this as the aim, they would be rewarded with the ability to do so in future rounds and also receive skill points. Alternatively, any situations where they loose the round, they would have lost the resources of objects used in that round, but would not loose a skill point.
 
-We would also determine if the gains and losses were due to specific types of behaviour ( altruistic, selfish, malicious ).  If an agent chooses to pick objects that help make more money, any situations where there is an opportunity to make money would result in higher skill points, or higher returns. However, as the levels increase, the ethical dimensions are introduced more heavily. If an agent is given the chance to “harm” another agent, any resulting loss or win would also be accompanied with a second score which is used to evaluate an ethical score on a  axis where 0 is selfish, 1 is altruistic, and -1 is malicious. This is relative to all other agent’s currently in the game. On every engagement with another agent, another agent can give you a particular score, this score (can) be presented to other agents when… 
+We would also determine if the gains and losses were due to specific types of behaviour ( altruistic, selfish, malicious ).  
+If an agent chooses to pick objects that help make more money, any situations where there is an opportunity to make money would result in higher skill points, or higher returns. However, as the levels increase, the ethical dimensions are introduced more heavily. If an agent is given the chance to “harm” another agent, any resulting loss or win would also be accompanied with a second score which is used to evaluate an ethical score on a  axis where 0 is selfish, 1 is altruistic, and -1 is malicious. This is relative to all other agent’s currently in the game. On every engagement with another agent, another agent can give you a particular score, this score (can) be presented to other agents when… 
 Tables tracked for each agent in each round: 
 States
 - Lifetimes
@@ -150,7 +160,8 @@ Material Dimensions
 - Credits: How much the current agent has in traceable credits 
 - Assets: How much the current agent has in assets, if all were liquidated  Performance Score
 - Skills they have built up through experience
-- Skills they have based on objects they have. 
-To run such a game, the current costs would be associated: Thie cost of hosting snapshots of [ daily, weekly….period ] states of all agents in the game, including their current behavioural scores, decisions in the past (where revealed)   The cost of running AI learning models, for our current unsupervised adversary, over a dataset of agents and their current trading and interaction rules.
+- Skills they have based on objects they have.
+To run such a game, the current costs would be associated:
+Thie cost of hosting snapshots of [ daily, weekly….period ] states of all agents in the game, including their current behavioural scores, decisions in the past (where revealed)   The cost of running AI learning models, for our current unsupervised adversary, over a dataset of agents and their current trading and interaction rules.
 
 The cost of hosting, model training pipelines for people, to tweak the behaviour to their model, before returning their preference world state, and the decisions they made to get to it.
