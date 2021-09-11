@@ -1,7 +1,19 @@
 ## About
 
 1. What do we do?
+We create feedback systems.
 
+Feature
+Collecting/Aggregating data results, creating written summeries with descriptive analytics.
+
+Product (business case)
+userstories: 
+We are collecting userstories and connecting descriptive analytics to the stakeholder targets.
+
+game simlations:
+Collecting behavior statisitcs from gameplay simulations, for researchers and experts to make decisions with.
+
+Company
 We have worked on facilitating and designing interactive user experiences to research and develop solutions that improve communication between stakeholders. We have specialised ourselves in rethinking the way information is currently processed and communicated across multimedia platforms. We are currently developing a service that helps researchers, organisations and facilitators coordinate the process of gathering meaningful insights. 
 
 The tools that we are creating for this allows you to:
