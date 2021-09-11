@@ -36,14 +36,14 @@ We are driven by the oportunity to rethink how information is gathered and commu
 
 Omotola and Elise Joined together after working on multiple projects together. Below a summery of experience of each:
 
-**	- Elise Marcus: **   
-
-- Futurist and speculative background within the future of technology.
+	- Elise Marcus: 
+    
+    	- Futurist and speculative background within the future of technology.
        https://www.hogeschoolrotterdam.nl/opleidingen/bachelor/vormgeving/voltijd/vakstudies/transformation-design/
 
-        - Fpeaker and facilitator within the topics of the implications of technology on society and it's systems.
+        - Speaker and facilitator within the topics of the implications of technology on society and it's systems.
         - Created interactive multimedia experiences to generate discussions.
-- featured in https://www.nai010.com/en/publicaties/do-it-ourselves/245792
+		- featured in https://www.nai010.com/en/publicaties/do-it-ourselves/245792
 
         - Worked with organisations such as:
         	- next nature network
@@ -101,8 +101,8 @@ Omotola and Elise Joined together after working on multiple projects together. B
  
  
  
-**    - Omotola Bolarin: **   
-
+    - Omotola Bolarin: 
+    
     	- Has a background in communication with a minor in gamification
         	- 
         https://www.eur.nl/en/bachelor/international-bachelor-communication-and-media
