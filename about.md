@@ -34,7 +34,7 @@ We are driven by the oportunity to rethink how information is gathered and commu
     
 ## 3. Who are we?
 
-Omotola and Elise Joined together after working on multiple projects together. Below a summery of experience of each:
+Omotola Bolarin and Elise Marcus Joined together after working on multiple projects together. Below a summery of experience of each:
 
 	- Elise Marcus: 
     
@@ -63,7 +63,6 @@ Omotola and Elise Joined together after working on multiple projects together. B
                 
             - Bosch
             	- designed a future shoppingmall that visualised their latest developments in security and monitoring for the retail field.
-                
                 
             - Stichting niet normaal - impossible bodies
             	- created an interactive exhibition in an VR space that tells the story of ai representing 
@@ -96,6 +95,11 @@ Omotola and Elise Joined together after working on multiple projects together. B
             	- an handson workshop where youth is challenged to think about their digital identity by creating a digital artwork through re-using their own digital pressence.
             https://cms.iffr.com/sites/default/files/content/iffr_2020_programma_compressed.pdf
             
+            - Neurodiversity foundation
+            	- Designing the UX design of a neurodiversity researchtool for children.
+                - https://play.google.com/store/apps/detailsid=nl.neurodiversiteit.brainynl&hl=en&gl=US
+
+            
         	- Cor Wit fonds, 2tango, KPN
             	- Facilitating in the User Experience Research around the improving family communication through alternative keyboard solutions involving gesturing to natural language.
  
@@ -104,19 +108,27 @@ Omotola and Elise Joined together after working on multiple projects together. B
     - Omotola Bolarin: 
     
     	- Has a background in communication with a minor in gamification
-        	- 
-        https://www.eur.nl/en/bachelor/international-bachelor-communication-and-media
+        	- https://www.eur.nl/en/bachelor/international-bachelor-communication-and-media
         
         - Experienced with organising hackatons with qualoty:
         	- facilitating a hackaton about data science for social good. 
         https://www.qualogy.com/discover-qualogy/news-blogs/news-blog/meetup-data-science-for-social-good
+        https://amsterdamdatascience.nl/event/data-science-for-social-good/
         
         - Has been working with startups and organisations within the roles of cto and technological strategy consulting.
         https://ece.nl/getstarted2/
         
-        - Created digital solutions to improve communication.
-        	- lead inter disciplinary teams to 
+        - Signs
+        	- Directing the development and growth hacking of alternative keyboard solutions involving translating gestures to natural language.
         -https://www.zorginnovatie.nl/innovaties/2tangosigns
         
         - Cor Wit fonds, 2tango, KPN
-        	- Directing the development and growth hacking of alternative keyboard solutions involving translating gestures to natural language.
+        	- Developing tools to conduct quantitative and qualitative user experience research.
+            http://www.corwitfonds.nl/2tango.html 
+            
+        - Neurodiversiteitsfoundation
+        	- Lead a development team as CTO of the foundation for two years. Guiding the members to be able to reverse engineering artificial intelligence systems, design user experiences to gather meaningful data.
+           - https://neurodiversiteit.nl/en/support-team-volunteers/
+           - http://tjerkfeitsma.com/portfolio/brainy-app/
+           - https://play.google.com/store/apps/details?id=nl.neurodiversiteit.brainynl&hl=en&gl=US
+
