@@ -1,4 +1,4 @@
-## about
+## thismedium
 Start your interactive user research right now.
 
 ### Connect with _your environment._
