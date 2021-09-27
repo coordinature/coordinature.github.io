@@ -5,13 +5,13 @@
 ### Family Signs
 ## Everybody deserves to be understood.
 
-Make expressing yourself easier and more exciting. 
+Make writing easier and more exciting by using Signs. 
 Family Signs is replacing the keyboard with gesturing and signing.
 Start building your own Family gestures.
 
 {Pre-order} or {enter special test-ID}
 
-[image that shows gesturing in the sky]
+<image that shows gesturing in the sky>
 
 --
 
