@@ -8,45 +8,42 @@ topic: A complete overview of all questions asked during the UX-study starting i
 
 ----------
 ​
-
-# questions
+7
 -- onboarding
 
-## 1 profile
+### Create a new user
 - What is your first name? 
 - What is your last name?
 - What is your date of birth?
-- What is your role within your family? 
-	a. child
-	b. parent
-	c. other: .....
-
-## family profile - filled by initiator
-*with the goal of having a better idea of their family dynamic.*
-
-- how many people does your household consist of?
-- What motivated you as a family to participate in this study?
-- How did you introduce the study to your family members?
-- How would you describe your communicative patterns within the family?
-- What do you sometimes find difficult to discuss with each other?
-- Do you experience that your family members use a form of hand gestures, while they talk?
-- What do you like to do together?
-- What apps do you use to communicate amongst each other?
-- Do all family members have a mobile(smart)phone? 
-	- yes
-	- no: 
-		- ... these family members do
-		- .. these family members don't because:
 
 
-## chat app questionnaire - filled by phone holders
-*with the goal of knowing how the users interact with apps and possible plugins*
+### Create a new group
+- Select the type of group.
+- Add a contact to this group.
+- Select your relationship to this Contact
+- Select the contacts that live in your household?
 
+
+### Start the study - initiator
+- Why did you join this study?
+- What would you like to take away from this study?
+- Describe your current online communicative patterns within the family.
+- Describe your current offline communicative patterns within the family.
+- What topics do you find difficult to discuss with each other?
+- What activities do you like to do together?
+- What apps do you use to talk to each other?
+- Which family members don't have a smartphone?
+- Which family members have a smartphone?
+- Scan this QR Code to register's this phone for the private testing app.
+- Enter the Code on the mobile, on the screen, to confirm this member.
+
+
+### start the study - all
 - Which apps do you use on your phone the most?
 - Which apps do you use to talk to your friends?
 - In which app do you talk to your family?
 - What do you find difficult about the apps you now use to talk to your family?
-	- why?
+
 
 ## initial state questionnaire
 *with the goal of observing how they experience their communication patterns. How they see signing as an integration within their communication style.*
@@ -85,20 +82,32 @@ topic: A complete overview of all questions asked during the UX-study starting i
 - I feel confident talking about myself.
 - It happens often that I am receiving a text message and I have no idea what they are talking about.
 
-## start evaluation - for initiator
+
+### start evaluation - for initiator
 *with the goal of knowing how the study is going, and the use of how the tool is working. If there is any need for change or iterations that can be made now, to improve the study.*
-- How did you experience the onboarding of your family members? ///
-- How did you participated in the first assignment with your family members? ///
 - Did all of the family members create their first gesture?
-- How do you envision yourself using gestures in the future? 
-- Which family members might benefit the most from creating gestures as a form of communication? Why?
-- How do you think making gestures can of benefit to your family communication?
+- Can you see a moment in the future where you are using gestures?
+- Describe a moment in the future where you are using gestures.
+- Which family members will benefit the most from creating gestures? Why?
+- How can you family benefit from making gestures?
+
+### Make a video appointment - initiator
+- Do you experience that your family members use a form of hand gestures, while they talk?
+- Do all family members express themselves evenly with hand gestures, while talking?
+- What do you notice, when they talk with their hands?
+- Do you notice a difference in handgestures from emotional differences? For example more or less body movement when angry?
 
 -- scaffolding
 
 ## looping questions - see looping question file
 for example: 
 - when was the last time you felt angry?
+Are you ready to start the excercise?
+Select a subject
+Write a story about the subject
+Select a tag that describes your story
+Write a sentence made up of your tags. Try to make as many combinations as possible.
+Make a gesture for one or more of the tags or sentences.
 
 ## mid evaluation - for initiator
 *with the goal of knowing how the study is going, and the use of how the tool is working. If there is any need for change or iterations that can be made now, to improve the study.*
