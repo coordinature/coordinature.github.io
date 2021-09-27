@@ -1,6 +1,5 @@
 ## Family Signs Mobile App
 
---
 **Signs ux-test/ research portal onboarding**
 1. Go to test.familysigns.app > Get started button
 2. Portal is opened... Login screen
@@ -10,7 +9,6 @@
 	4b. Invite family member
 	4c. Download the app 
 
--- 
 **steps for the native app**
 5. Get started page
 6. Login page
@@ -21,7 +19,7 @@
 	8c. contacten > invite your family
 	8d. make your first sign
     
--- 
+
 **steps for the keyboard extention**
 5. Get started Page
 6. Login
