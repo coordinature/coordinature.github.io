@@ -1,12 +1,12 @@
 ## Family Signs Mobile App
 
-**Signs ux-test/ research portal onboarding**
+**Signs UX-test/ research portal onboarding**
 1. Go to test.familysigns.app > Get started button
 2. Portal is opened... Login screen
 3. Home screen
 4. tour:
 	4a. Add profile
-	4b. Invite family member
+	4b. Invite a family member
 	4c. Download the app 
 
 **steps for the native app**
@@ -16,11 +16,11 @@
 8. Home screen
 	8a. Tour
 	8b. bibliotheek
-	8c. contacten > invite your family
+	8c. contact > invite your family
 	8d. make your first sign
     
 
-**steps for the keyboard extention**
+**steps for the keyboard extension**
 5. Get started Page
 6. Login
 7. Configuration
@@ -30,31 +30,31 @@
 
 ---
 
-**copy for the reseach portal**
+**copy for the research portal**
 
 4. Home screen
 Welcome to Family Signs Research.
-Great to see you've joined the research-community!
-Together we will improve signing as a text-input for all Families.
+Great to see you've joined the research community!
+Together we will improve signing as a text input for all Families.
 
 5. tour:
 Get started with the Signs Research
-On this page you'll find the active to do list with activities.
+On this page, you'll find the active to-do list with activities.
 You currently have ... open activities.
 
 	4a. Add profile
 To get to know you better, you can fill in your profile below.
 
-	4b. Invite family member
+	4b. Invite a family member
 By clicking on the plus+ button, you'll be able to invite a family member to join the research.
 Which family member would you like to invite?
-Fill in their email adress, phone number or share the qr code link.
+Fill in their email address, phone number or share the QR code link.
 
 	4c. Download the app 
 Fill in your phone code, and download the beta Signs app.
 This will be your magic wand, in which you can start creating and saving your first Family Signs.
 
-	4d. (start the first questionair)
+	4d. (start the first questionnaire)
 	
 
 
@@ -83,7 +83,7 @@ Great that you've decided to join the Signs community!
 We'll give you a quick tour!
 <start>
 	8b. contacten > nodig familie uit
-	This is where you'll find your contacts. Let's start by inviting someone who you would like to share a special sign with.
+	This is where you'll find your contacts. Let's start by inviting someone with who you would like to share a special sign.
   
 	Invite:
 	
@@ -95,8 +95,7 @@ We'll give you a quick tour!
 	Which one would you like to try out?
 	
 	8d.bibliotheek
-	This is the library. Here you'll find all your gesture that you've created.
-	See your private ones or check out your secret Family Sign language, for all the shared gestures between you and your family.
+	This is the library. Here you'll find all the signs that you've created. See your private ones or check out your secret Family Sign language, for all the shared gestures between you and your family.
 
   
  --
@@ -108,7 +107,7 @@ Family Signs
 Try the Signs Keyboard extension
 
 2. Download App
-3. Open app
+3. Open the app
 4. Get started 
 
 Signs Keyboard
@@ -142,7 +141,7 @@ Select a Keyboard language
 
 9. done
 The Signs Keyboard is ready to sign!
-Open any app with a textfield and create your first sign-message.
+Open any app with a text field and create your first sign message.
 Everyone deserves to be understood, especially you!
 <done>
 
@@ -154,7 +153,7 @@ We'll give you a quick tour!
 <start>
 
 
-10.open your favorite app and use the keyboard 
+10. open your favorite app and use the keyboard 
 
   
 ---
@@ -168,8 +167,8 @@ We'll give you a quick tour!
 - Let your gestures do the talking
 
   
-Because of Signs keyboard I now:
+Because of the Signs keyboard I now:
 - never have to worry about being out of words
 - can send messages in the way I prefer
-- enjoy personalize writing
+- enjoy personalized writing
 
