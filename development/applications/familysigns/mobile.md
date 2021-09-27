@@ -35,7 +35,7 @@
 4. Home screen
 Welcome to Family Signs Research.
 Great to see you've joined the research-community!
-Together we will improve gesturing as a text-input for all Families.
+Together we will improve signing as a text-input for all Families.
 
 5. tour:
 Get started with the Signs Research
@@ -83,13 +83,14 @@ Great that you've decided to join the Signs community!
 We'll give you a quick tour!
 <start>
 	8b. contacten > nodig familie uit
-	This is where you'll find your contacts. Let's start by inviting someone who you would like to share a secret sign with.
+	This is where you'll find your contacts. Let's start by inviting someone who you would like to share a special sign with.
+  
 	Invite:
 	
 	8c. make your first sign
 	Making a sign is very easy. It can be done in three simple ways:
 	1. tap a sentence
-	2. create a gesture with your phone
+	2. create a sign by drawing with your phone in the sky.
 	3. make a sign with your hands
 	Which one would you like to try out?
 	
@@ -97,7 +98,8 @@ We'll give you a quick tour!
 	This is the library. Here you'll find all your gesture that you've created.
 	See your private ones or check out your secret Family Sign language, for all the shared gestures between you and your family.
 
---- 
+  
+ --
 
 **Copy for keyboard extension**
  
@@ -110,7 +112,7 @@ Try the Signs Keyboard extension
 4. Get started 
 
 Signs Keyboard
-Write with gestures in all your apps
+Write with signs in all your apps.
 <Get Started>
 
 5. login
