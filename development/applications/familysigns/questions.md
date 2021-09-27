@@ -4,11 +4,9 @@
 
 id: UX-research-complete-questions
 
-topic: A complete overview of all questions asked during the UX-study starting in September 2021.
+topic: A complete overview of all questions asked during the UX-study starting in Oktober 2021.
 
 ----------
-​
-7
 -- onboarding
 
 ### Create a new user
@@ -101,52 +99,55 @@ topic: A complete overview of all questions asked during the UX-study starting i
 
 ## looping questions - see looping question file
 for example: 
-- when was the last time you felt angry?
-Are you ready to start the excercise?
-Select a subject
-Write a story about the subject
-Select a tag that describes your story
-Write a sentence made up of your tags. Try to make as many combinations as possible.
-Make a gesture for one or more of the tags or sentences.
+_ when was the last time you felt angry?_
 
-## mid evaluation - for initiator
+- Are you ready to start the excercise?
+- Select a subject
+- Write a story about the subject
+- Select a tag that describes your story
+- Write a sentence made up of your tags. Try to make as many combinations as possible.
+- Make a gesture for one or more of the tags or sentences.
+
+## mid evaluation - all
 *with the goal of knowing how the study is going, and the use of how the tool is working. If there is any need for change or iterations that can be made now, to improve the study.*
-During the study you've gotten introduced to a new way of communicating: using a gesture to express a word or a sentence.
-- What was your favorite gesture to make?
-- In which scenario do you think would be the most beneficial to use gesturing in order generate a sentence?
-- How do you envision yourself using gestures in the future?
-- How do you think making gestures can of benefit to your family members?
-- How do you think making gestures can of benefit to your family communication?
-- Have you noticed any changes in the way your family communicates amongst themselves, online, through the app or other apps?
-- Have you noticed any changes in the way your family communicates amongst themselves, offline?
-- Have you experienced any changes in the way your family uses their hand gestures, amongst each other, when they talk to each other?
-- Can you describe a moment in which your family member used a gesture from the Signs app in an offline conversation?
-- Can you describe a moment in which you experienced a family member expressing themselves clearly, in the last few weeks?
-- Is there anything else you want us to know? open space for feedback
+What was your favorite gesture to make?
+Which gesture would you use the most?
+When is a space to busy for you?
+Do you see yourself using gestures in [this busy scenario]? Describe how you would use the gesture.
+Do you think making gestures can of benefit to your family members? List reasons
+Do you think making gestures can of benefit to your family communication? List reasons
+Do you notice any changes in the way your family communicates in apps? Desribe the changes
+Do you notice any changes in the way your family communicates in person? Describe the changes
+Do you  notice any changes in the way your family uses their hand gestures, in person? Describe the changes
+Has a family member used a gesture from the Signs app in an offline conversation? Describe the moment and the gesture.
+Is there anything else you want us to know? open space for feedback
 
 -- endgame
 
-## end state questionnaire
+### end state questionnaire
 *with the goal of observing how they experience their communication patterns, after the study. If there are any improvements and how they see signing as an integration within their communication style, after the study.*
 - Same questionnaire as the first one.
 
-## end evaluation - for initiator
+### end evaluation - all
 *with the goal of knowing how the study went, and the use of the tool went.*
-- Do you see any change in receiving messages from a family member?
-- What would you like to teach other families?
-- how do they see themselves reflected in the app?
-- Can you describe a moment where you experienced your family members being able to express more of their personality than before using the app?
-- Which recurring element has become part of their routine, life that they cannot imagine themselves without.
+- Do you see any change in receiving messages from a family member? Describe the changes - initiator
+- You have been practicing with making gestures. What was your favorite gesture to make? why?
+- Describe a moment where you used a gesture to tell someone how you felt. Who was it? How did you feel? Why?
+- Did making gestures help you express yourself better? Desribe how with an example.
+- Did making gesture help you talk to a particlar family member better? Which ones? Why?
+- Which question in the question loop did you find very easy to answer? why? Rate in difficulty.
+- Which question in the question loop did you find very difficult to answer? why? Rate in difficulty.
+- Which topic did you liked talking about the most? Select
+- Which topic did you liked talking about the least? Select
+- Do you have any gestures in common with your family members? which ones?
+- Describe a moment where you rather would use a gesture then to talk
+- Describe a moment where you would rather use a gesture then to type a text.
+- Describe a moment where you want to use your family sign language.
+- What insights would you like to share with other families from the study?
 - Is there anything else you want us to know? open space for feedback
 
-## end evaluation 
-- You have been practicing with making gestures. What was your favorite gesture to make? why?
-- In what moment did you use the gesture, to tell someone how you felt?
-- How do you think making gestures can help you express yourself better?
-- How do you think making gestures can help your family being able to talk to each other better?
-- Which question in the question loop did you find very easy to answer? why?
-- Which question in the question loop did you find very difficult to answer? why?
-- Which topic did you liked talking about the most?
-- Did you see any gestures that your other family members were making? yes? were there any gestures that you also added?
-- What would be the ideal situation you want to use your family secret sign language?
-- Is there anything else you want us to know? open space for feedback
+### end video call
+- Have you learned anything more about your family members through this study? Describe what you've learned.
+- How did you introduce the study to your family members?
+- Describe the moment when you introduced the research to your familie members
+- How did they respond?
