@@ -1,37 +1,63 @@
 ## Website
 
-<!--index page-->
+<!--index 2tangosigns page-->
 
-### Family Signs
+### 2Tango Signs
 ## Everybody deserves to be understood.
 
-Make writing easier and more exciting by using Signs. 
-Family Signs is replacing the keyboard with gesturing and signing.
-Start building your Family gestures.
-
-{Pre-order} or {enter special test-ID}
+Make communicating easier and more exciting by using Signs. 
+Family Signs is replacing the keyboard with gesturing.
+Start building your gesture library today:
 
 <image that shows gesturing in the sky>
 
----
+
+### For Yourself
+Make your first gesture
   
+#### benefits
+## lower your barrier to communicating
 
-### features
-## 1. Turn your phone into a magic wand
-Paint a sign that represents a word or sentence. What is the first word you would like to sign instead of write?
-
-## 2. Create a pre-made sentence
-In moments you feel overstimulated, overwhelmed, or are in direct need of something, it might be difficult to search for the right words. Create pre-made signs and sentences for those states and navigate easily through difficult situations.
-
-## 3 Build a gesture library
-Save your signs and create a library filled with alternative means of expressing what you need.
-
-## 4. create a shared family language
+### [For Family](familysigns.app/get-started)
+Create a shared family language
+  
+---
+#### benefits 
+  
+## Use your gestures in every day live
+When you know your gestures, you'll find yourself signing them even when your not using your phone.  
+  
+## Create a shared family language
 Share your signs within your family and get to know each other better.
 
 ##  Try it yourself!
 Scan the QR code and create a gesture for your first word.
 {try}
+
+
+{Pre-order} or {enter special test-ID}
+
+### For your Team
+Enable effective communication with your #team mates, #collegues. #De-escalation
+
+---
+  
+
+### how it works
+## 1. Turn your phone into a magic wand
+Paint a sign that represents a word or sentence. What is the first word you would like to sign instead of write?
+
+## 2. Create a gesture for your message # statements
+In moments you feel overstimulated, overwhelmed, or are in direct need of something, it might be difficult to search for the right words. Create pre-made signs and sentences for those states and navigate easily through difficult situations.
+
+## 3 Build a gesture library
+Save your signs and create a library filled with alternative means of expressing what you need.
+
+---
+### features
+- Gesture to text
+- Assistive communication
+- Sentence Suggestions
 
 
 
