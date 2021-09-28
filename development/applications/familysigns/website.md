@@ -23,16 +23,16 @@ Create a shared family language
   
 #### benefits 
   
-## Use your gestures in every day live
+##### Use your gestures in every day live
 When you know your gestures, you'll find yourself signing them even when your not using your phone.  
   
-## Create a shared family language
+##### Create a shared family language
 Share your signs within your family and get to know each other better.
   
-## Private Family Channel
+##### Private Family Channel
 Creata a safe space. Send messages in a space made only for your family members.
 
-##  Try it yourself!
+#####  Try it yourself!
 Scan the QR code and create a gesture for your first word.
 {try}
 
