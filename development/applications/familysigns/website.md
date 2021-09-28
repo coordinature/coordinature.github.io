@@ -21,7 +21,6 @@ Make your first gesture
 ### [For Family](familysigns.app/get-started)
 Create a shared family language
   
----
 #### benefits 
   
 ## Use your gestures in every day live
@@ -29,6 +28,9 @@ When you know your gestures, you'll find yourself signing them even when your no
   
 ## Create a shared family language
 Share your signs within your family and get to know each other better.
+  
+## Private Family Channel
+Creata a safe space. Send messages in a space made only for your family members.
 
 ##  Try it yourself!
 Scan the QR code and create a gesture for your first word.
@@ -45,13 +47,13 @@ Enable effective communication with your #team mates, #collegues. #De-escalation
 
 ### how it works
 ## 1. Turn your phone into a magic wand
-Paint a sign that represents a word or sentence. What is the first word you would like to sign instead of write?
+Paint a sign that represents a word or sentence. What is the first word you would like to sign?
 
 ## 2. Create a gesture for your message # statements
-In moments you feel overstimulated, overwhelmed, or are in direct need of something, it might be difficult to search for the right words. Create pre-made signs and sentences for those states and navigate easily through difficult situations.
+In moments you feel overstimulated, overwhelmed, or are in direct need of something, it might be difficult to search for the right words. Create a gesture for a sentences and navigate easily through difficult situations.
 
 ## 3 Build a gesture library
-Save your signs and create a library filled with alternative means of expressing what you need.
+Save your signs and create a library filled with different ways of expressing what you need.
 
 ---
 ### features
@@ -69,7 +71,7 @@ Save your signs and create a library filled with alternative means of expressing
 Want to build your own personal gesture library? Pre-order now for yourself, your family or donate to gift other families a Family Signs experience.
 
 #### For yourself
-Start building your gesture library and learn to express yourself in new ways.
+Express yourself in new ways. Start building your gesture library.
 €25,-
 
 #### For your Family
@@ -89,7 +91,7 @@ Choose from:
 ## Choose the package that fits you best
 support families or support yourself
 
-Early Starter, Early Adapter, Early Tester
+## Early Starter, Early Adapter, Early Tester
 
 - One year free from the point we are in the release candidate
 - Updates into how we are doing
@@ -109,6 +111,14 @@ We are currently developing Family Signs.
 
 ### About
 ## Why FamilySigns?
-
+  
+## benefits for family signs
+  
 Especially when it comes to family, you want to be heard and understand each other.
-Yet the current ways of talking to each other in the online environment are not suitable for everyone. When you don't have the words for something, or don't know how to start a sentence, the Signs assistant will be there to help you out. Use your phone to make a gesture in the sky, to send a written text message to your family to tell them how you feel, what you need, or what you are doing.
+Yet the current ways of talking to each other in the online environment are not suitable for everyone. 
+When you don't have the words for something, or don't know how to start a sentence, the Signs assistant will be there to help you out. 
+Use your phone to make a gesture in the sky, 
+  to send a written text message to your family to tell them how you feel, 
+  what you need, or what you are doing.
+
+## family signs is fun and easy for kids
