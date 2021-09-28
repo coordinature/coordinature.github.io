@@ -1,6 +1,6 @@
 ## Website
 
--- index page
+<!--index page-->
 
 ### Family Signs
 ## Everybody deserves to be understood.
@@ -36,7 +36,7 @@ Scan the QR code and create a gesture for your first word.
 
 
 
--- pre-order page
+<!-- pre-order page -->
 
 ### Pre-order
 ## Create your library of gestures
@@ -79,7 +79,7 @@ We are currently developing Family Signs.
 - March 2022 - public beta test
 
 
--- about page
+<!-- about page -->
 
 ### About
 ## Why FamilySigns?
