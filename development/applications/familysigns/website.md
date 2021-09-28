@@ -84,14 +84,14 @@ Gift other families the opportunity to start the beta version early.
 
 Choose from:
 - Early Starter
-- Early Adapter
+- Early Adopter
 - Early Supporter
 
 ### Packages
 ## Choose the package that fits you best
 support families or support yourself
 
-## Early Starter, Early Adapter, Early Tester
+## Early Starter, Early Adopter, Early Tester
 
 - One year free from the point we are in the release candidate
 - Updates into how we are doing
