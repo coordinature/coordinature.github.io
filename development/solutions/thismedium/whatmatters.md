@@ -1,3 +1,8 @@
+---
+marp: true
+---
+
+
 ## MatterMore-Thismedium
 
 - keep track of your data.
@@ -7,7 +12,7 @@ Link your platform and see an overview of your information.
 - See insights in your data.
 Learn from your own data, by retrieving insights.
 
-![Alt text](https://www.seekpng.com/png/detail/11-117283_chat-bubble-png-transparent-image-white-chat-bubble.png "chatbubble")
+![Alt text](./images/matcap2tang1.jpg "chatbubble")
 
 ---
 
