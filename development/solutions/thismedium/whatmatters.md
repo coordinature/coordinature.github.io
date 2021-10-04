@@ -7,6 +7,10 @@ Link your platform and see an overview of your information.
 - See insights in your data.
 Learn from your own data, by retrieving insights.
 
+![Alt text](https://www.seekpng.com/png/detail/11-117283_chat-bubble-png-transparent-image-white-chat-bubble.png "chatbubble")
+
+---
+
 1. **create** stories that truly matter to you. (studio)
 2. Compare and contrast your story with others across the globe.
 3. **Connect** your data from other platforms and receive and overview of all information collected about you. (portfolio)
@@ -17,6 +21,7 @@ Learn from your own data, by retrieving insights.
 Companies have been learning from our activities and were able to target us better. 
 It's time that we use our data, for our own benefits. Link your favorite platforms, get an overview of all your data per platform, create insights that you can use to improve your online presence.
 
+---
 
 ## Persona's reviews:
 - **the creative writer** "As a creative, I always use thismedium to practise my pitches. By using the Connect feature, I can emediatly see which stories best connect to a target audience."
@@ -29,6 +34,7 @@ It's time that we use our data, for our own benefits. Link your favorite platfor
 
 -  **the researcher** "I regulary conduct studies and finding honest answers is always difficult. But now I can reach a more diverse audience, and share my knowledge and insights with them as well in a safe and secure way."
 
+---
 
 ## Competitors
 - U. 
@@ -37,4 +43,4 @@ It's time that we use our data, for our own benefits. Link your favorite platfor
     
 ## business oportunities
 - By users linking their social media profile, organising and adding additional information about themselves, they could potentially show this data back to this original platform. (for example: user links their spotify account, adds additional information to their profile from other social media, allows spotify to receive this insights and gets discount on their monthly spotify fee or receives cashback. )
-- We have a two sighted platform, btob and btoc. By being of benefit of the users and 
+- We have a two sighted platform, btob and btoc. By being of benefit of the users and
