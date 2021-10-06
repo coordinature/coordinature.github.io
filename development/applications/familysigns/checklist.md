@@ -31,7 +31,7 @@
 	2. [ ] copy
 	3. [ ] link to "get started"
 	
-## Research portal
+### Research portal
 1. [x] research portal flow screens/steps
 2. [ ] design portal
 3. [ ] copy onboarding
