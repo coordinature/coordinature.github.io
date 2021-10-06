@@ -24,7 +24,7 @@ topic: A complete overview of all questions asked during the UX-study starting i
 - Select your relationship to this Contact
 	- Parent
     - Child
-    - Subling
+    - Sibling
      + _Add another option_
 - Select the contacts that live in your household.
 
