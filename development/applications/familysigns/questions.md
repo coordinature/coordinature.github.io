@@ -19,8 +19,15 @@ topic: A complete overview of all questions asked during the UX-study starting i
 - Select the type of group.
 - Add a contact to this group.
 - Select your relationship to this Contact
-- Select the contacts that live in your household?
+- Select the contacts that live in your household.
 
+### Fill in your profile
+- What name would you like to display to others?
+- Which languages do you speak?
+	- Nederlands
+    - EnglishS
+- Do you communicate with ign language?
+- Which one?
 
 ### Start the study - initiator
 - Why did you join this study?
@@ -87,7 +94,7 @@ topic: A complete overview of all questions asked during the UX-study starting i
 - Can you see a moment in the future where you are using gestures?
 - Describe a moment in the future where you are using gestures.
 - Which family members will benefit the most from creating gestures? Why?
-- How can you family benefit from making gestures?
+- How can your family benefit from making gestures?
 
 ### Make a video appointment - initiator
 - Do you experience that your family members use a form of hand gestures, while they talk?
