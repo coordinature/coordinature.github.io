@@ -25,7 +25,7 @@
 ### Familysigns.app
 1. [x] design
 2. [x] illustration
-3. [x] copy
+3. [ ] copy
 4. [ ] test.familysigns.app
 	1. [ ] design
 	2. [ ] copy
