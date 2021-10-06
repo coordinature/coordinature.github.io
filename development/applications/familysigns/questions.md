@@ -14,8 +14,8 @@ register
 2. What is your last name?
 3. What is your date of birth?
 4. How can we contact you about your account?
-	4.1 What is your phone number?
-	4.2 What is your email address?
+	1. What is your phone number?
+	2. What is your email address?
 
 ---
 onboarding.personal
