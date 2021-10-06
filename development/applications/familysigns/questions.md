@@ -9,7 +9,7 @@ topic: A complete overview of all questions asked during the UX-study starting i
 ----------
 -- onboarding
 
-### Create a new user account
+### Register a new user account
 - What is your first name? 
 - What is your last name?
 - What is your date of birth?
