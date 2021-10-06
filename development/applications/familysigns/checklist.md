@@ -15,9 +15,6 @@ MVP research:
 ---
 
 
-### Applications
-- [ ] What about client id's? related to auth security & login.
-
 ### Research
 ## 2Tangosigns
 1. [x] design
@@ -25,7 +22,7 @@ MVP research:
 3. [x] copy
 4. [ ] get started button linked to [familysigns.app]
 
-## familysigns.app
+## Familysigns.app
 1. [x] design
 2. [x] illustration
 3. [x] copy
@@ -34,7 +31,7 @@ MVP research:
 	2. [ ] copy
 	3. [ ] link to "get started"
 	
-## research portal
+## Research portal
 1. [x] research portal flow screens/steps
 2. [ ] design portal
 3. [ ] copy onboarding
@@ -54,7 +51,7 @@ MVP research:
 3. [ ] visuals onboarding
 	1. [ ] get started : how to use the phone as a wand
 
-## communication
+## Communication
 1. [ ] email copy
 	1. [ ] a week before + get phone info
 	2. [ ] the day of
@@ -63,6 +60,9 @@ MVP research:
 4. [ ] official research planning
 5. [ ] video script
 
-## legal
+## Legal
 6. [ ] general terms
 7. [ ] data processor agreement
+
+## Applications
+- [ ] What about client id's? related to auth security & login.
