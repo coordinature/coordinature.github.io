@@ -1,6 +1,6 @@
 ## Checklist
 
-MVP research:
+### MVP research:
 1. [ ] Family Signs.app > Login to Signs Home. (Alpha research)
 2. [ ] Fill in your profile.
 3. [ ] Invite your family members to your family group. (See them displayed in your list)
@@ -15,14 +15,14 @@ MVP research:
 ---
 
 
-### Research
-## 2Tangosigns
+## Research
+### 2Tangosigns
 1. [x] design
 2. [x] illustration
 3. [x] copy
 4. [ ] get started button linked to [familysigns.app]
 
-## Familysigns.app
+### Familysigns.app
 1. [x] design
 2. [x] illustration
 3. [x] copy
@@ -45,13 +45,13 @@ MVP research:
 5. [ ] questionnaires copy
 6. [ ] questionloop copy
 
-## Native signs app
+### Native signs app
 1. [x] onboardings flow screens/steps
 2. [ ] copy onboarding
 3. [ ] visuals onboarding
 	1. [ ] get started : how to use the phone as a wand
 
-## Communication
+### Communication
 1. [ ] email copy
 	1. [ ] a week before + get phone info
 	2. [ ] the day of
@@ -60,9 +60,9 @@ MVP research:
 4. [ ] official research planning
 5. [ ] video script
 
-## Legal
+### Legal
 6. [ ] general terms
 7. [ ] data processor agreement
 
-## Applications
+### Applications
 - [ ] What about client id's? related to auth security & login.
