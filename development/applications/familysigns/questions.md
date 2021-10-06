@@ -22,18 +22,23 @@ onboarding.personal
 
 ### Create your personal profile
 1. What name would you like to display to others?
-2. Which languages do you speak? _Add/Select the languages you speak and sort them by preference._
+2. Which languages do you speak?
+
+	_Add/Select the languages you speak and sort them by preference._
 	- [x] Nederlands
     - [x] English
     + _Add another language from our languages_
     
-3. Do you communicate with Sign Language? _Add/Select the languages you speak and sort them by preference._
+3. Do you communicate with Sign Language? 
+	
+    _Add/Select the languages you speak and sort them by preference._
 	- [x] American Sign Language
 	- [x] Dutch Sign Language
 	+ _Add another sign language option from our languages_
 
 4. Which devices will you be using for Signs?
-	+ _Add a new device to your profile_
+
+	_Add a new device to your profile_
 
 ---
 onboarding.group
