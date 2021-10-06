@@ -25,12 +25,15 @@ onboarding.personal
 2. Which languages do you speak? _Add/Select the languages you speak and sort them by preference._
 	- [x] Nederlands
     - [x] English
-    + _Add another language option_
+    + _Add another language from our languages_
     
 3. Do you communicate with Sign Language? _Add/Select the languages you speak and sort them by preference._
-	- [x] ASL
+	- [x] American Sign Language
 	- [x] Dutch Sign Language
-	+ _Add another sign language option_
+	+ _Add another sign language option from our languages_
+
+4. Which devices will you be using for Signs?
+	+ _Add a new device to your profile_
 
 ---
 onboarding.group
@@ -38,9 +41,8 @@ onboarding.group
 ### Create a new group
 1. What name would you like to display to others?
 2. Who are you making this group for?
-    - Myself
-    - My family
-    - My team
+    - [x] My family
+    - [ ] My team
     + _Add another group type_
  
 3. Add a contact to this group.
