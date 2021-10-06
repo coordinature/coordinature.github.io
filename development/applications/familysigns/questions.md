@@ -14,20 +14,31 @@ topic: A complete overview of all questions asked during the UX-study starting i
 - What is your last name?
 - What is your date of birth?
 
-
 ### Create a new group
-- Select the type of group.
+- Who are you making this group for?
+	- Select the type of group.
+    	- Myself
+        - My family
+        - My team
 - Add a contact to this group.
 - Select your relationship to this Contact
+	- Parent
+    - Child
+    - Subling
+     + _Add another option_
 - Select the contacts that live in your household.
 
 ### Fill in your profile
 - What name would you like to display to others?
 - Which languages do you speak?
 	- Nederlands
-    - EnglishS
-- Do you communicate with ign language?
-- Which one?
+    - English
+    + _Add another option_
+    
+- Do you communicate with Sign Language? if so, which one:
+	- ASL
+	- Dutch Sign Language
+	+ _Add another option_
 
 ### Start the study - initiator
 - Why did you join this study?
