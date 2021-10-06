@@ -10,16 +10,21 @@ topic: A complete overview of all questions asked during the UX-study starting i
 -- onboarding
 
 ### Register a new user account
-- What is your first name? 
-- What is your last name?
-- What is your date of birth?
+1. What is your first name? 
+2. What is your last name?
+3. What is your date of birth?
 
-### Create a your profile
-- What name would you like to display to others?
-- Which languages do you speak?
-	- Nederlands
-    - English
+### Create your personal profile
+1. What name would you like to display to others?
+2. Which languages do you speak?
+	* Nederlands
+    * English
     + _Add another option_
+    
+* Do you communicate with Sign Language? if so, which one:
+	- ASL
+	- Dutch Sign Language
+	+ _Add another option_
     
 ### Create a new group
 - Who are you making this group for?
@@ -27,6 +32,7 @@ topic: A complete overview of all questions asked during the UX-study starting i
     - My family
     - My team
     + _Add another group type_
+    
 - Add a contact to this group.
 - Select your relationship to this Contact
 	- Parent
@@ -34,11 +40,6 @@ topic: A complete overview of all questions asked during the UX-study starting i
     - Sibling
      + _Add another option_
 - Select the contacts that live in your household.
-    
-- Do you communicate with Sign Language? if so, which one:
-	- ASL
-	- Dutch Sign Language
-	+ _Add another option_
 
 ### Start the study - initiator
 - Why did you join this study?
