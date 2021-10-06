@@ -5,8 +5,6 @@
 
 ### Research
 
-# signs research checklist
-
 ## familysigns.app
 [ ] design
 [ ] copy
