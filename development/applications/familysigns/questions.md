@@ -6,13 +6,19 @@ id: UX-research-complete-questions
 
 topic: A complete overview of all questions asked during the UX-study starting in Oktober 2021.
 
-----------
--- onboarding
+---
+register
 
 ### Register a new user account
 1. What is your first name? 
 2. What is your last name?
 3. What is your date of birth?
+4. How can we contact you about your account?
+	4.1 What is your phone number?
+	4.2 What is your email address?
+
+---
+onboarding.personal
 
 ### Create your personal profile
 1. What name would you like to display to others?
@@ -25,16 +31,20 @@ topic: A complete overview of all questions asked during the UX-study starting i
 	- [x] ASL
 	- [x] Dutch Sign Language
 	+ _Add another sign language option_
-    
+
+---
+onboarding.group
+
 ### Create a new group
-- Who are you making this group for?
+1. What name would you like to display to others?
+2. Who are you making this group for?
     - Myself
     - My family
     - My team
     + _Add another group type_
-    
-- Add a contact to this group.
-- Select your relationship to this Contact
+ 
+3. Add a contact to this group.
+4. Select your relationship to this Contact
 	- Parent
     - Child
     - Sibling
