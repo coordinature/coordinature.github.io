@@ -16,15 +16,15 @@ topic: A complete overview of all questions asked during the UX-study starting i
 
 ### Create your personal profile
 1. What name would you like to display to others?
-2. Which languages do you speak?
-	* Nederlands
-    * English
-    + _Add another option_
+2. Which languages do you speak? _Add/Select the languages you speak and sort them by preference._
+	- [x] Nederlands
+    - [x] English
+    + _Add another language option_
     
-* Do you communicate with Sign Language? if so, which one:
-	- ASL
-	- Dutch Sign Language
-	+ _Add another option_
+3. Do you communicate with Sign Language? _Add/Select the languages you speak and sort them by preference._
+	- [x] ASL
+	- [x] Dutch Sign Language
+	+ _Add another sign language option_
     
 ### Create a new group
 - Who are you making this group for?
