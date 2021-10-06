@@ -38,7 +38,7 @@ onboarding.personal
 
 4. Which devices will you be using for Signs?
 
-	_Add a new device to your profile_
+	- _Add a new device to your profile_
 
 ---
 onboarding.group
