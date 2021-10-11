@@ -5,8 +5,7 @@ Op het gebruik van deze website (2tangosigns.com & 2tango.org) zijn onderstaande
 ### Gebruik van informatie
 2Tango B.V. streeft ernaar op deze website altijd juiste en actuele informatie aan te bieden. Hoewel deze informatie met de grootst mogelijke zorgvuldigheid is samengesteld, staat 2Tango B.V. niet in voor de volledigheid, juistheid of actualiteit van de informatie.
 
-Aan de informatie kunnen geen rechten worden ontleend. 2Tango B.V. aanvaardt geen aansprakelijkheid voor schade die voortvloeit uit het gebruik van de informatie of de website en evenmin voor het niet goed 
-functioneren van de website.
+Aan de informatie kunnen geen rechten worden ontleend. 2Tango B.V. aanvaardt geen aansprakelijkheid voor schade die voortvloeit uit het gebruik van de informatie of de website en evenmin voor het niet goed functioneren van de website.
 
 Op basis van het verzenden en ontvangen van informatie via de website of via e-mail kan niet zonder meer een relatie tussen 2Tango B.V. en de gebruiker van de website ontstaan.
 
