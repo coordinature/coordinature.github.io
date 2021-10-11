@@ -33,7 +33,10 @@ onboarding.personal
 	
     - _Add/Select the languages you speak and sort them by preference._
 		- [x] American Sign Language
-		- [x] Dutch Sign Language
+		- [x] NGT Nederlandse Gebaren Taal
+        - [ ] Makaton
+        - [ ] British Sign Language
+        - [ ] International Sign Language
 		+ _Add another sign language option from our languages_
 
 4. Which devices will you be using for Signs?
@@ -52,7 +55,7 @@ onboarding.group
  
 3. Add a contact to this group.
 4. Select your relationship to this Contact
-	- Parent
+	- Parent / guardian
     - Child
     - Sibling
      + _Add another option_
@@ -60,9 +63,13 @@ onboarding.group
 
 ### Start the study - initiator
 - Why did you join this study?
+	- I want to express myself better.
+    - I want my family to express themselves better.
+    - I want to support the research towards inclusive communication.
+    - I want to improve my communication at work.
+    - other
 - What would you like to take away from this study?
-- Describe your current online communicative patterns within the family.
-- Describe your current offline communicative patterns within the family.
+
 - What topics do you find difficult to discuss with each other?
 - What activities do you like to do together?
 - What apps do you use to talk to each other?
@@ -73,55 +80,75 @@ onboarding.group
 
 
 ### start the study - all
+- What topics do you find difficult to discuss with each other?
+- What activities do you like to do together?
+- How would you tell your parents when you are having a difficult time?
+- If you can't talk, what other ways would you chose to express your feelings: *select as many as you want*
+	- dancing
+    - drawing
+    - sounds
+    - facial expressions
+    - hand gestures
+    - other
+- I feel safe talking about...
+- I feel uncomfortable talking about..
+
 - Which apps do you use on your phone the most?
 - Which apps do you use to talk to your friends?
 - In which app do you talk to your family?
 - What do you find difficult about the apps you now use to talk to your family?
+	- Group messaging
+    - Responding
+    - Notifications
+    - Emoticons & Gifs
+    - Easy in use/ to operate
 
 
-## initial state questionnaire
+## initial state questionnaire - all
 *with the goal of observing how they experience their communication patterns. How they see signing as an integration within their communication style.*
 - Rate with each sentence how much this applies to you:
-- 	a. not at all applicable
-	b. a little bit applicable
+- 	a. stronly disagree
+	b. disagree
 	c. neutral 
-	d. applicable
-	e. extremely applicable
+	d. agree
+	e. strongly agree
 
 - I easily express my emotions.
-- I find it hard to express my emotions
-- I often have difficulties expressing my feelings
+- I find it hard to express my feelings
 - I can easily talk about the things I need
 - I find it hard to tell someone what I need
 - I naturally use a lot of hand gestures when I speak
-- I use a specific sign language to communicate
-- I communicate verbally more easily than through text
-- The most difficult thing about sending a text message is, to start a sentence.
-- Whenever I receive a chat message, I take a long time to respond back.
-- I immediately respond back, whenever I receive a chat message.
-- I never know the right words to use.
+- I move a lot when I talk
+- I prefer talking about my feeling than writing about them.
+- I prefer writing what I need than telling someone what I need.
+- I would rather write about what I am doing than tell someone about what I am doing.
+- I find it easy to draw my feelings.
+- The most difficult thing about sending a text message is to start a sentence.
+- Whenever I receive a notification, I take a long time to reply.
+- I immediately reply, whenever I receive a notification.
+- I struggle to find the right words to use.
 - My vocabulary is very limited.
-- I get anxious using the groups chats.
-- I really love using groups chats to communicate.
-- I think groups chats are very unclear.
+- I get overwhelmed using groups chats.
+- I get nervous replying in groups chats.
+- I like using groups chats to communicate.
+- I think groups chats are unclear.
 - My personality does not come across when I send a text.
 - I can express myself well, through sending text messages.
-- I feel safe talking to my family
+- I feel safe talking to my family.
 - I feel distance from my family.
 - I feel strongly connected to my family.
 - I often feel alone.
 - I feel a lot of love.
-- I often have miscommunication with my family.
+- I feel like my family don't understand me.
 - Most of the time, my family understands what I am trying to say.
-- I feel confident talking about myself.
 - It happens often that I am receiving a text message and I have no idea what they are talking about.
+- I struggle to understand what people are talking about.
 
 
 ### start evaluation - for initiator
 *with the goal of knowing how the study is going, and the use of how the tool is working. If there is any need for change or iterations that can be made now, to improve the study.*
 - Did all of the family members create their first gesture?
-- Can you see a moment in the future where you are using gestures?
-- Describe a moment in the future where you are using gestures.
+- Can you see a moment in the future where using this type of gesturing is useful? Describe a moment in the future where you are using gestures.
 - Which family members will benefit the most from creating gestures? Why?
 - How can your family benefit from making gestures?
 
@@ -129,7 +156,12 @@ onboarding.group
 - Do you experience that your family members use a form of hand gestures, while they talk?
 - Do all family members express themselves evenly with hand gestures, while talking?
 - What do you notice, when they talk with their hands?
-- Do you notice a difference in handgestures from emotional differences? For example more or less body movement when angry?
+- How does the use of handgestures differ during different emotions?
+- What is the most popular types of gesture in your family?
+- Family Dynamic: What problems do you experience due to poor family communication? What would you like to improve on?
+- How do you think that using Signs can change this?
+-> Going through the demo togheter, asking to talk out loud.
+-> discussing any difficulties or questions.
 
 -- scaffolding
 
@@ -141,21 +173,24 @@ _ when was the last time you felt angry?_
 - Select a subject
 - Write a story about the subject
 - Select a tag that describes your story
-- Write a sentence made up of your tags. Try to make as many combinations as possible.
+- Write a sentence made up of your tags. Try to make at least three combinations or as many as you like. It can be about anything.
 - Make a gesture for one or more of the tags or sentences.
+	- Select a tag to create a gesture for this.
+    - What gesture would you make for this word?
+    - Would you like to save this into your library?
+    
+ Rate in difficulty.
 
 ## mid evaluation - all
 *with the goal of knowing how the study is going, and the use of how the tool is working. If there is any need for change or iterations that can be made now, to improve the study.*
 What was your favorite gesture to make?
 Which gesture would you use the most?
-When is a space to busy for you?
-Do you see yourself using gestures in [this busy scenario]? Describe how you would use the gesture.
-Do you think making gestures can of benefit to your family members? List reasons
-Do you think making gestures can of benefit to your family communication? List reasons
-Do you notice any changes in the way your family communicates in apps? Desribe the changes
-Do you notice any changes in the way your family communicates in person? Describe the changes
-Do you  notice any changes in the way your family uses their hand gestures, in person? Describe the changes
-Has a family member used a gesture from the Signs app in an offline conversation? Describe the moment and the gesture.
+In what places do you feel overwhelmed?
+Describe how you would use the gesture in [this busy place].
+How do you think making gestures can help your family talk to each other? List reasons why
+Do you notice anything different about the way your family talks to each other at home, since the moment you've started the study? Describe the changes
+Do you notice anything different about the way your family talks to each other online, since the moment you've started the study? Describe the changes 
+Has a family member used a gesture from the Signs app during a face to face conversation? Describe the moment and the gesture.
 Is there anything else you want us to know? open space for feedback
 
 -- endgame
@@ -166,24 +201,25 @@ Is there anything else you want us to know? open space for feedback
 
 ### end evaluation - all
 *with the goal of knowing how the study went, and the use of the tool went.*
-- Do you see any change in receiving messages from a family member? Describe the changes - initiator
+- Do you notice anything different about the way your family talks to each other at home, since the moment you've started the study? Describe the changes
+- Do you notice anything different about the way your family talks to each other online, since the moment you've started the study? Describe the changes 
 - You have been practicing with making gestures. What was your favorite gesture to make? why?
 - Describe a moment where you used a gesture to tell someone how you felt. Who was it? How did you feel? Why?
-- Did making gestures help you express yourself better? Desribe how with an example.
-- Did making gesture help you talk to a particlar family member better? Which ones? Why?
-- Which question in the question loop did you find very easy to answer? why? Rate in difficulty.
-- Which question in the question loop did you find very difficult to answer? why? Rate in difficulty.
-- Which topic did you liked talking about the most? Select
-- Which topic did you liked talking about the least? Select
-- Do you have any gestures in common with your family members? which ones?
-- Describe a moment where you rather would use a gesture then to talk
-- Describe a moment where you would rather use a gesture then to type a text.
-- Describe a moment where you want to use your family sign language.
-- What insights would you like to share with other families from the study?
+- Describe a moment where you rather would use a gesture than to talk.
+- Describe a moment where you would rather use a gesture than to type a text.
+- Who would you want to share a sign with, other than your family? Why?
+- Would you like to be in contact with other families, just like yours? Through a family signs network.
+- Would you reconmend this to other families? Why?
 - Is there anything else you want us to know? open space for feedback
 
+- Do you want to save your library? Or delete it forever?
+
 ### end video call
-- Have you learned anything more about your family members through this study? Describe what you've learned.
-- How did you introduce the study to your family members?
-- Describe the moment when you introduced the research to your familie members
+- Have you learned anything new about your family members throughout this study? Describe what you've learned.
+- epxressing themselves through gestures.
 - How did they respond?
+- What advice would you like to share with other families just starting the study?
+- How did you experience this study, overall? What was difficult what was easy?
+- What was difficult about making a gesture?
+- What did you enjoy about making a gesture?
+- open feedback
