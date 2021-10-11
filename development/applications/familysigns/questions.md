@@ -80,18 +80,15 @@ onboarding.group
 
 
 ### start the study - all
-- What topics do you find difficult to discuss with each other?
-- What activities do you like to do together?
-- How would you tell your parents when you are having a difficult time?
-- If you can't talk, what other ways would you chose to express your feelings: *select as many as you want*
+- What activities do you like to do with your family?
+- If you lived in a world where no one could talk, in what ways would you choose to express your feelings: *select as many as you want*
 	- dancing
     - drawing
     - sounds
     - facial expressions
     - hand gestures
     - other
-- I feel safe talking about...
-- I feel uncomfortable talking about..
+- What topics do you want to talk to your family about, but find difficult to do so? (For example: I would like to talk to my family more often about how I am feeling, but I find that difficult)
 
 - Which apps do you use on your phone the most?
 - Which apps do you use to talk to your friends?
