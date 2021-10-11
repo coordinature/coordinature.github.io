@@ -12,15 +12,20 @@ Considerations:
 A data breach occurs when there is a breach of security that accidentally or unlawfully leads to the destruction, loss, alteration or the unauthorized disclosure of or access to data transmitted, stored or otherwise processed.
 
 ### 2 - Internal responsible person reporting data leaks
-2Tango B.V. has appointed an internal data breach controller who is responsible for reporting a data breach.
-This person in charge is: Tjerk Feitsma, telephone number: +31614034299; e-mail address: tjerk@2tango.org , hereinafter referred to as: 'internal responsible'.
+1. 2Tango B.V. has appointed an internal data breach controller who is responsible for reporting a data breach.
+
+2. This person in charge is: Tjerk Feitsma, telephone number: +31614034299; e-mail address: tjerk@2tango.org , hereinafter referred to as: 'internal responsible'.
 
 ### 3 - Internal notification when a data breach is discovered
-The person who has a data breach at 2Tango B.V. discovered, immediately report this to the internal manager.
-If possible, the person who discovered the data breach simultaneously ensures that the leaked data is immediately erased remotely or made inaccessible.
+1. The person who has a data breach at 2Tango B.V. discovered, immediately report this to the internal manager.
+
+2. If possible, the person who discovered the data breach simultaneously ensures that the leaked data is immediately erased remotely or made inaccessible.
 
 ### 4 - Investigation by the internal manager
-The internal controller investigates, among other things: whether personal data has been lost or can be used unlawfully, who or which departments within the organization are involved in the data breach, whether a processor is involved in the incident
+The internal controller investigates, among other things: 
+- Whether personal data has been lost or can be used unlawfully, 
+- who or which departments within the organization are involved in the data breach, 
+- whether a processor is involved in the incident
 
 ### 5 - Combating data breach
 The internal controller will stop the data breach if this is still possible and will also take the necessary measures to combat the data breach as effectively as possible.
