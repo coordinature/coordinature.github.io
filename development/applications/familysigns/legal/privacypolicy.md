@@ -51,3 +51,64 @@ seek.
 
 4. The personal data that are collected on the website are used mainly by the collector in order to maintain a (commercial) relationship with you and if applicable in order to process your orders. They are recorded in an (electronic) register.
 
+### Article 7 - Your rights regarding information
+
+1. Pursuant to Article 13 paragraph 2 sub b GDPR each data subject has the right to information on and access to, and rectification, erasure and restriction of processing of his personal data, as well as the right to object to the processing and the right to data portability.
+
+2. You can exercise these rights by contacting us at info@2tango.org.
+3. Each request must be accompanied by a copy of a valid ID, on which you put your signature and state the address where we can contact you.
+
+4. Within one month of the submitted request, you will receive an answer from us.
+
+5. Depending on the complexity and the number of the requests this period may be extended to two months.
+
+### Article 8 - Legal obligations
+
+1. In case of infringement of any law or regulation, of which a visitor is suspected and for which the authorities require the personal data collected by the collector, they will be provided to them after an explicit and reasoned request of those authorities, after which these personal data do not fall anymore under the protection of the provisions of this Privacy policy.
+
+2. If any information is necessary in order to obtain access to certain features of the website, the controller will indicate the mandatory nature of this information when requesting these data.
+
+### Article 9 - Collected data and commercial offers
+1. You may receive commercial offers from the collector. If you do not wish to receive them (anymore), please send us an email to the following address: info@2tango.org.
+
+2. Your personal data will not be used by our partners for commercial purposes. 
+
+3. If you encounter any personal data from other data subjects while visiting our website, you are to refrain from collection, any unauthorized use or any other act that constitutes an infringement of the privacy of the data subject(s) in question. The collector is not responsible in these circumstances.
+
+### Article 10 – Collected data 
+2Tango does nog distribute collected data to third parties, unless:
+- They are tasked by 2Tango for a specific task to support our services, product improvement or userexperience. 
+
+- Data is used for scientific or practical research, that is ordered by, in partnership with, or agreed to by, the 2Tango organization. 
+
+- We are by dutch laws and regulations required to do so by the government
+When a third party has access to data, 2Tango makes agreements with that party to safeguard privacy regulations, and agreenment that the use of data is purposebound: the data can only be used for the narrow & intended goal of the research, and the third party has regulations in place to safeguard the privacy of the users. 
+
+### Article 11 - Data retention
+The collected data are used and retained for the duration determined by law.
+
+### Article 12 - Cookies
+1. A cookie is a small text file placed on the hard drive of your electronic device upon visiting our website. A cookie contains data so you can be recognized as a visitor when you are visiting our website. It enables us to adjust to your needs and it facilitates you to log in on our website. When you 
+visit our website, we inform you about the use of cookies. By continuing to use our website you accept its use, unless we ask permission by other means. Your consent is valid for a period of thirteen months.
+
+2. We use the following types of cookies on our website:
+- Functional cookies: like session and login cookies to collect session and login information. 
+- Anonymised Analytic cookies: to obtain information regarding the visits to our website, like numbers of visitors, popular pages and topics. In this way we can adjust our communication and information to the needs of our visitors. We cannot see who visits our sites or from which personal device the visit has 
+taken place.
+
+3. Specifically, we use the following cookies on our website:
+No other cookies
+
+4. When you visit our website, cookies from the controller and / or third parties may be installed on your equipment.
+
+5. For more information about using, managing and deleting cookies for each electronic device, we invite you to consult the following 
+link: https://autoriteitpersoonsgegevens.nl/nl/onderwerpen/internet-telefoon-tv-en-post / cookies # faq
+
+### Article 13 - Imagery and products offered
+You cannot derive any rights from the imagery that accompanies any offered product on our website.
+
+### Article 14 - Applicable Law
+These conditions are governed by Dutch law. The court in the district where the collector has its place of business has the sole jurisdiction if any dispute regarding these conditions may arise, save when a legal exception applies.
+
+### Article 15 - Contact
+For questions, product information or information about the website itself, please contact: Tjerk Feitsma, info@2tango.org, +31614034299 
