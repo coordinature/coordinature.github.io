@@ -1,6 +1,5 @@
 ## Disclaimer
 
-## DISCLAIMER
 
 The following terms of use apply to the use of this website (2tangosigns.com & 2tango.org). By using this website, you are deemed to have read and accepted the terms of use.
 
