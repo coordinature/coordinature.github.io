@@ -54,4 +54,5 @@ We will have to adjust these statements from time to time, for example when we a
 
 
 If you have any questions or comments, please contact info@2tango.org.
-12 februari 2021
+
+last updated: 12 oktober 2021
