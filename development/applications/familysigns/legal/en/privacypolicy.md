@@ -8,6 +8,8 @@ Until you accept the use of cookies and other tracking devices, we will not plac
 
 The current available version of this privacy policy is the only version that applies while visiting our website and/or app until a new version replaces the current version.
 
+	- waarom is deze website/app er. hiervoor geld de volgende privacy statement:
+
 ### Article 1 - Definitions
 1. Website (hereinafter: "Website") 2tangosigns.com, 2tango.org, familysigns.app.
 2. Party responsible for processing personal data (hereinafter: "the controller"): 2Tango B.V., established at Tiengemeten 131, 1181 CS Amstelveen, The Netherlands, Chamber of Commerce number: 70709661 .
@@ -47,19 +49,27 @@ seek.
 2. Personal data means any information relating to an identified or identifiable natural person (‘data subject’).
 
 3. An identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person.
+	- de vraag is of deze definitie erin hoeft.
 
 4. The personal data that are collected on the website and/or app are used mainly by the collector in order to maintain a (commercial) relationship with you and if applicable in order to process your orders. They are recorded in an (electronic) register.
+
+	- hier kunnen we die 'list of tracking' toevoegen.
+    - stukje herschrijven en aanvullen met onze eigen informatie.
+    - het document is beschrijvend: beste klant, zo gebruiken we jouw gegevens.
 
 ### Article 7 - Your rights regarding information
 
 1. Pursuant to Article 13 paragraph 2 sub b GDPR each data subject has the right to information on and access to, and rectification, erasure and restriction of processing of his personal data, as well as the right to object to the processing and the right to data portability.
 
 2. You can exercise these rights by contacting us at info@2tango.org.
+
 3. Each request must be accompanied by a copy of a valid ID, on which you put your signature and state the address where we can contact you.
 
 4. Within one month of the submitted request, you will receive an answer from us.
 
 5. Depending on the complexity and the number of the requests this period may be extended to two months.
+
+	- kijk even hoe kpn dat heeft gedaan. verwijzingen zijn niet nodig. Zo min mogelijk juridisch maken en zo begrijpelijk mogelijk.
 
 ### Article 8 - Legal obligations
 
@@ -67,12 +77,17 @@ seek.
 
 2. If any information is necessary in order to obtain access to certain features of the website, the controller will indicate the mandatory nature of this information when requesting these data.
 
+	- dit gedeelte bij algemene voorwaarden.
+
 ### Article 9 - Collected data and commercial offers
 1. You may receive commercial offers from the collector. If you do not wish to receive them (anymore), please send us an email to the following address: info@2tango.org.
 
 2. Your personal data will not be used by our partners for commercial purposes. 
 
 3. If you encounter any personal data from other data subjects while visiting our website, you are to refrain from collection, any unauthorized use or any other act that constitutes an infringement of the privacy of the data subject(s) in question. The collector is not responsible in these circumstances.
+
+	- mensen moeten zich kunnen uitschrijven. Een lijst hebben: mag je commercieel mogen benaderen. 
+    - als ze zich uitschrijven mag je ze alleen als service bericht benaderen. kunnen ze zich niet voor uitschrijven.
 
 ### Article 10 – Collected data 
 2Tango does nog distribute collected data to third parties, unless:
@@ -83,30 +98,21 @@ seek.
 - We are by dutch laws and regulations required to do so by the government
 When a third party has access to data, 2Tango makes agreements with that party to safeguard privacy regulations, and agreenment that the use of data is purposebound: the data can only be used for the narrow & intended goal of the research, and the third party has regulations in place to safeguard the privacy of the users. 
 
+
 ### Article 11 - Data retention
 The collected data are used and retained for the duration determined by law.
-
-### Article 12 - Cookies
-1. A cookie is a small text file placed on the hard drive of your electronic device upon visiting our website. A cookie contains data so you can be recognized as a visitor when you are visiting our website. It enables us to adjust to your needs and it facilitates you to log in on our website. When you 
-visit our website, we inform you about the use of cookies. By continuing to use our website you accept its use, unless we ask permission by other means. Your consent is valid for a period of thirteen months.
-
-2. We use the following types of cookies on our website:
-- Functional cookies: like session and login cookies to collect session and login information. 
-- Anonymised Analytic cookies: to obtain information regarding the visits to our website, like numbers of visitors, popular pages and topics. In this way we can adjust our communication and information to the needs of our visitors. We cannot see who visits our sites or from which personal device the visit has 
-taken place.
-- Analytic Cookie: for example the specific page you've viewed.
-- Site improvement cookie: allowing us to test different versions of the site.
-
-3. When you visit our website and/or app, cookies from the controller and / or third parties may be installed on your equipment.
-
-4. For more information about using, managing and deleting cookies for each electronic device, we invite you to consult the following 
-link: https://autoriteitpersoonsgegevens.nl/nl/onderwerpen/internet-telefoon-tv-en-post/cookies
+	- wat is nou de bewaartermijn? niet determined by law.
+    - hou je de gegevens vast zolang je de app gebruikt. en als iemand stopt, hoe lang hou je welke informatie vast?
+    - Als iemand geen nee heeft gezegd, zou je iemand voor commerciele uitingen bijvoorbeeld 2 jaar kunnen benaderen. maximaal 3 jaar. Zou wellicht kunnen veranderen. (kpn doet 2 jaar)
+    - facturen bewaar je 7 jaar vast, voor de fiscus.
 
 ### Article 13 - Imagery and products offered
 You cannot derive any rights from the imagery that accompanies any offered product on our website and/or app.
+	- in algemene voorwaarden. hoeft hier niet.
 
 ### Article 14 - Applicable Law
 These conditions are governed by Dutch law. The court in the district where the collector has its place of business has the sole jurisdiction if any dispute regarding these conditions may arise, save when a legal exception applies.
+	- algemene voorwaarden.
 
 ### Article 15 - Contact
-For questions, product information or information about the website and/or app itself, please contact: Tjerk Feitsma, info@2tango.org, +31614034299
+For questions, product information or information about the website and/or app itself, please contact: info@2tango.org. (privacyofficer@kpn.com zo'n soort type email adres is mogelijk. Hoeft geen persoonlijke gegevens neer te zetten.)
