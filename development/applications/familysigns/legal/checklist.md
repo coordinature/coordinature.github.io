@@ -41,6 +41,8 @@ Questions:
 - uitzondering bijzondere persoongegevens:
 	- je mag vragen, als je toestemming hebt. wel goed uitleggen waarom je het wilt gebruiken. Je moet het wel beter kunnen beschermen. Heel goed nadenken of je de date veilig hebt opgeslagen. Controleren dat de partijen zeer zorgvuldig met de data omgaan.
     - elke datacenter heeft een certificatie, die je even moet checken.
+    - dan moet je een officiele FG ( functionaris gegevensverwerking). Je hebt toegang tot de FGlijst van AP. Dus dan kun je altijd even bellen voor advies.
+    
     
 - bij de privacy policy:
 	- algemene informatie waarom en dit is het doel. En waarom is het een coole app.
