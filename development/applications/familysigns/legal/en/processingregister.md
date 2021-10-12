@@ -10,7 +10,8 @@ phone number: +31614034299
 - Category involved: Customers
 - Basis for processing: Agreement
 - Purpose of processing: Services
-- Processing yourself: No Where is the processor located? Within the EU or in a country with sufficient legal safeguards
+- Processing yourself: Yes and by other parties
+- Where is the processor located? Within the EU or in a country with sufficient legal safeguards. Yet we cannot guarentee that it might be funneled through a country we are not aware of.
 - EU Processing Agreement? Yes
 - Retention period: unknown
 - Safety Precautions: None / N/A
@@ -20,7 +21,7 @@ phone number: +31614034299
 - Category involved: Customers
 - Basis for processing: Agreement
 - Purpose of processing: Services
-- Processing yourself: No
+- Processing yourself: Yes and by other parties
 - Where is the processor located? Within the EU or in a country with sufficient legal safeguards
 - EU Processor Agreement? Yes
 - Retention period: unknown
@@ -30,7 +31,7 @@ phone number: +31614034299
 - Category involved: Customers
 - Basis for processing: Agreement
 - Purpose of processing: Services
-- Processing yourself: No
+- Processing yourself: Yes and by other parties
 - Where is the processor located? Within the EU or in a country with sufficient legal safeguards
 - EU Processor Agreement? Yes
 - Retention period: unknown
@@ -41,7 +42,7 @@ phone number: +31614034299
 - Category involved: Customers
 - Basis for processing: Agreement
 - Purpose of processing: Services
-- Processing yourself: No
+- Processing yourself: Yes and by other parties
 - Where is the processor located? Within the EU or in a country with sufficient legal safeguards
 - EU Processor Agreement? Yes
 - Retention period: unknown
@@ -51,7 +52,7 @@ phone number: +31614034299
 - Category involved: Customers
 - Basis for processing: Consent
 - Purpose of processing: Services
-- Processing yourself: No
+- Processing yourself: Yes and by other parties
 - Where is the processor located? Within the EU or in a country with sufficient legal safeguards
 - Where is the processor located? Within the EU or in a country with sufficient legal safeguards
 - EU Processor Agreement? Yes
@@ -62,7 +63,7 @@ phone number: +31614034299
 - Category involved: Customers
 - Basis for processing: Agreement
 - Purpose of processing: Services
-- Processing yourself: No
+- Processing yourself: Yes and by other parties
 - Where is the processor located? Within the EU or in a country with sufficient legal safeguards
 - EU Processor Agreement? Yes
 - Retention period: unknown
@@ -73,7 +74,7 @@ phone number: +31614034299
 - Category involved: Customers
 - Basis for processing: Agreement
 - Purpose of processing: Services
-- Processing yourself: No
+- Processing yourself: Yes and by other parties
 - Where is the processor located? Within the EU or in a country with sufficient legal safeguards
 - EU Processor Agreement? Yes
 - Retention period: unknown
@@ -83,7 +84,7 @@ phone number: +31614034299
 - Category involved: Customers
 - Basis for processing: Agreement
 - Purpose of processing: Services
-- Processing yourself: No
+- Processing yourself: Yes and by other parties
 - Where is the processor located? Within the EU or in a country with sufficient legal safeguards
 - EU Processor Agreement? Yes
 - Retention period: unknown
