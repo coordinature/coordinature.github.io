@@ -4,11 +4,11 @@ For the research in oktober 2021 with kpn.
 
 The following people will have acces:
 - 2Tango:  Maya and Tjerk feitsma.
-- Omotola Bolarin, Elise Jorien Marcus.
+- Omotola Bolarin, Elise Marcus.
 
 
 1. User profile information
-*We save a basic profile of each user,to determine the identity of each participant in the study,to be able to contact the user about their own experience.* We will ask for the following information:
+*We save a basic profile of each user,to determine the identity of each participant in the study,to be able to contact the user about their own experience, and to improve and design new or current functions in the Signs apps* We will ask for the following information:
   - Name
   - Date of birth
   - Language
@@ -17,11 +17,9 @@ The following people will have acces:
   - phone number
   - devices used for the study and app
 
-		- reden a,b,c. Niet alleen identificeren. ter verbetering van de app en ontwikkeling van nieuwe functies.
-
-We do this by:
-- typeform, is het platform wat we gebruiken om vragen te stellen aan de gebruikers.
-- app will be stored on users device and backed up on the 2Tango owned server hosted by linode.
+We do this through the following actions and services:
+- Typeform: Is an external platform that we use to host our questionaires.
+- All data collected through the Signs app will be stored on the users device and backed up on the 2Tango owned server hosted by linode.
 	- voor dec 2022 nieuw eu model gebruiken. 
     - Vragen of de data wel in eu kan blijven staan.
     - Afspraak data staat in frankfurt, londen is ook in orde.
