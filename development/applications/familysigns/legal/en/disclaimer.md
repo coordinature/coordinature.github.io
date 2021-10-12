@@ -1,7 +1,7 @@
 ## Disclaimer
 
 
-The following terms of use apply to the use of this website (2tangosigns.com & 2tango.org). By using this website, you are deemed to have read and accepted the terms of use.
+The following terms of use apply to the use of this website (2tangosigns.com, 2tango.org, familysigns.app) and apps(Signs, Family Signs or Signs Keyboard extention) from 2Tango B.V. By using these websites and apps, you are encouraged to have read and accepted the terms of use.
 
 ### Use of information
 2Tango B.V. strives to always provide correct and current information on this website. Although this information has been compiled with the greatest possible care, 2Tango B.V. does not guarantee the completeness, correctness or topicality of the information.
