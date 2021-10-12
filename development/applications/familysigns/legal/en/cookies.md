@@ -46,8 +46,7 @@ Please note that if you don't want any cookies, we cannot guarantee that our web
 ### 6. New developments and unforeseen cookies
 The texts of our website can be adjusted at any time due to continuous developments. This also applies to our cookie statement. Therefore, please read this statement regularly to stay informed of any changes. In blog articles, use can be made of content that is hosted on other sites and made accessible by 2tangosigns.com, 2tango.org and familysigns.app by means of certain codes (embedded content), as with YouTube videos for example. These codes often use cookies. However, we have no control over what these third parties do with their cookies.
 
-It is also possible that cookies are placed via our websites by others, of which we are not always aware. Do you encounter unforeseen cookies on our website that you cannot find in our overview? Please contact info@2tango.org. You can also 
-contact the third party directly and ask which cookies they placed, what the reason is, what the lifespan of the cookie is and how they have guaranteed your privacy.
+It is also possible that cookies are placed via our websites by others, of which we are not always aware. Do you encounter unforeseen cookies on our website that you cannot find in our overview? Please contact privacy@2tango.org. 
 
 ### 7. Concluding remarks
 We will have to adjust these statements from time to time, for example when we adjust our website or change the rules regarding cookies. You can consult this webpage for the latest version. 
