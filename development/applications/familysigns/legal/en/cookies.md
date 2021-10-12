@@ -53,6 +53,6 @@ contact the third party directly and ask which cookies they placed, what the rea
 We will have to adjust these statements from time to time, for example when we adjust our website or change the rules regarding cookies. You can consult this webpage for the latest version. 
 
 
-If you have any questions or comments, please contact info@2tango.org.
+If you have any questions or comments, please contact privacy@2tango.org.
 
 last updated: 12 oktober 2021
