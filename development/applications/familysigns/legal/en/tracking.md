@@ -15,8 +15,10 @@ For the research in oktober 2021 with kpn
 2. Tracking user behavior
 *All actions will be logged and stored, to study the user behavior in order to improve the complete userexperience.*
 	- keylogger
-	- gestures
+	- gestures and visual feedback
 	- search results
+    - accelerometor
+    - location data
 
 
 3. Processing user answers
@@ -26,4 +28,9 @@ For the research in oktober 2021 with kpn
 	- Video conversations
 	- Questionaires
 	- Forms
+
+### how we will track / proces
+ - customer data will only processed in our signalling server, which coordinature owns. 
+- only login will be handles by third parties.
+- research information will be done with typeform.
     
