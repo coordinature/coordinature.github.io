@@ -92,10 +92,10 @@ When a third party has access to data, 2Tango makes agreements with that party t
 ### 6 - Data retention
 We will store your data only for as long as is necessary.
 
-	- wat is nou de bewaartermijn? niet determined by law.
-    - hou je de gegevens vast zolang je de app gebruikt. en als iemand stopt, hoe lang hou je welke informatie vast?
-    - Als iemand geen nee heeft gezegd, zou je iemand voor commerciele uitingen bijvoorbeeld 2 jaar kunnen benaderen. maximaal 3 jaar. Zou wellicht kunnen veranderen. (kpn doet 2 jaar)
-    - facturen bewaar je 7 jaar vast, voor de fiscus.
+- Invoices will be stored for seven years.
+- If you have participated in the research within 2 years of receiving your answers we will aunonymize all your data. This means that your profile will no longer link to your answers.
+- When you delete your user account, we will emediately delete your personified profile information.
+- As long as you use the Signs products, we will save your data. When you decide to cancel, we will aunonymize your data.  This means that your profile will no longer link to your answers.
 
 
 ### 7 - Contact
