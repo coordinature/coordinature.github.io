@@ -70,16 +70,11 @@ onboarding.group
     - I want to support the research towards inclusive communication.
     - I want to improve my communication at work.
     - other
-- What would you like to take away from this study?
-
-- What topics do you find difficult to discuss with each other?
-- What activities do you like to do together?
-- What apps do you use to talk to each other?
+- What would you like to learn from this study?
 - Which family members don't have a smartphone?
 - Which family members have a smartphone?
 - Scan this QR Code to register's this phone for the private testing app.
 - Enter the Code on the mobile, on the screen, to confirm this member.
-
 
 ### start the study - all
 - What activities do you like to do with your family?
@@ -91,7 +86,7 @@ onboarding.group
     - hand gestures
     - other
 - What topics do you want to talk to your family about, but find difficult to do so? (For example: I would like to talk to my family more often about how I am feeling, but I find that difficult)
-
+#### phone
 - Which apps do you use on your phone the most?
 - Which apps do you use to talk to your friends?
 - In which app do you talk to your family?
