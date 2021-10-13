@@ -76,9 +76,8 @@ The Signs app, and its underlying research done by 2Tango and partners, focus on
 
 2. Your data will not be used by our partners for commercial purposes. 
 
+3. When you unsubscribe for our mailinglist, we will only contact your for service reasons.
 
-	- mensen moeten zich kunnen uitschrijven. Een lijst hebben: mag je commercieel mogen benaderen. 
-    - als ze zich uitschrijven mag je ze alleen als service bericht benaderen. kunnen ze zich niet voor uitschrijven.
 
 ### 5 – Collected data 
 2Tango does not distribute collected data to third parties, unless:
