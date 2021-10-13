@@ -56,4 +56,7 @@ Questions:
  	- bepalen na hoeveel tijd we die connectie tussen antwoord en gebruiker bewaren/doorknippen. en reden waarom.
     
     - checken voor dubbele informatie en bepalen waar het 1 keer staat.
-    
+ 
+    - hou je de gegevens vast zolang je de app gebruikt. en als iemand stopt, hoe lang hou je welke informatie vast?
+    - Als iemand geen nee heeft gezegd, zou je iemand voor commerciele uitingen bijvoorbeeld 2 jaar kunnen benaderen. maximaal 3 jaar. Zou wellicht kunnen veranderen. (kpn doet 2 jaar)
+    - facturen bewaar je 7 jaar vast, voor de fiscus.
