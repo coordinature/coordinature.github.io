@@ -42,6 +42,8 @@ onboarding.personal
 4. Which devices will you be using for Signs?
 
 	- _Add a new device to your profile_
+    
+5. Add a profile picture or choose an avatar.
 
 ---
 onboarding.group
