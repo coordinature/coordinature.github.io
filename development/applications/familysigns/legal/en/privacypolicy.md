@@ -2,17 +2,10 @@
 
 A better world for all is possible, when every individual has a better chance to be understood. This can only happen, if every individual can communicate in ways that feels natural to the person, even when those ways are different from the norm. Therefore, we who work in 2Tango Signs, dedicate ourselves to work on to finding the best solutions for inclusive communication. Our goal is to bridge the gaps in communication, specifically when neurological and physical differences can create barriers to understanding each other. 
 
-The Signs app, and its underlying research done by 2Tango and partners, focusses on reducing the barriers in communication within the family context. The aim of the Signs App is designed for you to create your own Sign language: A way of communicating with handgestures and armgestures. After a starting phase, these Signs can also be used in offline situations to cooperate when talking is not the best, fun or most effective solution for all. We believe that being able to communicate, beyond verbalization and typing, will allow for those for who this will be a natural preference, to play a more equal or effective part, in the family conversation
+The Signs app, and its underlying research done by 2Tango and partners, focusses on reducing the barriers in communication within the family context. The aim of the Signs App is designed for you to create your own Sign language: A way of communicating with handgestures and armgestures. After a starting phase, these Signs can also be used in offline situations to cooperate when talking is not the best, fun or most effective solution for all. We believe that being able to communicate, beyond verbalization and typing, will allow for those for who this will be a natural preference, to play a more equal or effective part, in a conversation.
 
-2Tango B.V. respects the privacy of its website and app visitors, in particular their rights regarding the automatic processing of personal data. We have therefore formulated and implemented a policy on complete transparency with our customers regarding the processing of personal data, its purpose(s) and the possibilities to exercise your legal rights in the best possible way.
+2Tango B.V. respects the privacy of its website and app visitors, in particular their rights regarding the automatic processing of personal data. Below, we have  formulated our policy on transparency with our customers regarding the processing of personal data, its purpose(s).
 
-If you require any additional information about the protection of personal data, please visit the website of the Dutch Data Protection Authority (Autoriteit Persoonsgegevens): https://autoriteitpersoonsgegevens.nl/nl.
-
-Until you accept the use of cookies and other tracking devices, we will not place any non-anonymised analytical cookies and / or tracking cookies on your computer, mobile phone or tablet. With the continued visit of this website and/or app you accept these terms of use and you accept the use of cookies and other tracking systems, unless we have provided for another method of accepting cookies on our website. 
-
-The current available version of this privacy policy is the only version that applies while visiting our website and/or app until a new version replaces the current version.
-
-	- waarom is deze website/app er. hiervoor geld de volgende privacy statement:
 
 ### Article 1 - Definitions
 1. Website (hereinafter: "Website") 2tangosigns.com, 2tango.org, familysigns.app.
