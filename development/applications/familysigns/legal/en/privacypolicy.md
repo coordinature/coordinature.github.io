@@ -4,59 +4,63 @@ A better world for all is possible, when every individual has a better chance to
 
 The Signs app, and its underlying research done by 2Tango and partners, focusses on reducing the barriers in communication within the family context. The aim of the Signs App is designed for you to create your own Sign language: A way of communicating with handgestures and armgestures. After a starting phase, these Signs can also be used in offline situations to cooperate when talking is not the best, fun or most effective solution for all. We believe that being able to communicate, beyond verbalization and typing, will allow for those for who this will be a natural preference, to play a more equal or effective part, in a conversation.
 
-2Tango B.V. respects the privacy of its website and app visitors, in particular their rights regarding the automatic processing of personal data. Below, we have  formulated our policy on transparency with our customers regarding the processing of personal data, its purpose(s).
+2Tango B.V. respects the privacy of its website and app visitors, in particular their rights regarding the automatic processing of personal data. Below, we have  formulated our policy on transparency with our customers regarding the processing of personal data and its purpose.
 
 
-### Article 1 - Definitions
+### 1 - Definitions
 1. Website (hereinafter: "Website") 2tangosigns.com, 2tango.org, familysigns.app.
-2. Party responsible for processing personal data (hereinafter: "the controller"): 2Tango B.V., established at Tiengemeten 131, 1181 CS Amstelveen, The Netherlands, Chamber of Commerce number: 70709661 .
+2. Party responsible for processing personal data (hereinafter: "2Tango"): 2Tango B.V., established at Tiengemeten 131, 1181 CS Amstelveen, The Netherlands, Chamber of Commerce number: 70709661 .
 3. App (hereinafter: "App") is a native app such as Family Signs, Signs or Signs keyboard, which falls under the brand of 2Tango B.V.
 
-### Article 2 - Access to the website and app
-Access to and use of the website and/or app are strictly personal. You will refrain from using the data and information of this website for your own commercial, political or advertising purposes, as well as for any commercial offers, in particular unsolicited electronic offers. 
 
-### Article 3 - Website and app content
-All brands, images, texts, comments, illustrations (animated) images, video images, sounds and all the technical applications that can be used to operate this website and/or app and more generally all the components 
-used on this website and/or app, are protected by the laws on intellectual property. Any reproduction, repetition, use or modification, by any means whatsoever, of all or just part of it, including technical applications, without the prior written permission of the controller, is strictly prohibited. The fact that the controller may not take immediate action against any infringement, cannot be considered as a tacit consent, nor of a waiver of any right to prosecute the infringing party.
 
-### Article 4 - Management of the website and app
-For the purpose of proper management of the site, the controller may at any time:
-- suspend, interrupt, reduce or decline the access to the website and/or app for a particular category of visitors.
-- delete all information that may disrupt the functioning of the website and/or app or conflicts with national or international laws or is contrary to internet etiquette.
-- make the website and/or app temporarily unavailable in order to perform updates.
+### 2 - Collection of data
+1. User profile information
+*We save a basic profile of each user,to determine the identity of each participant in the study,to be able to contact the user about their own experience.* We will ask for the following information:
+  - Name
+  - Date of birth
+  - Language
+  - Sign Language
+  - email
+  - phone number
+  - devices used for the study and app
 
-### Article 5 - Responsibilities
-1. The controller is not liable for any failure, disturbances, difficulties or interruptions in the functioning of the website and/or app, causing the (temporary) inaccessibility of the website and/or app or of any of its functionalities. 
-You, yourself, are responsible for the way you seek connection to our website and/or app. You need to take all appropriate steps to protect your equipment and data against hazards such as virus attacks on the 
-Internet. Furthermore, you are responsible for which websites and/or app you visit and what information you 
-seek.
+**We do this by:**
+- typeform, through coordinature's account
+- app will be stored on users device and backed up on the 2Tango owned server hosted by linode.
+- people who will not participate in the study(general users), their information will we back it up with graphcms. To link up their personal library, in order to store more gestures than their device may allow.
 
-2. The controller is not liable for any legal proceedings taken against you:
-• because of the use of the website and/or app or services accessible via the Internet
-• for violating the terms of this privacy policy
 
-3. The controller is not liable for any damages that incur to you or third parties or your equipment, as a result of your connection to or use of the website and/or app and you will refrain from any subsequent (legal)action against the controller.
+2. User behavior
+*Every interaction inside the app will be logged and stored, to study the user behavior in order to improve the complete userexperience of Signs. The usage metrix of the apps will be combined with asnwers from the research questions.* We will track the following information:
+	- screens that were navigated and the time spend on them
+    - the time spend on each answer
+    - the performance of their hardware components of their device
+	- gesture events and interaction feedback
+    - device motions
 
-4. If the controller is involved in a dispute because of your (ab)use of this website and/or app, he is entitled to (re)claim all subsequent damages from you.
+**We do this by:**
+- This information will be stored on their own device.
+- This information is send to our own signaling server, Linode and be hosted at io.2tangosigns.com.
+- This will not be shared with any third party services.
 
-### Article 6 - Collection of data
 
-1. Your personal data will be collected by 2Tango B.V. and (an) external processor(s) .
+3. user answers
+*During the alpha and beta versions of Signs we will collect all answers profided by the users in order to conduct our UX-research. With our goal of improving the experience of Signs.* We will track the following information:
 
-2. Personal data means any information relating to an identified or identifiable natural person (‘data subject’).
+	- Email conversations between 2Tango and user
+	- Video conversations
+	- Questionaires
+	- Forms
+    
+** We do this by:**
+- This information is send to our own signaling server, Linode and be hosted at io.2tangosigns.com.
+- Login will be handled by the following third parties: microsoft, google and apple on behalf of 2Tango.
+- Research information will be done with typeform. Typeform will be the research dataprocessor on behalf of 2Tango.
 
-3. An identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person.
-	- de vraag is of deze definitie erin hoeft.
+### 3 - Your rights regarding information
 
-4. The personal data that are collected on the website and/or app are used mainly by the collector in order to maintain a (commercial) relationship with you and if applicable in order to process your orders. They are recorded in an (electronic) register.
-
-	- hier kunnen we die 'list of tracking' toevoegen.
-    - stukje herschrijven en aanvullen met onze eigen informatie.
-    - het document is beschrijvend: beste klant, zo gebruiken we jouw gegevens.
-
-### Article 7 - Your rights regarding information
-
-1. Pursuant to Article 13 paragraph 2 sub b GDPR each data subject has the right to information on and access to, and rectification, erasure and restriction of processing of his personal data, as well as the right to object to the processing and the right to data portability.
+1. You have the right to information on and access to, and rectification, erasure and restriction of processing of his personal data, as well as the right to object to the processing and the right to data portability.
 
 2. You can exercise these rights by contacting us at info@2tango.org.
 
@@ -68,15 +72,8 @@ seek.
 
 	- kijk even hoe kpn dat heeft gedaan. verwijzingen zijn niet nodig. Zo min mogelijk juridisch maken en zo begrijpelijk mogelijk.
 
-### Article 8 - Legal obligations
 
-1. In case of infringement of any law or regulation, of which a visitor is suspected and for which the authorities require the personal data collected by the collector, they will be provided to them after an explicit and reasoned request of those authorities, after which these personal data do not fall anymore under the protection of the provisions of this Privacy policy.
-
-2. If any information is necessary in order to obtain access to certain features of the website, the controller will indicate the mandatory nature of this information when requesting these data.
-
-	- dit gedeelte bij algemene voorwaarden.
-
-### Article 9 - Collected data and commercial offers
+### 4 - Collected data and commercial offers
 1. You may receive commercial offers from the collector. If you do not wish to receive them (anymore), please send us an email to the following address: info@2tango.org.
 
 2. Your personal data will not be used by our partners for commercial purposes. 
@@ -86,7 +83,7 @@ seek.
 	- mensen moeten zich kunnen uitschrijven. Een lijst hebben: mag je commercieel mogen benaderen. 
     - als ze zich uitschrijven mag je ze alleen als service bericht benaderen. kunnen ze zich niet voor uitschrijven.
 
-### Article 10 – Collected data 
+### 5 – Collected data 
 2Tango does nog distribute collected data to third parties, unless:
 - They are tasked by 2Tango for a specific task to support our services, product improvement or userexperience. 
 
@@ -96,20 +93,13 @@ seek.
 When a third party has access to data, 2Tango makes agreements with that party to safeguard privacy regulations, and agreenment that the use of data is purposebound: the data can only be used for the narrow & intended goal of the research, and the third party has regulations in place to safeguard the privacy of the users. 
 
 
-### Article 11 - Data retention
+### 6 - Data retention
 The collected data are used and retained for the duration determined by law.
 	- wat is nou de bewaartermijn? niet determined by law.
     - hou je de gegevens vast zolang je de app gebruikt. en als iemand stopt, hoe lang hou je welke informatie vast?
     - Als iemand geen nee heeft gezegd, zou je iemand voor commerciele uitingen bijvoorbeeld 2 jaar kunnen benaderen. maximaal 3 jaar. Zou wellicht kunnen veranderen. (kpn doet 2 jaar)
     - facturen bewaar je 7 jaar vast, voor de fiscus.
 
-### Article 13 - Imagery and products offered
-You cannot derive any rights from the imagery that accompanies any offered product on our website and/or app.
-	- in algemene voorwaarden. hoeft hier niet.
 
-### Article 14 - Applicable Law
-These conditions are governed by Dutch law. The court in the district where the collector has its place of business has the sole jurisdiction if any dispute regarding these conditions may arise, save when a legal exception applies.
-	- algemene voorwaarden.
-
-### Article 15 - Contact
-For questions, product information or information about the website and/or app itself, please contact: info@2tango.org. (privacyofficer@kpn.com zo'n soort type email adres is mogelijk. Hoeft geen persoonlijke gegevens neer te zetten.)
+### 7 - Contact
+For questions, product information or information about the website and/or app itself, please contact: privacy@2tango.org.
