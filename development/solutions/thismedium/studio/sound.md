@@ -15,4 +15,7 @@ the github code:
 https://github.com/adarkforce/3D-Earth-Music-Visualizer/blob/master/src/script.js
 the web demo:
 https://earth-music-visualizer.web.app/
+the person who made it, on discourse asking for feedback
+https://discourse.threejs.org/t/3d-earth-music-visualizer/27556/2
+
 
