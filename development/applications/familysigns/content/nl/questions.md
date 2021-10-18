@@ -1,219 +1,219 @@
-## questions
+## vragen
 
 ----------
 
-id: UX-research-complete-questions
+id: UX-onderzoek-complete-vragen
 
-topic: A complete overview of all questions asked during the UX-study starting in Oktober 2021.
+topic: Een compleet overzicht van alle vragen die gesteld zijn tijdens de UX-studie vanaf oktober 2021.
 
 ---
 register
 
-### Register a new user account
-1. What is your first name? 
-2. What is your last name?
-3. What is your date of birth?
-4. How can we contact you about your account?
-	1. What is your personal phone number?
-	2. What is your personal email address?
+### Registreer een nieuw gebruikersaccount
+1. Wat is je voornaam?
+2. Wat is uw achternaam?
+3. Wat is uw geboortedatum?
+4. Hoe kunnen we contact met u opnemen over uw account?
+1. Wat is uw persoonlijke telefoonnummer?
+2. Wat is uw persoonlijke e-mailadres?
 
 ---
 onboarding.personal
 
-### Create your personal profile
-1. What name would you like to display to others?
-2. Which languages do you speak?
+### Maak je persoonlijke profiel aan
+1. Welke naam zou je aan anderen willen laten zien?
+2. Welke talen spreek je?
 
-	- _Select the languages you speak and sort them by preference._
-		- [x] Nederlands
-    	- [x] English
-    	+ _Add another language from our languages_
+- _Selecteer de talen die u spreekt en sorteer ze op voorkeur._
+- [x] Nederlands
+    - [x] Engels
+    + _Voeg een andere taal toe uit onze talen_
     
-3. Do you communicate with Sign Language? 
-	
-    - _Add/Select the languages you speak and sort them by preference._
-		- [x] American Sign Language
-		- [x] NGT Nederlandse Gebaren Taal
+3. Communiceer je met gebarentaal?
+
+    - _Voeg/selecteer de talen die u spreekt en sorteer ze op voorkeur._
+- [x] Amerikaanse Gebarentaal
+- [x] NGT Nederlandse Gebaren Taal
         - [ ] Makaton
-        - [ ] British Sign Language
-        - [ ] International Sign Language
-		+ _Add another sign language option from our languages_
+        - [ ] Britse Gebarentaal
+        - [ ] Internationale gebarentaal
++ _Voeg nog een gebarentaaloptie toe uit onze talen_
 
-4. Which devices will you be using for Signs?
+4. Welke apparaten ga je gebruiken voor Signs?
 
-	- _Add a new device to your profile_
+- _Voeg een nieuw apparaat toe aan je profiel_
     
-5. Add a profile picture or choose an avatar.
+5. Voeg een profielfoto toe of kies een avatar.
 
 ---
-onboarding.group
+onboarding.groep
 
-### Create a new group
-1. What name would you like to display to others?
-2. Who are you making this group for?
-    - [x] My family
-    - [ ] My team
-    + _Add another group type_
+### Maak een nieuwe groep aan
+1. Welke naam zou je aan anderen willen laten zien?
+2. Voor wie maak je deze groep?
+    - [x] Mijn familie
+    - [ ] Mijn team
+    + _Voeg nog een groepstype toe_
  
-3. Add a contact to this group.
-4. Select your relationship to this Contact
-	- Parent / guardian
-    - Child
-    - Sibling
-     + _Add another option_
-- Select the contacts that live in your household.
+3. Voeg een contactpersoon toe aan deze groep.
+4. Selecteer uw relatie met deze contactpersoon
+- Ouder / voogd
+    - Kind
+    - Broer of zus
+     + _Voeg nog een optie toe_
+- Selecteer de contacten die in uw huishouden wonen.
 
-### Start the study - initiator
-- Why did you join this study?
-	- I want to express myself better.
-    - I want my family to express themselves better.
-    - I want to support the research towards inclusive communication.
-    - I want to improve my communication at work.
-    - other
-- What would you like to learn from this study?
-- Which family members don't have a smartphone?
-- Which family members have a smartphone?
-- Scan this QR Code to register's this phone for the private testing app.
-- Enter the Code on the mobile, on the screen, to confirm this member.
+### Start het onderzoek - initiatiefnemer
+- Waarom heb je meegedaan aan dit onderzoek?
+- Ik wil me beter uitdrukken.
+    - Ik wil dat mijn familie zich beter uitdrukt.
+    - Ik wil het onderzoek naar inclusieve communicatie ondersteunen.
+    - Ik wil mijn communicatie op het werk verbeteren.
+    - ander
+- Wat zou je van dit onderzoek willen leren?
+- Welke gezinsleden hebben geen smartphone?
+- Welke gezinsleden hebben een smartphone?
+- Scan deze QR-code om deze telefoon te registreren voor de privétest-app.
+- Voer de code in op de mobiel, op het scherm, om dit lid te bevestigen.
 
-### start the study - all
-- What activities do you like to do with your family?
-- If you lived in a world where no one could talk, in what ways would you choose to express your feelings: *select as many as you want*
-	- dancing
-    - drawing
-    - sounds
-    - facial expressions
-    - hand gestures
-    - other
-- What topics do you want to talk to your family about, but find difficult to do so? (For example: I would like to talk to my family more often about how I am feeling, but I find that difficult)
-#### phone
-- Which apps do you use on your phone the most?
-- Which apps do you use to talk to your friends?
-- In which app do you talk to your family?
-- What do you find difficult about the apps you now use to talk to your family?
-	- Group messaging
-    - Responding
-    - Notifications
-    - Emoticons & Gifs
-    - Easy in use/ to operate
-
-
-## initial state questionnaire - all
-*with the goal of observing how they experience their communication patterns. How they see signing as an integration within their communication style.*
-- Rate with each sentence how much this applies to you:
-- 	a. stronly disagree
-	b. disagree
-	c. neutral 
-	d. agree
-	e. strongly agree
-
-- I easily express my emotions.
-- I find it hard to express my feelings
-- I can easily talk about the things I need
-- I find it hard to tell someone what I need
-- I naturally use a lot of hand gestures when I speak
-- I move a lot when I talk
-- I prefer talking about my feeling than writing about them.
-- I prefer writing what I need than telling someone what I need.
-- I would rather write about what I am doing than tell someone about what I am doing.
-- I find it easy to draw my feelings.
-- The most difficult thing about sending a text message is to start a sentence.
-- Whenever I receive a notification, I take a long time to reply.
-- I immediately reply, whenever I receive a notification.
-- I struggle to find the right words to use.
-- My vocabulary is very limited.
-- I get overwhelmed using groups chats.
-- I get nervous replying in groups chats.
-- I like using groups chats to communicate.
-- I think groups chats are unclear.
-- My personality does not come across when I send a text.
-- I can express myself well, through sending text messages.
-- I feel safe talking to my family.
-- I feel distance from my family.
-- I feel strongly connected to my family.
-- I often feel alone.
-- I feel a lot of love.
-- I feel like my family don't understand me.
-- Most of the time, my family understands what I am trying to say.
-- It happens often that I am receiving a text message and I have no idea what they are talking about.
-- I struggle to understand what people are talking about.
+### start de studie - alles
+- Welke activiteiten doet u graag met uw gezin?
+- Als je in een wereld zou leven waar niemand zou kunnen praten, op welke manieren zou je dan kiezen om je gevoelens te uiten: *selecteer er zoveel als je wilt*
+- dansen
+    - tekening
+    - geluiden
+    - gezichtsuitdrukkingen
+    - handgebaren
+    - ander
+- Over welke onderwerpen wilt u met uw familie praten, maar vindt u dit moeilijk? (Bijvoorbeeld: ik zou graag vaker met mijn familie willen praten over hoe ik me voel, maar dat vind ik moeilijk)
+#### telefoon
+- Welke apps gebruik je het meest op je telefoon?
+- Welke apps gebruik je om met je vrienden te praten?
+- In welke app praat je met je familie?
+- Wat vind je moeilijk aan de apps die je nu gebruikt om met je familie te praten?
+- Groepsberichten
+    - Reageren
+    - Meldingen
+    - Emoticons en gifs
+    - Eenvoudig in gebruik / te bedienen
 
 
-### start evaluation - for initiator
-*with the goal of knowing how the study is going, and the use of how the tool is working. If there is any need for change or iterations that can be made now, to improve the study.*
-- Did all of the family members create their first gesture?
-- Can you see a moment in the future where using this type of gesturing is useful? Describe a moment in the future where you are using gestures.
-- Which family members will benefit the most from creating gestures? Why?
-- How can your family benefit from making gestures?
+## vragenlijst begintoestand - alles
+*met als doel te observeren hoe zij hun communicatiepatronen ervaren. Hoe zij ondertekenen zien als een integratie binnen hun communicatiestijl.*
+- Beoordeel bij elke zin in hoeverre dit op u van toepassing is:
+- 	een. helemaal niet mee eens
+B. het oneens zijn
+C. neutrale
+NS. mee eens
+e. sterk mee eens
 
-### Make a video appointment - initiator
-- Do you experience that your family members use a form of hand gestures, while they talk?
-- Do all family members express themselves evenly with hand gestures, while talking?
-- What do you notice, when they talk with their hands?
-- How does the use of handgestures differ during different emotions?
-- What is the most popular types of gesture in your family?
-- Family Dynamic: What problems do you experience due to poor family communication? What would you like to improve on?
-- How do you think that using Signs can change this?
--> Going through the demo togheter, asking to talk out loud.
--> discussing any difficulties or questions.
+- Ik uit gemakkelijk mijn emoties.
+- Ik vind het moeilijk om mijn gevoelens te uiten
+- Ik kan gemakkelijk praten over de dingen die ik nodig heb
+- Ik vind het moeilijk om iemand te vertellen wat ik nodig heb
+- Ik gebruik van nature veel handgebaren als ik spreek
+- Ik beweeg veel als ik praat
+- Ik praat liever over mijn gevoel dan erover te schrijven.
+- Ik schrijf liever wat ik nodig heb dan iemand te vertellen wat ik nodig heb.
+- Ik schrijf liever over wat ik doe dan iemand te vertellen wat ik doe.
+- Ik vind het gemakkelijk om mijn gevoelens te tekenen.
+- Het moeilijkste aan het verzenden van een sms-bericht is om een ​​zin te beginnen.
+- Wanneer ik een melding ontvang, duurt het lang voordat ik antwoord.
+- Ik antwoord onmiddellijk wanneer ik een melding ontvang.
+- Ik heb moeite om de juiste woorden te vinden om te gebruiken.
+- Mijn woordenschat is zeer beperkt.
+- Ik word overweldigd door groepschats.
+- Ik word nerveus van het antwoorden in groepschats.
+- Ik gebruik graag groepschats om te communiceren.
+- Ik denk dat groepschats onduidelijk zijn.
+- Mijn persoonlijkheid komt niet over als ik een sms stuur.
+- Ik kan me goed uitdrukken door sms'jes te sturen.
+- Ik voel me veilig om met mijn familie te praten.
+- Ik voel afstand van mijn familie.
+- Ik voel me sterk verbonden met mijn familie.
+- Ik voel me vaak alleen.
+- Ik voel veel liefde.
+- Ik heb het gevoel dat mijn familie me niet begrijpt.
+- Meestal begrijpt mijn familie wat ik probeer te zeggen.
+- Het komt vaak voor dat ik een sms ontvang en geen idee heb waar ze het over hebben.
+- Ik heb moeite om te begrijpen waar mensen het over hebben.
 
--- scaffolding
 
-## looping questions - see looping question file
-for example: 
-_ when was the last time you felt angry?_
+### start evaluatie - voor initiatiefnemer
+*met als doel te weten hoe het onderzoek verloopt en hoe de tool werkt. Als er verandering of iteraties nodig zijn die nu kunnen worden gemaakt, om het onderzoek te verbeteren.*
+- Hebben alle gezinsleden hun eerste gebaar gemaakt?
+- Kun je een moment in de toekomst zien waar het nuttig is om dit soort gebaren te gebruiken? Beschrijf een moment in de toekomst waarop u gebaren gebruikt.
+- Welke gezinsleden hebben het meeste baat bij het maken van gebaren? Waarom?
+- Hoe kan uw gezin profiteren van het maken van gebaren?
 
-- Are you ready to start the excercise?
-- Select a subject
-- Write a story about the subject
-- Select a tag that describes your story
-- Write a sentence made up of your tags. Try to make at least three combinations or as many as you like. It can be about anything.
-- Make a gesture for one or more of the tags or sentences.
-	- Select a tag to create a gesture for this.
-    - What gesture would you make for this word?
-    - Would you like to save this into your library?
+### Maak een video-afspraak - initiatiefnemer
+- Ervaart u dat uw gezinsleden tijdens het praten een vorm van handgebaren gebruiken?
+- Drukken alle gezinsleden zich gelijkmatig uit met handgebaren tijdens het praten?
+- Wat merk je op als ze met hun handen praten?
+- Hoe verschilt het gebruik van handgebaren tijdens verschillende emoties?
+- Wat zijn de meest populaire gebaren in uw familie?
+- Family Dynamic: Welke problemen ervaart u als gevolg van slechte familiecommunicatie? Wat zou je willen verbeteren?
+- Hoe denk je dat het gebruik van Signs dit kan veranderen?
+-> Samen de demo doorlopen, vragen om hardop te praten.
+-> eventuele moeilijkheden of vragen bespreken.
+
+-- steiger
+
+## lusvragen - zie lusvragenbestand
+bijvoorbeeld:
+_ wanneer was de laatste keer dat u boos was?_
+
+- Ben je klaar om met de oefening te beginnen?
+- Selecteer een onderwerp
+- Schrijf een verhaal over het onderwerp
+- Selecteer een tag die uw verhaal beschrijft
+- Schrijf een zin die bestaat uit uw tags. Probeer minimaal drie combinaties te maken of zoveel als je wilt. Het kan over van alles gaan.
+- Maak een gebaar voor een of meer van de tags of zinnen.
+- Selecteer een tag om hiervoor een gebaar te maken.
+    - Welk gebaar zou je maken voor dit woord?
+    - Wil je dit opslaan in je bibliotheek?
     
- Rate in difficulty.
+ Beoordeel in moeilijkheidsgraad.
 
-## mid evaluation - all
-*with the goal of knowing how the study is going, and the use of how the tool is working. If there is any need for change or iterations that can be made now, to improve the study.*
-What was your favorite gesture to make?
-Which gesture would you use the most?
-In what places do you feel overwhelmed?
-Describe how you would use the gesture in [this busy place].
-How do you think making gestures can help your family talk to each other? List reasons why
-Do you notice anything different about the way your family talks to each other at home, since the moment you've started the study? Describe the changes
-Do you notice anything different about the way your family talks to each other online, since the moment you've started the study? Describe the changes 
-Has a family member used a gesture from the Signs app during a face to face conversation? Describe the moment and the gesture.
-Is there anything else you want us to know? open space for feedback
+## tussentijdse evaluatie - alles
+*met als doel te weten hoe het onderzoek verloopt en hoe de tool werkt. Als er verandering of iteraties nodig zijn die nu kunnen worden gemaakt, om het onderzoek te verbeteren.*
+Wat was je favoriete gebaar om te maken?
+Welk gebaar zou jij het meest gebruiken?
+Op welke plekken voel je je overweldigd?
+Beschrijf hoe u het gebaar zou gebruiken in [deze drukke plaats].
+Hoe denk je dat het maken van gebaren je familie kan helpen om met elkaar te praten? Noem redenen waarom
+Merk je sinds het moment dat je met de studie bent begonnen iets anders aan de manier waarop je familie met elkaar praat? Beschrijf de wijzigingen
+Merk je sinds het moment dat je met het onderzoek bent begonnen iets anders aan de manier waarop je familie online met elkaar praat? Beschrijf de wijzigingen
+Heeft een gezinslid een gebaar uit de Signs-app gebruikt tijdens een persoonlijk gesprek? Beschrijf het moment en het gebaar.
+Is er nog iets dat u ons wilt laten weten? open ruimte voor feedback
 
--- endgame
+-- eindspel
 
-### end state questionnaire
-*with the goal of observing how they experience their communication patterns, after the study. If there are any improvements and how they see signing as an integration within their communication style, after the study.*
-- Same questionnaire as the first one.
+### vragenlijst eindtoestand
+*met als doel om na het onderzoek te observeren hoe zij hun communicatiepatronen ervaren. Of er verbeteringen zijn en hoe zij het ondertekenen zien als een integratie binnen hun communicatiestijl, na het onderzoek.*
+- Dezelfde vragenlijst als de eerste.
 
-### end evaluation - all
-*with the goal of knowing how the study went, and the use of the tool went.*
-- Do you notice anything different about the way your family talks to each other at home, since the moment you've started the study? Describe the changes
-- Do you notice anything different about the way your family talks to each other online, since the moment you've started the study? Describe the changes 
-- You have been practicing with making gestures. What was your favorite gesture to make? why?
-- Describe a moment where you used a gesture to tell someone how you felt. Who was it? How did you feel? Why?
-- Describe a moment where you rather would use a gesture than to talk.
-- Describe a moment where you would rather use a gesture than to type a text.
-- Who would you want to share a sign with, other than your family? Why?
-- Would you like to be in contact with other families, just like yours? Through a family signs network.
-- Would you reconmend this to other families? Why?
-- Is there anything else you want us to know? open space for feedback
+### eindevaluatie - alles
+*met als doel te weten hoe het onderzoek is verlopen en het gebruik van de tool.*
+- Merk je sinds het moment dat je met de studie bent begonnen iets anders aan de manier waarop je familie met elkaar praat? Beschrijf de wijzigingen
+- Merk je sinds het moment dat je met het onderzoek bent begonnen iets anders aan de manier waarop je familie online met elkaar praat? Beschrijf de wijzigingen
+- Je hebt geoefend met het maken van gebaren. Wat was je favoriete gebaar om te maken? waarom?
+- Beschrijf een moment waarop je een gebaar gebruikte om iemand te vertellen hoe je je voelde. Wie was het? Hoe voelde je je? Waarom?
+- Beschrijf een moment waarop u liever een gebaar gebruikt dan te praten.
+- Beschrijf een moment waarop u liever een gebaar gebruikt dan een tekst te typen.
+- Met wie zou je een bord willen delen, behalve je familie? Waarom?
+- Zou je graag in contact willen komen met andere families, net als die van jou? Via een netwerk van familieborden.
+- Zou u dit aan andere gezinnen aanbevelen? Waarom?
+- Is er nog iets dat u ons wilt laten weten? open ruimte voor feedback
 
-- Do you want to save your library? Or delete it forever?
+- Wilt u uw bibliotheek opslaan? Of voor altijd verwijderen?
 
-### end video call
-- Have you learned anything new about your family members throughout this study? Describe what you've learned.
-- epxressing themselves through gestures.
-- How did they respond?
-- What advice would you like to share with other families just starting the study?
-- How did you experience this study, overall? What was difficult what was easy?
-- What was difficult about making a gesture?
-- What did you enjoy about making a gesture?
+### videogesprek beëindigen
+- Heeft u tijdens dit onderzoek iets nieuws geleerd over uw gezinsleden? Beschrijf wat je hebt geleerd.
+- zich uiten door middel van gebaren.
+- Hoe reageerden ze?
+- Welk advies zou je willen delen met andere gezinnen die net met de studie zijn begonnen?
+- Hoe heb je deze studie in het algemeen ervaren? Wat was moeilijk, wat was gemakkelijk?
+- Wat was er moeilijk aan het maken van een gebaar?
+- Wat vond je leuk aan het maken van een gebaar?
 - open feedback
