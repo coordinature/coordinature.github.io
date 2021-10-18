@@ -86,6 +86,7 @@ onboarding.group
     - hand gestures
     - other
 - What topics do you want to talk to your family about, but find difficult to do so? (For example: I would like to talk to my family more often about how I am feeling, but I find that difficult)
+
 #### phone
 - Which apps do you use on your phone the most?
 - Which apps do you use to talk to your friends?
@@ -100,6 +101,7 @@ onboarding.group
 
 ## initial state questionnaire - all
 *with the goal of observing how they experience their communication patterns. How they see signing as an integration within their communication style.*
+
 - Rate with each sentence how much this applies to you:
 - 	a. stronly disagree
 	b. disagree
@@ -141,8 +143,9 @@ onboarding.group
 
 ### start evaluation - for initiator
 *with the goal of knowing how the study is going, and the use of how the tool is working. If there is any need for change or iterations that can be made now, to improve the study.*
+
 - Did all of the family members create their first gesture?
-- Can you see a moment in the future where using this type of gesturing is useful? Describe a moment in the future where you are using gestures.
+- Can you see a moment in the future where using this type of gesturing is useful? Describe the moment.
 - Which family members will benefit the most from creating gestures? Why?
 - How can your family benefit from making gestures?
 
@@ -177,6 +180,7 @@ _ when was the last time you felt angry?_
 
 ## mid evaluation - all
 *with the goal of knowing how the study is going, and the use of how the tool is working. If there is any need for change or iterations that can be made now, to improve the study.*
+
 What was your favorite gesture to make?
 Which gesture would you use the most?
 In what places do you feel overwhelmed?
@@ -191,10 +195,12 @@ Is there anything else you want us to know? open space for feedback
 
 ### end state questionnaire
 *with the goal of observing how they experience their communication patterns, after the study. If there are any improvements and how they see signing as an integration within their communication style, after the study.*
+
 - Same questionnaire as the first one.
 
 ### end evaluation - all
 *with the goal of knowing how the study went, and the use of the tool went.*
+
 - Do you notice anything different about the way your family talks to each other at home, since the moment you've started the study? Describe the changes
 - Do you notice anything different about the way your family talks to each other online, since the moment you've started the study? Describe the changes 
 - You have been practicing with making gestures. What was your favorite gesture to make? why?
