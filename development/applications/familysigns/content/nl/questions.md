@@ -21,7 +21,7 @@ register
 onboarding.personal
 
 ### Maak je persoonlijke profiel aan
-1. Welke naam zou je aan anderen willen laten zien?
+1. Welke gebruikersnaam zou je aan anderen willen laten zien?
 2. Welke talen spreek je?
 
 - _Selecteer de talen die u spreekt en sorteer ze op voorkeur._
@@ -49,7 +49,7 @@ onboarding.personal
 onboarding.groep
 
 ### Maak een nieuwe groep aan
-1. Welke naam zou je aan anderen willen laten zien?
+1. Welke groepsnaam zou je aan anderen willen laten zien?
 2. Voor wie maak je deze groep?
     - [x] Mijn familie
     - [ ] Mijn team
@@ -78,9 +78,9 @@ onboarding.groep
 
 ### start de studie - allen
 - Welke activiteiten doe jij graag met jouw gezin?
-- Als je in een wereld zou leven waar niemand zou kunnen praten, op welke manieren zou je dan kiezen om je gevoelens te uiten: *selecteer er zoveel als je wilt*
-- dansen
-    - tekening
+- Als je in een wereld zou leven waar niemand zou kunnen praten, op welke manieren zou je dan kiezen om je gevoelens te uiten: *selecteer als je wilt*
+	- dansen
+    - tekenen
     - geluiden
     - gezichtsuitdrukkingen
     - handgebaren
@@ -142,10 +142,11 @@ onboarding.groep
 
 ### start evaluatie - voor initiatiefnemer
 *met als doel te weten hoe het onderzoek verloopt en hoe de tool werkt. Als er verandering of iteraties nodig zijn die nu kunnen worden gemaakt, om het onderzoek te verbeteren.*
+
 - Hebben alle gezinsleden hun eerste gebaar gemaakt?
-- Kun je een moment in de toekomst zien waar het nuttig is om dit soort gebaren te gebruiken? Beschrijf een moment in de toekomst waarop u gebaren gebruikt.
+- Kun je een moment in de toekomst zien waar het nuttig is om dit soort gebaren te gebruiken? Beschrijf het moment.
 - Welke gezinsleden hebben het meeste baat bij het maken van gebaren? Waarom?
-- Hoe kan uw gezin profiteren van het maken van gebaren?
+- Hoe kan jouw gezin profiteren van het maken van gebaren?
 
 ### Maak een video-afspraak - initiatiefnemer
 - Ervaar je dat jouw gezinsleden tijdens het praten een vorm van handgebaren gebruiken?
@@ -178,6 +179,7 @@ _ wanneer was de laatste keer dat u boos was?_
 
 ## tussentijdse evaluatie - alles
 *met als doel te weten hoe het onderzoek verloopt en hoe de tool werkt. Als er verandering of iteraties nodig zijn die nu kunnen worden gemaakt, om het onderzoek te verbeteren.*
+
 Wat was je favoriete gebaar om te maken?
 Welk gebaar zou jij het meest gebruiken?
 Op welke plekken voel je je overweldigd?
