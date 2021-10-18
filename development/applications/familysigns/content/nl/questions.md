@@ -4,18 +4,18 @@
 
 id: UX-onderzoek-complete-vragen
 
-topic: Een compleet overzicht van alle vragen die gesteld zijn tijdens de UX-studie vanaf oktober 2021.
+topic: Een compleet overzicht van alle vragen die gesteld worden tijdens de UX-studie vanaf oktober 2021.
 
 ---
 register
 
 ### Registreer een nieuw gebruikersaccount
-1. Wat is je voornaam?
-2. Wat is uw achternaam?
-3. Wat is uw geboortedatum?
-4. Hoe kunnen we contact met u opnemen over uw account?
-1. Wat is uw persoonlijke telefoonnummer?
-2. Wat is uw persoonlijke e-mailadres?
+1. Wat is jouw voornaam?
+2. Wat is jouw achternaam?
+3. Wat is jouw geboortedatum?
+4. Hoe kunnen we contact met je opnemen over jouw account?
+1. Wat is jouw persoonlijke telefoonnummer?
+2. Wat is jouw persoonlijke e-mailadres?
 
 ---
 onboarding.personal
@@ -32,16 +32,16 @@ onboarding.personal
 3. Communiceer je met gebarentaal?
 
     - _Voeg/selecteer de talen die u spreekt en sorteer ze op voorkeur._
-- [x] Amerikaanse Gebarentaal
-- [x] NGT Nederlandse Gebaren Taal
+		- [x] Amerikaanse Gebarentaal
+		- [x] NGT Nederlandse Gebaren Taal
         - [ ] Makaton
         - [ ] Britse Gebarentaal
         - [ ] Internationale gebarentaal
-+ _Voeg nog een gebarentaaloptie toe uit onze talen_
+		+ _Voeg nog een gebarentaaloptie toe uit onze talen_
 
 4. Welke apparaten ga je gebruiken voor Signs?
 
-- _Voeg een nieuw apparaat toe aan je profiel_
+	- _Voeg een nieuw apparaat toe aan je profiel_
     
 5. Voeg een profielfoto toe of kies een avatar.
 
@@ -56,7 +56,7 @@ onboarding.groep
     + _Voeg nog een groepstype toe_
  
 3. Voeg een contactpersoon toe aan deze groep.
-4. Selecteer uw relatie met deze contactpersoon
+4. Selecteer jouw relatie met deze contactpersoon
 - Ouder / voogd
     - Kind
     - Broer of zus
@@ -76,8 +76,8 @@ onboarding.groep
 - Scan deze QR-code om deze telefoon te registreren voor de privétest-app.
 - Voer de code in op de mobiel, op het scherm, om dit lid te bevestigen.
 
-### start de studie - alles
-- Welke activiteiten doet u graag met uw gezin?
+### start de studie - allen
+- Welke activiteiten doe jij graag met jouw gezin?
 - Als je in een wereld zou leven waar niemand zou kunnen praten, op welke manieren zou je dan kiezen om je gevoelens te uiten: *selecteer er zoveel als je wilt*
 - dansen
     - tekening
@@ -85,7 +85,8 @@ onboarding.groep
     - gezichtsuitdrukkingen
     - handgebaren
     - ander
-- Over welke onderwerpen wilt u met uw familie praten, maar vindt u dit moeilijk? (Bijvoorbeeld: ik zou graag vaker met mijn familie willen praten over hoe ik me voel, maar dat vind ik moeilijk)
+- Over welke onderwerpen wil jij graag met jouw familie praten, maar vind je moeilijk? (Bijvoorbeeld: ik zou graag vaker met mijn familie willen praten over hoe ik me voel, maar dat vind ik moeilijk)
+
 #### telefoon
 - Welke apps gebruik je het meest op je telefoon?
 - Welke apps gebruik je om met je vrienden te praten?
@@ -98,36 +99,36 @@ onboarding.groep
     - Eenvoudig in gebruik / te bedienen
 
 
-## vragenlijst begintoestand - alles
+## vragenlijst begintoestand - allen
 *met als doel te observeren hoe zij hun communicatiepatronen ervaren. Hoe zij ondertekenen zien als een integratie binnen hun communicatiestijl.*
 - Beoordeel bij elke zin in hoeverre dit op u van toepassing is:
-- 	een. helemaal niet mee eens
-B. het oneens zijn
-C. neutrale
-NS. mee eens
-e. sterk mee eens
+- 	A. helemaal niet mee eens
+	B. oneens
+	C. neutraal
+	D. mee eens
+	e. sterk mee eens
 
 - Ik uit gemakkelijk mijn emoties.
-- Ik vind het moeilijk om mijn gevoelens te uiten
-- Ik kan gemakkelijk praten over de dingen die ik nodig heb
-- Ik vind het moeilijk om iemand te vertellen wat ik nodig heb
-- Ik gebruik van nature veel handgebaren als ik spreek
-- Ik beweeg veel als ik praat
+- Ik vind het moeilijk om mijn gevoelens te uiten.
+- Ik kan gemakkelijk praten over de dingen die ik nodig heb.
+- Ik vind het moeilijk om iemand te vertellen wat ik nodig heb.
+- Ik gebruik van nature veel handgebaren als ik spreek.
+- Ik beweeg veel als ik praat.
 - Ik praat liever over mijn gevoel dan erover te schrijven.
-- Ik schrijf liever wat ik nodig heb dan iemand te vertellen wat ik nodig heb.
-- Ik schrijf liever over wat ik doe dan iemand te vertellen wat ik doe.
+- Ik schrijf liever wat ik nodig heb, dan met iemand erover te praten.
+- Ik schrijf liever over wat ik doe, dan het aan iemand te vertellen.
 - Ik vind het gemakkelijk om mijn gevoelens te tekenen.
-- Het moeilijkste aan het verzenden van een sms-bericht is om een ​​zin te beginnen.
+- Het moeilijkste aan het verzenden van een app-bericht is om een nieuwe zin te beginnen.
 - Wanneer ik een melding ontvang, duurt het lang voordat ik antwoord.
-- Ik antwoord onmiddellijk wanneer ik een melding ontvang.
+- Ik antwoord onmiddellijk wanneer ik een melding van een nieuw app-bericht ontvang.
 - Ik heb moeite om de juiste woorden te vinden om te gebruiken.
 - Mijn woordenschat is zeer beperkt.
 - Ik word overweldigd door groepschats.
 - Ik word nerveus van het antwoorden in groepschats.
 - Ik gebruik graag groepschats om te communiceren.
 - Ik denk dat groepschats onduidelijk zijn.
-- Mijn persoonlijkheid komt niet over als ik een sms stuur.
-- Ik kan me goed uitdrukken door sms'jes te sturen.
+- Mijn persoonlijkheid komt niet over als ik een appje stuur.
+- Ik kan me goed uitdrukken door appjes te sturen.
 - Ik voel me veilig om met mijn familie te praten.
 - Ik voel afstand van mijn familie.
 - Ik voel me sterk verbonden met mijn familie.
@@ -147,12 +148,12 @@ e. sterk mee eens
 - Hoe kan uw gezin profiteren van het maken van gebaren?
 
 ### Maak een video-afspraak - initiatiefnemer
-- Ervaart u dat uw gezinsleden tijdens het praten een vorm van handgebaren gebruiken?
+- Ervaar je dat jouw gezinsleden tijdens het praten een vorm van handgebaren gebruiken?
 - Drukken alle gezinsleden zich gelijkmatig uit met handgebaren tijdens het praten?
 - Wat merk je op als ze met hun handen praten?
 - Hoe verschilt het gebruik van handgebaren tijdens verschillende emoties?
-- Wat zijn de meest populaire gebaren in uw familie?
-- Family Dynamic: Welke problemen ervaart u als gevolg van slechte familiecommunicatie? Wat zou je willen verbeteren?
+- Wat zijn de meest populaire gebaren in jouw familie?
+- Family Dynamic: Welke problemen ervaar je als gevolg van slechte familiecommunicatie? Wat zou je willen verbeteren?
 - Hoe denk je dat het gebruik van Signs dit kan veranderen?
 -> Samen de demo doorlopen, vragen om hardop te praten.
 -> eventuele moeilijkheden of vragen bespreken.
@@ -166,8 +167,8 @@ _ wanneer was de laatste keer dat u boos was?_
 - Ben je klaar om met de oefening te beginnen?
 - Selecteer een onderwerp
 - Schrijf een verhaal over het onderwerp
-- Selecteer een tag die uw verhaal beschrijft
-- Schrijf een zin die bestaat uit uw tags. Probeer minimaal drie combinaties te maken of zoveel als je wilt. Het kan over van alles gaan.
+- Selecteer een tag die jouw verhaal het beste beschrijft
+- Schrijf een zin die bestaat uit deze tags. Probeer minimaal drie combinaties te maken of zoveel als je wilt. Het kan over van alles gaan.
 - Maak een gebaar voor een of meer van de tags of zinnen.
 - Selecteer een tag om hiervoor een gebaar te maken.
     - Welk gebaar zou je maken voor dit woord?
@@ -199,8 +200,8 @@ Is er nog iets dat u ons wilt laten weten? open ruimte voor feedback
 - Merk je sinds het moment dat je met het onderzoek bent begonnen iets anders aan de manier waarop je familie online met elkaar praat? Beschrijf de wijzigingen
 - Je hebt geoefend met het maken van gebaren. Wat was je favoriete gebaar om te maken? waarom?
 - Beschrijf een moment waarop je een gebaar gebruikte om iemand te vertellen hoe je je voelde. Wie was het? Hoe voelde je je? Waarom?
-- Beschrijf een moment waarop u liever een gebaar gebruikt dan te praten.
-- Beschrijf een moment waarop u liever een gebaar gebruikt dan een tekst te typen.
+- Beschrijf een moment waarop je liever een gebaar gebruikt dan te praten.
+- Beschrijf een moment waarop je liever een gebaar gebruikt dan een tekst te typen.
 - Met wie zou je een bord willen delen, behalve je familie? Waarom?
 - Zou je graag in contact willen komen met andere families, net als die van jou? Via een netwerk van familieborden.
 - Zou u dit aan andere gezinnen aanbevelen? Waarom?
@@ -209,7 +210,7 @@ Is er nog iets dat u ons wilt laten weten? open ruimte voor feedback
 - Wilt u uw bibliotheek opslaan? Of voor altijd verwijderen?
 
 ### videogesprek beëindigen
-- Heeft u tijdens dit onderzoek iets nieuws geleerd over uw gezinsleden? Beschrijf wat je hebt geleerd.
+- Heb jij tijdens dit onderzoek iets nieuws geleerd over uw gezinsleden? Beschrijf wat je hebt geleerd.
 - zich uiten door middel van gebaren.
 - Hoe reageerden ze?
 - Welk advies zou je willen delen met andere gezinnen die net met de studie zijn begonnen?
