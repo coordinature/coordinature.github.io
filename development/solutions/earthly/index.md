@@ -20,6 +20,8 @@ We do this by representing earthly matters in the digital sphere, through Earthl
 - Adding any ecological organism, as an digital entity that you can track and interact with.
 - Tokenizing the actions taken to maintain their health.
 - Creating a search engine where questions about entities or ecological processes can be answered through interactive animations.
+
+
     
     
 
