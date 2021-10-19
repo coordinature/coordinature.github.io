@@ -2,7 +2,9 @@
 
 _"Hey Earthly, how did this all happen?"_
 
-- Ask Earthly anything about an organism, or a ecological process.
+We are creating an earthly.ai who can represent ecological organisms or processes, through storytelling and animation in the digital sphere.
+
+- Ask Earthly.ai anything about an organism, or a ecological process.
 - Or train your own Earthly entity, to be able to track, trace your actions and learn from it's processes.
 
 ---
@@ -20,8 +22,3 @@ We do this by representing earthly matters in the digital sphere, through Earthl
 - Adding any ecological organism, as an digital entity that you can track and interact with.
 - Tokenizing the actions taken to maintain their health.
 - Creating a search engine where questions about entities or ecological processes can be answered through interactive animations.
-
-
-    
-    
-
