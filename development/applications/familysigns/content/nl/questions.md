@@ -24,14 +24,14 @@ onboarding.personal
 1. Welke gebruikersnaam zou je aan anderen willen laten zien?
 2. Welke talen spreek je?
 
-- _Selecteer de talen die u spreekt en sorteer ze op voorkeur._
+- _Selecteer de talen die je spreekt en sorteer ze op voorkeur._
 - [x] Nederlands
     - [x] Engels
     + _Voeg een andere taal toe uit onze talen_
     
 3. Communiceer je met gebarentaal?
 
-    - _Voeg/selecteer de talen die u spreekt en sorteer ze op voorkeur._
+    - _Voeg/selecteer de talen die jespreekt en sorteer ze op voorkeur._
 		- [x] Amerikaanse Gebarentaal
 		- [x] NGT Nederlandse Gebaren Taal
         - [ ] Makaton
@@ -101,7 +101,7 @@ onboarding.groep
 
 ## vragenlijst begintoestand - allen
 *met als doel te observeren hoe zij hun communicatiepatronen ervaren. Hoe zij ondertekenen zien als een integratie binnen hun communicatiestijl.*
-- Beoordeel bij elke zin in hoeverre dit op u van toepassing is:
+- Beoordeel bij elke zin in hoeverre dit op jou van toepassing zijn:
 - 	A. helemaal niet mee eens
 	B. oneens
 	C. neutraal
@@ -163,7 +163,7 @@ onboarding.groep
 
 ## lusvragen - zie questionloop
 bijvoorbeeld:
-_ wanneer was de laatste keer dat u boos was?_
+_ wanneer was de laatste keer dat je boos was?_
 
 - Ben je klaar om met de oefening te beginnen?
 - Selecteer een onderwerp
