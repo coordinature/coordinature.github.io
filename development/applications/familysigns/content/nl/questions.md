@@ -49,7 +49,7 @@ onboarding.personal
 onboarding.groep
 
 ### Maak een nieuwe groep aan
-1. Welke groepsnaam zou je aan anderen willen laten zien?
+1. Welke groepsnaam zou je willen gebruiken?
 2. Voor wie maak je deze groep?
     - [x] Mijn familie
     - [ ] Mijn team
