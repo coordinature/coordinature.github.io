@@ -2,7 +2,7 @@
 
 _"Hey Earthly, how did this all happen?"_
 
-We are creating an earthly.ai which represents ecological organisms or processes, through storytelling and animation in the digital sphere.
+We are creating an earthly.ai which represents ecological organisms and processes, through storytelling and animation in the digital sphere.
 
 - Ask Earthly.ai anything about an organism, or a ecological process.
 - Or train your own Earthly entity, to be able to track, trace your actions and learn from it's processes.
