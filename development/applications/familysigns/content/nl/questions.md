@@ -78,7 +78,7 @@ onboarding.groep
 
 ### start de studie - allen
 - Welke activiteiten doe jij graag met jouw gezin?
-- Als je in een wereld zou leven waar niemand zou kunnen praten, op welke manieren zou je dan kiezen om je gevoelens te uiten: *selecteer als je wilt*
+- Als je in een wereld zou leven waar niemand zou kunnen praten, op welke manieren zou je dan kiezen om je gevoelens te uiten: *selecteer zoveel als je wilt*
 	- dansen
     - tekenen
     - geluiden
@@ -92,11 +92,11 @@ onboarding.groep
 - Welke apps gebruik je om met je vrienden te praten?
 - In welke app praat je met je familie?
 - Wat vind je moeilijk aan de apps die je nu gebruikt om met je familie te praten?
-- Groepsberichten
+	- Groepsberichten
     - Reageren
-    - Meldingen
+    - De hoeveelheid meldingen
     - Emoticons en gifs
-    - Eenvoudig in gebruik / te bedienen
+
 
 
 ## vragenlijst begintoestand - allen
@@ -136,7 +136,7 @@ onboarding.groep
 - Ik voel veel liefde.
 - Ik heb het gevoel dat mijn familie me niet begrijpt.
 - Meestal begrijpt mijn familie wat ik probeer te zeggen.
-- Het komt vaak voor dat ik een sms ontvang en geen idee heb waar ze het over hebben.
+- Het komt vaak voor dat ik een appje ontvang en geen idee heb waar ze het over hebben.
 - Ik heb moeite om te begrijpen waar mensen het over hebben.
 
 
@@ -161,7 +161,7 @@ onboarding.groep
 
 -- steiger
 
-## lusvragen - zie lusvragenbestand
+## lusvragen - zie questionloop
 bijvoorbeeld:
 _ wanneer was de laatste keer dat u boos was?_
 
@@ -183,12 +183,12 @@ _ wanneer was de laatste keer dat u boos was?_
 Wat was je favoriete gebaar om te maken?
 Welk gebaar zou jij het meest gebruiken?
 Op welke plekken voel je je overweldigd?
-Beschrijf hoe u het gebaar zou gebruiken in [deze drukke plaats].
+Beschrijf hoe je het gebaar zou gebruiken in deze drukke plaats.
 Hoe denk je dat het maken van gebaren je familie kan helpen om met elkaar te praten? Noem redenen waarom
-Merk je sinds het moment dat je met de studie bent begonnen iets anders aan de manier waarop je familie met elkaar praat? Beschrijf de wijzigingen
-Merk je sinds het moment dat je met het onderzoek bent begonnen iets anders aan de manier waarop je familie online met elkaar praat? Beschrijf de wijzigingen
+Merk je sinds het moment dat je met de studie bent begonnen iets anders aan de manier waarop je familie met elkaar praat? Beschrijf de veranderingen.
+Merk je sinds het moment dat je met het onderzoek bent begonnen iets anders aan de manier waarop je familie online met elkaar praat? Beschrijf de veranderingen.
 Heeft een gezinslid een gebaar uit de Signs-app gebruikt tijdens een persoonlijk gesprek? Beschrijf het moment en het gebaar.
-Is er nog iets dat u ons wilt laten weten? open ruimte voor feedback
+Is er nog iets dat je ons wilt laten weten? open ruimte voor feedback
 
 -- eindspel
 
@@ -198,18 +198,18 @@ Is er nog iets dat u ons wilt laten weten? open ruimte voor feedback
 
 ### eindevaluatie - alles
 *met als doel te weten hoe het onderzoek is verlopen en het gebruik van de tool.*
-- Merk je sinds het moment dat je met de studie bent begonnen iets anders aan de manier waarop je familie met elkaar praat? Beschrijf de wijzigingen
-- Merk je sinds het moment dat je met het onderzoek bent begonnen iets anders aan de manier waarop je familie online met elkaar praat? Beschrijf de wijzigingen
+- Merk je sinds het moment dat je met de studie bent begonnen iets anders aan de manier waarop je familie met elkaar praat? Beschrijf de veranderingen.
+- Merk je sinds het moment dat je met het onderzoek bent begonnen iets anders aan de manier waarop je familie online met elkaar praat? Beschrijf de veranderingen.
 - Je hebt geoefend met het maken van gebaren. Wat was je favoriete gebaar om te maken? waarom?
 - Beschrijf een moment waarop je een gebaar gebruikte om iemand te vertellen hoe je je voelde. Wie was het? Hoe voelde je je? Waarom?
 - Beschrijf een moment waarop je liever een gebaar gebruikt dan te praten.
 - Beschrijf een moment waarop je liever een gebaar gebruikt dan een tekst te typen.
 - Met wie zou je een bord willen delen, behalve je familie? Waarom?
 - Zou je graag in contact willen komen met andere families, net als die van jou? Via een netwerk van familieborden.
-- Zou u dit aan andere gezinnen aanbevelen? Waarom?
-- Is er nog iets dat u ons wilt laten weten? open ruimte voor feedback
+- Zou je dit aan andere gezinnen aanbevelen? Waarom?
+- Is er nog iets dat je ons wilt laten weten? open ruimte voor feedback
 
-- Wilt u uw bibliotheek opslaan? Of voor altijd verwijderen?
+- Wil je jouw bibliotheek opslaan? Of voor altijd verwijderen?
 
 ### videogesprek beëindigen
 - Heb jij tijdens dit onderzoek iets nieuws geleerd over uw gezinsleden? Beschrijf wat je hebt geleerd.
