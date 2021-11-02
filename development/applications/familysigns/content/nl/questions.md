@@ -14,29 +14,29 @@ register
 2. Wat is jouw achternaam?
 3. Wat is jouw geboortedatum?
 4. Hoe kunnen we contact met je opnemen over jouw account?
-1. Wat is jouw persoonlijke telefoonnummer?
-2. Wat is jouw persoonlijke e-mailadres?
+	1. Wat is jouw persoonlijke telefoonnummer?
+	2. Wat is jouw persoonlijke e-mailadres?
 
 ---
 onboarding.personal
 
 ### Maak je persoonlijke profiel aan
-1. Welke gebruikersnaam zou je aan anderen willen laten zien?
+1. Welke gebruikersnaam zou je willen instellen?
 2. Welke talen spreek je?
 
 - _Selecteer de talen die je spreekt en sorteer ze op voorkeur._
-- [x] Nederlands
+	- [x] Nederlands
     - [x] Engels
     + _Voeg een andere taal toe uit onze talen_
     
 3. Communiceer je met gebarentaal?
 
     - _Voeg/selecteer de talen die jespreekt en sorteer ze op voorkeur._
-		- [x] Amerikaanse Gebarentaal
-		- [x] NGT Nederlandse Gebaren Taal
+		- [x] Amerikaanse Gebarentaal - ASL
+		- [x] Nederlandse Gebaren Taal - NGT
         - [ ] Makaton
-        - [ ] Britse Gebarentaal
-        - [ ] Internationale gebarentaal
+        - [ ] Britse Gebarentaal - BSL
+        - [ ] Nederlands met Gebaren NmG
 		+ _Voeg nog een gebarentaaloptie toe uit onze talen_
 
 4. Welke apparaten ga je gebruiken voor Signs?
@@ -44,32 +44,41 @@ onboarding.personal
 	- _Voeg een nieuw apparaat toe aan je profiel_
     
 5. Voeg een profielfoto toe of kies een avatar.
+	_upload een foto of kies een avatar_
 
 ---
 onboarding.groep
 
 ### Maak een nieuwe groep aan
 1. Welke groepsnaam zou je willen gebruiken?
+	_Bedenk een groepsnaam voor jouw familie groep_
 2. Voor wie maak je deze groep?
+	_selecteer de type groep_
     - [x] Mijn familie
     - [ ] Mijn team
     + _Voeg nog een groepstype toe_
  
-3. Voeg een contactpersoon toe aan deze groep.
-4. Selecteer jouw relatie met deze contactpersoon
-- Ouder / voogd
+3. Wie wil je toevoegen aan de groep?
+_Voeg een contactpersoon toe aan deze groep._
+	
+4. Wat is jouw relatie met deze persoon?
+_Selecteer jouw relatie met deze contactpersoon_
+	- Ouder / voogd
     - Kind
     - Broer of zus
      + _Voeg nog een optie toe_
-- Selecteer de contacten die in uw huishouden wonen.
+- Wie woont er bij jou in huis?
+_Selecteer de contacten die in jouw huishouden wonen._
 
 ### Start het onderzoek - initiatiefnemer
-- Waarom heb je meegedaan aan dit onderzoek?
+- Waarom wil je deelnemen aan dit onderzoek?
+	_omschrijf jouw motivatie_
+    
 - Ik wil me beter uitdrukken.
     - Ik wil dat mijn familie zich beter uitdrukt.
     - Ik wil het onderzoek naar inclusieve communicatie ondersteunen.
     - Ik wil mijn communicatie op het werk verbeteren.
-    - ander
+    - Iets anders, namelijk...
 - Wat zou je van dit onderzoek willen leren?
 - Welke gezinsleden hebben geen smartphone?
 - Welke gezinsleden hebben een smartphone?
@@ -78,17 +87,32 @@ onboarding.groep
 
 ### start de studie - allen
 - Welke activiteiten doe jij graag met jouw gezin?
-- Als je in een wereld zou leven waar niemand zou kunnen praten, op welke manieren zou je dan kiezen om je gevoelens te uiten: *selecteer zoveel als je wilt*
+	- sporten
+    - bordspellen
+    - naar de film
+    - (empty field)
+    
+    
+- Als je in een wereld zou leven waar niemand zou kunnen praten, op welke manieren zou je dan kiezen om je gevoelens te uiten: _selecteer zoveel als je wilt_
 	- dansen
     - tekenen
     - geluiden
     - gezichtsuitdrukkingen
     - handgebaren
-    - ander
-- Over welke onderwerpen wil jij graag met jouw familie praten, maar vind je moeilijk? (Bijvoorbeeld: ik zou graag vaker met mijn familie willen praten over hoe ik me voel, maar dat vind ik moeilijk)
+    - Iets anders, namelijk...
+- Over welke onderwerpen wil jij graag met jouw familie praten, maar vind je moeilijk?
+	- Hoe ik mij voel.
+    - Hoe het op werk of school gaat.
+    - Over vrienden of collega'.
+	-  Iets anders, namelijk...
+	- ( empty field)
 
 #### telefoon
 - Welke apps gebruik je het meest op je telefoon?
+	- app 1
+    - app 2
+    - app 3
+    
 - Welke apps gebruik je om met je vrienden te praten?
 - In welke app praat je met je familie?
 - Wat vind je moeilijk aan de apps die je nu gebruikt om met je familie te praten?
@@ -96,11 +120,12 @@ onboarding.groep
     - Reageren
     - De hoeveelheid meldingen
     - Emoticons en gifs
-
+    - Een gesprek starten
+    - Iets anders, namelijk...
 
 
 ## vragenlijst begintoestand - allen
-*met als doel te observeren hoe zij hun communicatiepatronen ervaren. Hoe zij ondertekenen zien als een integratie binnen hun communicatiestijl.*
+
 - Beoordeel bij elke zin in hoeverre dit op jou van toepassing zijn:
 - 	A. helemaal niet mee eens
 	B. oneens
@@ -141,7 +166,6 @@ onboarding.groep
 
 
 ### start evaluatie - voor initiatiefnemer
-*met als doel te weten hoe het onderzoek verloopt en hoe de tool werkt. Als er verandering of iteraties nodig zijn die nu kunnen worden gemaakt, om het onderzoek te verbeteren.*
 
 - Hebben alle gezinsleden hun eerste gebaar gemaakt?
 - Kun je een moment in de toekomst zien waar het nuttig is om dit soort gebaren te gebruiken? Beschrijf het moment.
@@ -178,11 +202,17 @@ _ wanneer was de laatste keer dat je boos was?_
  Beoordeel in moeilijkheidsgraad.
 
 ## tussentijdse evaluatie - alles
-*met als doel te weten hoe het onderzoek verloopt en hoe de tool werkt. Als er verandering of iteraties nodig zijn die nu kunnen worden gemaakt, om het onderzoek te verbeteren.*
 
 Wat was je favoriete gebaar om te maken?
-Welk gebaar zou jij het meest gebruiken?
-Op welke plekken voel je je overweldigd?
+Welk gebaar denk je het meeste te gaan gebruiken? En waarom?
+Op welke plekken vind je soms te druk om te kunnen praten?
+_Denk aan een voorbeeld wanneer jij je voor het laatst zo voelde_
+	- Op school: namelijk...
+    	
+    - Op het werk: namelijk...
+    - Met vrienden: namelijk...
+    - In de winkels: namelijk...
+    	
 Beschrijf hoe je het gebaar zou gebruiken in deze drukke plaats.
 Hoe denk je dat het maken van gebaren je familie kan helpen om met elkaar te praten? Noem redenen waarom
 Merk je sinds het moment dat je met de studie bent begonnen iets anders aan de manier waarop je familie met elkaar praat? Beschrijf de veranderingen.
@@ -193,13 +223,12 @@ Is er nog iets dat je ons wilt laten weten? open ruimte voor feedback
 -- eindspel
 
 ### vragenlijst eindtoestand
-*met als doel om na het onderzoek te observeren hoe zij hun communicatiepatronen ervaren. Of er verbeteringen zijn en hoe zij het ondertekenen zien als een integratie binnen hun communicatiestijl, na het onderzoek.*
 - Dezelfde vragenlijst als de eerste.
 
 ### eindevaluatie - alles
-*met als doel te weten hoe het onderzoek is verlopen en het gebruik van de tool.*
-- Merk je sinds het moment dat je met de studie bent begonnen iets anders aan de manier waarop je familie met elkaar praat? Beschrijf de veranderingen.
-- Merk je sinds het moment dat je met het onderzoek bent begonnen iets anders aan de manier waarop je familie online met elkaar praat? Beschrijf de veranderingen.
+
+- Merk je sinds het moment dat je met de studie bent begonnen een verandering aan de manier waarop je familie met elkaar praat? Beschrijf de veranderingen.
+- Merk je sinds het moment dat je met het onderzoek bent begonnen een verandering aan de manier waarop je familie online met elkaar praat? Beschrijf de veranderingen.
 - Je hebt geoefend met het maken van gebaren. Wat was je favoriete gebaar om te maken? waarom?
 - Beschrijf een moment waarop je een gebaar gebruikte om iemand te vertellen hoe je je voelde. Wie was het? Hoe voelde je je? Waarom?
 - Beschrijf een moment waarop je liever een gebaar gebruikt dan te praten.
