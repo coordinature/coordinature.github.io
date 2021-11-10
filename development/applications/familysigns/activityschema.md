@@ -67,6 +67,6 @@ unique identifier:
 
 |                |                               |
 |----------------|-------------------------------|
-|identifier		 |phone number			           |
-|   			 |	|
-|        		 |	|
+|identifier		 |phone number			         |
+|user_name		 |	string	|
+|date_of_birth 	 | number	|
