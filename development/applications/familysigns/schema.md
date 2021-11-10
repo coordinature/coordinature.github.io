@@ -57,7 +57,6 @@ When using to many dependenties, the dataset can be messy to find your inputs an
 - gesture_length
 
 
-
 ### What tables are there?
 1. activity stream
 2. entity table
@@ -66,11 +65,44 @@ When using to many dependenties, the dataset can be messy to find your inputs an
 
 __Gesture Stream__
 
-| Timestamp  | Activity         | Entity 	           | gesture-id        | gesture-label
+| Timestamp  | Activity         | Entity 	           | gesture-id        | activity-label
 |----------  |----------------- | -----------          | -------------     | ------------
 | 15-12-2021 | Labeled gesture  | {{ participant_id }} | {{ gesture_id }}  | 'food' 
-| 16-12-2021 | Labeled gesture  | {{ participant_id }} | {{ gesture_id }}  | 'happy'
+| 16-12-2021 | saved gesture    | {{ participant_id }} | {{ gesture_id }}  | 'private'
 | 16-12-2021 | Labeled gesture  | {{ participant_id }} | {{ gesture_id }}  | 'I am hungry'
+
+
+__Question Stream__
+
+| Timestamp  | Activity          | Entity 	           | question-id        | activity-label
+|----------  |-----------------  | -----------          | -------------     | ------------
+| 15-12-2021 | Topic selected    | {{ participant_id }} | {{ question_id }} | 'school' 
+| 16-12-2021 | Question Openend  | {{ participant_id }} | {{ question_id }} | 'When were you last very happy at school?'
+| 16-12-2021 | Question Answered | {{ participant_id }} | {{ question_id }} | 'I was very happy when I got picked for the main role of the school play'
+| 16-12-2021 | Topic generated   | {{ participant_id }} | {{ question_id }} | 'dancing'
+
+
+__Question Activity Stream (Columns)__
+
+|                |              |
+|----------------|--------------|
+| activity_id	 | string	    |
+| ts	         | timestamp	|
+| question_id	 | string	    |
+| activity-label | string	    |
+| participant_id | string	    |
+
+
+__Questions Entity (Fields)__
+
+|                  |               |
+|----------------  |---------------|
+| question_id	   | string	     |
+| label            | string    	 |
+| Difficulty_rating| string    	 |
+| Number_of_clicks | string    	 |
+| time_on_task     | string    	 |
+| time_writing     | string    	 |
 
 
 __Gesture Activity Stream (Columns)__
@@ -78,11 +110,11 @@ __Gesture Activity Stream (Columns)__
 |                |              |
 |----------------|--------------|
 | activity_id	 | string	    |
+| activity_label | string	    |
 | ts	         | timestamp	|
-| source	     | string	    |
 | gesture_id	 | string	    |
-| gesture_label	 | string	    |
-| owner_    	 | string	    |
+| gesture_label  | string    	|
+| participant_id | string	    |
 
 
 __Gesture Entity (Fields)__
@@ -91,10 +123,19 @@ __Gesture Entity (Fields)__
 |----------------|---------------|
 | gesture_id	 | string	     |
 | participant_id | string        |
+| ts             | timestamp     |
+| gesture_label  | string    	 |
+| gesture_stream | string    	 |
+| gesture_length | string    	 |
 
 
 __Participant Entity (Fields)__
 | participant_id | string        |
 | phone_nr       | phone number  |
 | user_name		 | string	     |
+| first_name	 | string	     |
+| last_name		 | string	     |
 | date_of_birth  | date	         |
+| email_adress   | string        |
+
+
