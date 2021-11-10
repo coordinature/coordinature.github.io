@@ -61,12 +61,22 @@ When using to many dependenties, the dataset can be messy to find your inputs an
 |16-12-2021 |Started gesture  |Participant  | Labeled with 'food'
 |16-12-2021 |Started gesture  |Participant  | Labeled with 'food'
 
-
-#### example entity table
-unique identifier:
-
+##### Participant_stream
 |                |                               |
 |----------------|-------------------------------|
+|activity_id	 |string	         |
+|ts	 |	timestamp	|
+| participant	 | string	|
+| source	 | string	|
+| feature_1	 | string	|
+
+
+#### example entity table: Participant
+|                |                               |
+|----------------|-------------------------------|
+| participant	 | string	|
 |identifier		 |phone number			         |
 |user_name		 |	string	|
 |date_of_birth 	 | number	|
+|date_of_birth 	 | number	|
+
