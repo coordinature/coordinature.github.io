@@ -64,28 +64,37 @@ When using to many dependenties, the dataset can be messy to find your inputs an
 
 ### How will we use these tables in our study?
 
-#### example activity stream
+__Gesture Stream__
 
-| Timestamp |Activity      		|Entity 	|Features     |
-|---------- |-------------------|-----------|-------------|
-|15-12-2021 | Started gesture   | {{ participant.id }}  | Labeled with 'food' |
-|16-12-2021 | Labeled gesture    | {{ participant.id }}  | Labeled with 'happy' |
-|16-12-2021 | Saved gesture      | {{ participant.id }}  | Labeled with 'I am hungry' | 
-
-##### Participant_stream
-|                |                               |
-|----------------|-------------------------------|
-|activity_id	 |string	         |
-|ts	 |	timestamp	|
-| participant	 | string	|
-| source	 | string	|
-| feature_1	 | string	|
+| Timestamp  | Activity         | Entity 	           | gesture-id        | gesture-label
+|----------  |----------------- | -----------          | -------------     | ------------
+| 15-12-2021 | Labeled gesture  | {{ participant_id }} | {{ gesture_id }}  | 'food' 
+| 16-12-2021 | Labeled gesture  | {{ participant_id }} | {{ gesture_id }}  | 'happy'
+| 16-12-2021 | Labeled gesture  | {{ participant_id }} | {{ gesture_id }}  | 'I am hungry'
 
 
-#### example entity table: Participant
-|                |                               |
-|----------------|-------------------------------|
-| participant	 | string	     |
+__Gesture Activity Stream (Columns)__
+
+|                |              |
+|----------------|--------------|
+| activity_id	 | string	    |
+| ts	         | timestamp	|
+| source	     | string	    |
+| gesture_id	 | string	    |
+| gesture_label	 | string	    |
+| owner_    	 | string	    |
+
+
+__Gesture Entity (Fields)__
+
+|                |               |
+|----------------|---------------|
+| gesture_id	 | string	     |
+| participant_id | string        |
+
+
+__Participant Entity (Fields)__
+| participant_id | string        |
 | phone_nr       | phone number  |
 | user_name		 | string	     |
-| date_of_birth  | number	     |
+| date_of_birth  | date	         |
