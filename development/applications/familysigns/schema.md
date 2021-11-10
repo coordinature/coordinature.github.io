@@ -81,6 +81,15 @@ __Question Stream__
 | 16-12-2021 | Question Answered | {{ participant_id }} | {{ question_id }} | 'I was very happy when I got picked for the main role of the school play'
 | 16-12-2021 | Topic generated   | {{ participant_id }} | {{ question_id }} | 'dancing'
 
+| Timestamp  | Activity          | Entity 	           | question-id        | activity-label
+|----------  |-----------------  | -----------          | -------------     | ------------
+| 15-12-2021 | Library Openend   | {{ participant_id }} | {{ question_id }} | 
+| 16-12-2021 | Gesture viewed	 | {{ participant_id }} | {{ question_id }} | 
+| 16-12-2021 | Gesture shared	 | {{ participant_id }} | {{ question_id }} | 
+| 16-12-2021 | Collection created| {{ participant_id }} | {{ question_id }} | 
+| 16-12-2021 | Member invited	 | {{ participant_id }} | {{ question_id }} | 
+| 16-12-2021 | Account created	 | {{ participant_id }} | {{ question_id }} | 
+
 
 __Question Activity Stream (Columns)__
 
