@@ -42,10 +42,15 @@ When using to many dependenties, the dataset can be messy to find your inputs an
 - Onboarding: Creating an account and loggin in into the system
 - Questionaires: opening the forms, Viewing questions and answering questions, submitting the forms.
 - Questionloop: choosing topics, viewing questions, answering questions, generating new topics.
-- gesturing: selecting a word to create a gesture, or starting a gesture from scratch. Creating a gesture, labeling a gesture, saving a gesture.
+- gesturing: selecting a word to create a gesture, or starting a gesture from scratch. Creating a gesture, labeling a gesture, saving a gesture, sharing a gesture.
 - library: opening the library, viewing a gesture, editing the gestures label, retraining the gesture, changing the gesture or deleting the gesture.
 
 #### Features
+- time_on_page
+- time_writing
+- gesture_labeled
+- gesture_stream
+- gesture_length
 
 ### What tables are there?
 1. activity stream
