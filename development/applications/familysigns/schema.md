@@ -48,9 +48,15 @@ When using to many dependenties, the dataset can be messy to find your inputs an
 #### Features
 - time_on_page
 - time_writing
+- time_on_task
+- task_succes_rate
+- Number_of_clicks
+- Difficulty_rating
 - gesture_labeled
 - gesture_stream
 - gesture_length
+
+
 
 ### What tables are there?
 1. activity stream
