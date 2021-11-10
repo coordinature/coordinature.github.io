@@ -57,9 +57,9 @@ When using to many dependenties, the dataset can be messy to find your inputs an
 
 | Timestamp |Activity      		|Entity 	|Features     |
 |---------- |-------------------|-----------|-------------|
-|15-12-2021 | Started gesture   |Participant  | Labeled with 'food'
-|16-12-2021 |Started gesture  |Participant  | Labeled with 'food'
-|16-12-2021 |Started gesture  |Participant  | Labeled with 'food'
+|15-12-2021 | Started gesture  |Participant  | Labeled with 'food' |
+|16-12-2021 |Labeled gesture  |Participant  | Labeled with 'happy' |
+|16-12-2021 |Saved gesture  |Participant  | Labeled with 'I am hungry' | 
 
 ##### Participant_stream
 |                |                               |
@@ -78,5 +78,5 @@ When using to many dependenties, the dataset can be messy to find your inputs an
 |identifier		 |phone number			         |
 |user_name		 |	string	|
 |date_of_birth 	 | number	|
-|date_of_birth 	 | number	|
+
 
