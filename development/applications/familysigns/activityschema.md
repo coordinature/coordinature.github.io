@@ -53,28 +53,20 @@ When using to many dependenties, the dataset can be messy to find your inputs an
 
 ### How will we use these tables in our study?
 
+#### example activity stream
+
+| Timestamp |Activity      		|Entity 	|Features     |
+|---------- |-------------------|-----------|-------------|
+|15-12-2021 | Started gesture   |Participant  | Labeled with 'food'
+|16-12-2021 |Started gesture  |Participant  | Labeled with 'food'
+|16-12-2021 |Started gesture  |Participant  | Labeled with 'food'
 
 
+#### example entity table
 unique identifier:
-	- phone number
-    
 
-### acitivities
-onboarding
-- account created
-- group created
-- invitiation send
-
-gesturing
-- gesture created
-- gesture labeled
-- gesture saved
-
-
-### features
-Onboarding
-
-Gesturing
-- gesture stream
-- 
-
+|                |                               |
+|----------------|-------------------------------|
+|identifier		 |phone number			           |
+|   			 |	|
+|        		 |	|
