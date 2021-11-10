@@ -1,0 +1,6 @@
+- Welke activiteiten doe jij graag met jouw gezin?
+- Als je in een wereld zou leven waar niemand zou kunnen praten, op welke manieren zou je dan kiezen om je gevoelens te uiten?
+- Welke apps gebruik je het meest op je telefoon?
+- Welke apps gebruik je om met je vrienden te praten?
+- In welke app praat je met je familie?
+- Wat vind je moeilijk aan de apps die je nu gebruikt om met je familie te praten?
