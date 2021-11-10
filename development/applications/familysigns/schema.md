@@ -68,9 +68,9 @@ When using to many dependenties, the dataset can be messy to find your inputs an
 
 | Timestamp |Activity      		|Entity 	|Features     |
 |---------- |-------------------|-----------|-------------|
-|15-12-2021 | Started gesture  |Participant  | Labeled with 'food' |
-|16-12-2021 |Labeled gesture  |Participant  | Labeled with 'happy' |
-|16-12-2021 |Saved gesture  |Participant  | Labeled with 'I am hungry' | 
+|15-12-2021 | Started gesture   | {{ participant.id }}  | Labeled with 'food' |
+|16-12-2021 | Labeled gesture    | {{ participant.id }}  | Labeled with 'happy' |
+|16-12-2021 | Saved gesture      | {{ participant.id }}  | Labeled with 'I am hungry' | 
 
 ##### Participant_stream
 |                |                               |
@@ -85,9 +85,7 @@ When using to many dependenties, the dataset can be messy to find your inputs an
 #### example entity table: Participant
 |                |                               |
 |----------------|-------------------------------|
-| participant	 | string	|
-|identifier		 |phone number			         |
-|user_name		 |	string	|
-|date_of_birth 	 | number	|
-
-
+| participant	 | string	     |
+| phone_nr       | phone number  |
+| user_name		 | string	     |
+| date_of_birth  | number	     |
