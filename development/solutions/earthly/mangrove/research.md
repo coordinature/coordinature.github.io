@@ -9,16 +9,18 @@ In this document you'll find all research related to the mangrove ecosystem.
 
 ### 1. what are mangrove?
 What?
-A mangrove is a tree. They often come together and form a mangrove forest.
+A mangrove is a tree or shrub collection name. They often come together and form a mangrove forest.
 
 Where?
 They are found on coastlines in tropical and subtropical areas.
 They are mosly growing in a waterlogged invironment.
 
 role:
-- Nursery: It's often reverred to as the oceans nursery, because of its roots that provide a sheltered place for small fish and larvae to grow up.
+- Nursery: It's often reverred to as the oceans nursery, because of its roots that provide shelter, which provide the ideal breeding area for fish, shrimp, crabs and other shell animals.
 - Food: It is playing a important role for food for a whole ecosystem, including us humans.
 - Soil: It plays a great role against soil eruption.
+
+how many mangrove species are there?
 
 anatomy:
 Roots:
@@ -41,7 +43,7 @@ Human stories/ cultures:
 There are many entities that take shelter in this tree / forest and benefit from it's long roots, branches or leaves. Below a listing of all entities and what there role is within the mangrove system.
 
 Above water:
-- Human: ocal communities, interact with the fish from the sea as food.
+- Human: ocal communities, interact with the fish from the sea as food. 
 
 Below water:
 - American crocodile: _Crocodylus acutus_
@@ -50,6 +52,7 @@ Below water:
 - Hard clam: _Mercenaria mercenaria_
 - Gray snapper _Lutjanus griseus_
 -  barracuda, tarpon, and snook: larvae.
+- 
 
 These are the questions we want to have answered:
 	0. What is there name?
@@ -84,4 +87,23 @@ These are the questions we want to have answered:
 
 
 ### Sources
+file:///C:/Users/elise/Downloads/HandbookForMangroveAreaManagement1984[pdfa].PDF
+https://www.jstor.org/stable/24086244
+https://www.sciencedirect.com/science/article/pii/B9780128050521000012
 
+
+monitoring:
+
+What is SAR?
+Synthetic Aperture Rader.
+https://earthdata.nasa.gov/learn/backgrounders/what-is-sar
+
+Remote sensing techniques: mapping and monitoring of mangrove ecosystem—a review
+https://link.springer.com/article/10.1007/s40747-021-00457-z
+
+Manual for Mangrove Monitoring in the Pacific Islands Region
+https://www.sprep.org/attachments/Publications/Manual_Mangrove_Monitoring_PICs.pdf
+
+Monitoring mangrove forest health manual
+
+https://environment.des.qld.gov.au/__data/assets/pdf_file/0020/90641/biological-assessment-monitoring-mangrove-forest-health.pdf
