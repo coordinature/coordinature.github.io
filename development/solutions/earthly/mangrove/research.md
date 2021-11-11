@@ -15,6 +15,11 @@ Where?
 They are found on coastlines in tropical and subtropical areas.
 They are mosly growing in a waterlogged invironment.
 
+role:
+- Nursery: It's often reverred to as the oceans nursery, because of its roots that provide a sheltered place for small fish and larvae to grow up.
+- Food: It is playing a important role for food for a whole ecosystem, including us humans.
+- Soil: It plays a great role against soil eruption.
+
 anatomy:
 Roots:
 - Long, thick roots.
@@ -27,6 +32,9 @@ Trunk:
 Branches:
 
 Leaves:
+
+Human stories/ cultures:
+
 
 
 ### 2. What entities are involved within the mangrove ecosystem?
