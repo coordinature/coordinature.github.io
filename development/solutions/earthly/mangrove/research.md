@@ -52,7 +52,8 @@ Below water:
 - Hard clam: _Mercenaria mercenaria_
 - Gray snapper _Lutjanus griseus_
 -  barracuda, tarpon, and snook: larvae.
-- 
+- seagrass: 
+- corals: 
 
 These are the questions we want to have answered:
 	0. What is there name?
