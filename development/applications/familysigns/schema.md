@@ -38,6 +38,9 @@ When using to many dependenties, the dataset can be messy to find your inputs an
 - participant
 	- initiator
     - all
+- gesture
+- questions/answers
+
 #### Acitivities
 - Onboarding: Creating an account and loggin in into the system
 - Questionaires: opening the forms, Viewing questions and answering questions, submitting the forms.
