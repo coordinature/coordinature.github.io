@@ -23,4 +23,4 @@ Ja, dit kan. Omdat je een familiegroep aanmaakt en ieder een eigen profiel heeft
 Ja dat kan. Je mag de vragenlijsten samen invullen, doe dit wel op het profiel van degenen die de vragen beantwoord. Klik altijd aan: ik vul dit zelf in of ik vul het voor een ander in.
 
 ### Wat gebeurd er met de data die er wordt verzameld?
-
+We begrijpen dat deze data zeer gevoelige data is. Dit is ook waarom wij lang de tijd hebben genomen om dit onderzoek op een goede manier te ontwikkelen. In het kort: Jouw data blijft anoniem, blijft in de EU, staat op een veilige database, zal niet met derden worden gedeeld en wordt alleen bekeken voor dit onderzoek. Kijk in onze privacy policy voor meer uitleg en welke stappen wij hebben ondernomen: www.familysigns.app/privacypolicy
