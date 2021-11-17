@@ -145,9 +145,22 @@ _Als het weekend is, wat zou je dan het liefste met elkaar doen?_
     - Iets anders, namelijk...
 
 - Welke apps gebruik je het meest op je telefoon?
+	- app 1
+    - app 2
+    - app 3
+    
 - Welke apps gebruik je om met je vrienden te praten?
+
 - In welke app praat je met je familie?
+
 - Wat vind je moeilijk aan de apps die je nu gebruikt om met je familie te praten?
+	- Groepsberichten
+    - Reageren
+    - De hoeveelheid meldingen
+    - Emoticons en gifs
+    - Een gesprek starten
+    - Iets anders, namelijk...
+
 https://prose.io/#coordinature/coordinature.github.io/edit/main/development/applications/familysigns/content/questions/profile/index.md
     
     5. States questionaire
