@@ -9,3 +9,7 @@ Door deel te nemen aan het Family Signs Research, neem je deel aan de zoektocht 
 
 ### Wat te verwachten tijdens de studie
 Tijdens het onderzoek ontvang je meerdere vragenlijsten die je alleen en samen met je gezinsleden kunt invullen. Aan de hand van de vragenlijsten krijgen we een beter beeld van jouw huidige communicatie patronen, de moeilijkheden en de mogelijkheden voor Signs om jullie hierbij te helpen. Er zullen hiervoor drie momenten tijdens het onderzoek zijn: vooraf, tussentijds en aan het einde van het onderzoek. Na iedere vragenlijst zullen we je vragen om een diepte interview in te plannen. Samen met je gezin maak je je eigen privé Family Signs-groep aan, waarin ieder gezinslid een eigen profiel aanmaakt. Tijdens de proefperiode, schrijf je verhalen, oefen je met gebaren om jezelf uit te drukken die ieder op eigen manier met de familie mag delen.
+
+### andere vragen zie:
+[https://coordinature.github.io/development/applications/familysigns/content/nl/faq.md]
+
