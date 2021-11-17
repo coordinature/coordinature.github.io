@@ -68,7 +68,7 @@ Fase 3:
   2. register initiator
  
  ### Contact
- _Vul hier jouw persoonlijke gegevens in_
+ _Vul hier jouw persoonlijke gegevens in._
 - Wat is jouw voornaam?
 - Wat is jouw achternaam?
 - Wat is jouw geboortedatum?
@@ -111,14 +111,26 @@ https://prose.io/#coordinature/coordinature.github.io/edit/main/development/appl
     
 ### 5. Research Phase 2: all family members
 1. phase 2 introduction
-   
+
+Welkom bij Family Signs. Leuk dat je meedoet.
+Tijdens dit onderzoek gaan we leren over jouw en jouw familie. We leren over hoe jij makkelijker en op een leukere manier over jezelf te vertellen, via de telefoon. Doordat jij ons helpt, kunnen wij nieuwe uitvindingen maken om veel meer families zoals die van jou te helpen beter met elkaar te praten.
+We zullen jou een aantal vragen stellen. Als je dit moeilijk vindt, mag je dit altijd samen met iemand anders invullen, maar probeer wel zo veel mogelijk te zeggen wat jij zelf vindt.
+
    
 	2. Make a new family group
 ### Maak een nieuwe groep aan
+_Voor jouw familie maak je een familie groep aan. Dit is maximaal 1 groep per familie._
+
 1. Welke groepsnaam zou je willen gebruiken?
-2. Voor wie maak je deze groep?
-3. Wie wil je toevoegen aan de groep?
-4. Wat is jouw relatie met deze persoon?
+_Bedenk een leuke groepsnaam voor jouw familie. Maak je geen zorgen, dit kun je altijd veranderen._
+
+2. Wie wil je toevoegen aan de groep?
+
+3. Wat is jouw relatie met deze persoon?
+	- kind
+    - partner
+    - ouders
+    - anders namelijk...
 
 	3. Make a profile for each family member
 ### Maak je persoonlijke profiel aan
