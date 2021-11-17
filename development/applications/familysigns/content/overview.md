@@ -205,15 +205,37 @@ _ wanneer was de laatste keer dat je boos was?_
 
 ### 6. Research Phase 3: evaluation
 	1. phase 3 introduction
-    
-    
-	2. end questionaire
-    
-    
+ We zijn bijna klaar met het onderzoek! Goed gedaan!
+Voordat we stoppen, hebben we nog een aantal vragen voor je. Net zoals aan het begin vul je twee vragenlijsten in. Als je hulp nodig hebt, mag je het altijd samen doen. Maar let er wel op dat jij jouw eigen mening geeft!
+
+   2. Einde questionare alle
+ _Je hebt hard je best gedaan met het oefenen van de gebaren en het invullen van alle vragen. Dankjewel! Vul hieronder de vragen in over hoe jij het vond om te doen._ 
+ 
+- Je hebt geoefend met het maken van gebaren. Wat was je favoriete gebaar om te maken? waarom?
+- Heb je een grappig moment gehad, tijdens het maken van de gebaren dat je aan ons wilt vertellen?
+- Beschrijf een moment waarop je liever een gebaar gebruikt dan te praten.
+- Beschrijf een moment waarop je liever een gebaar gebruikt dan een tekst te typen.
+- Met wie zou je een Sign willen delen, behalve je familie? Waarom?
+
     3. state questionnaire
-https://prose.io/#coordinature/coordinature.github.io/edit/main/development/applications/familysigns/content/statements.md        
+https://prose.io/#coordinature/coordinature.github.io/edit/main/development/applications/familysigns/content/statements.md  
     
-    4. end in depth video interview
+	4. end questionaire initator
+ - Merk je sinds het moment dat je met de studie bent begonnen een verandering aan de manier waarop je familie met elkaar praat? Beschrijf de veranderingen.
+- Merk je sinds het moment dat je met het onderzoek bent begonnen een verandering aan de manier waarop je familie online met elkaar praat? Beschrijf de veranderingen.
+- Je hebt geoefend met het maken van gebaren. Wat was je favoriete gebaar om te maken? waarom?
+- Beschrijf een moment waarop je een gebaar gebruikte om iemand te vertellen hoe je je voelde. Wie was het? Hoe voelde je je? Waarom?
+- Beschrijf een moment waarop je liever een gebaar gebruikt dan te praten.
+- Beschrijf een moment waarop je liever een gebaar gebruikt dan een tekst te typen.
+- Zou je graag in contact willen komen met andere families, net als die van jou? Via een netwerk van familieborden.
+- Zou je dit aan andere gezinnen aanbevelen? Waarom?
+- Is er nog iets dat je ons wilt laten weten? open ruimte voor feedback
+
+- Wil je jouw bibliotheek opslaan? Of voor altijd verwijderen?
+
+     
+    
+    5. end in depth video interview
  _Graag maken we kennis met jou en een eventuele partner. Plan een datum en tijdstip in waarop het jouw het beste uitkomt om een video interview af te leggen._
  
 ### videogesprek beëindigen
