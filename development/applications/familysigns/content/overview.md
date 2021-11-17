@@ -221,14 +221,14 @@ Voordat we stoppen, hebben we nog een aantal vragen voor je. Net zoals aan het b
 https://prose.io/#coordinature/coordinature.github.io/edit/main/development/applications/familysigns/content/statements.md  
     
 	4. end questionaire initator
- - Merk je sinds het moment dat je met de studie bent begonnen een verandering aan de manier waarop je familie met elkaar praat? Beschrijf de veranderingen.
-- Merk je sinds het moment dat je met het onderzoek bent begonnen een verandering aan de manier waarop je familie online met elkaar praat? Beschrijf de veranderingen.
-- Je hebt geoefend met het maken van gebaren. Wat was je favoriete gebaar om te maken? waarom?
-- Beschrijf een moment waarop je een gebaar gebruikte om iemand te vertellen hoe je je voelde. Wie was het? Hoe voelde je je? Waarom?
-- Beschrijf een moment waarop je liever een gebaar gebruikt dan te praten.
-- Beschrijf een moment waarop je liever een gebaar gebruikt dan een tekst te typen.
-- Zou je graag in contact willen komen met andere families, net als die van jou? Via een netwerk van familieborden.
+ - Merk je sinds het moment dat je met het onderzoek bent begonnen een verandering aan de manier waarop je familie met elkaar praat? _Beschrijf de veranderingen._
+ 
+- Merk je sinds het moment dat je met het onderzoek bent begonnen een verandering aan de manier waarop je familie online met elkaar praat? _Beschrijf de veranderingen._
+
+- Zou je graag in contact willen komen met andere families, net als die van jou?
+
 - Zou je dit aan andere gezinnen aanbevelen? Waarom?
+
 - Is er nog iets dat je ons wilt laten weten? open ruimte voor feedback
 
 - Wil je jouw bibliotheek opslaan? Of voor altijd verwijderen?
