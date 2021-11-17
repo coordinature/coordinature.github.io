@@ -204,17 +204,18 @@ _ wanneer was de laatste keer dat je boos was?_
 - Hoe kan jouw gezin profiteren van het maken van gebaren?
 
 ### 6. Research Phase 3: evaluation
-	a. phase 3 introduction
+	1. phase 3 introduction
     
     
-	b. end questionaire
+	2. end questionaire
     
     
-    c. state questionnaire
+    3. state questionnaire
+https://prose.io/#coordinature/coordinature.github.io/edit/main/development/applications/familysigns/content/statements.md        
     
-    
-    d. end in depth video interview
-
+    4. end in depth video interview
+ _Graag maken we kennis met jou en een eventuele partner. Plan een datum en tijdstip in waarop het jouw het beste uitkomt om een video interview af te leggen._
+ 
 ### videogesprek beëindigen
 - Heb jij tijdens dit onderzoek iets nieuws geleerd over uw gezinsleden? Beschrijf wat je hebt geleerd.
 - zich uiten door middel van gebaren.
