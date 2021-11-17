@@ -236,7 +236,7 @@ https://prose.io/#coordinature/coordinature.github.io/edit/main/development/appl
      
     
     5. end in depth video interview
- _Graag maken we kennis met jou en een eventuele partner. Plan een datum en tijdstip in waarop het jouw het beste uitkomt om een video interview af te leggen._
+ _Graag plannen we een eind video gesprek in met jou en eventueel jouw partner om het onderzoek te evalueren. Plan een datum en tijdstip in waarop het jouw het beste uitkomt om een video interview af te leggen._
  
 ### videogesprek beëindigen
 - Heb jij tijdens dit onderzoek iets nieuws geleerd over uw gezinsleden? Beschrijf wat je hebt geleerd.
