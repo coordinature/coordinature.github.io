@@ -82,7 +82,13 @@ _We krijgen graag een beter beeld van jouw gezin en wie er mogelijk mee kan doen
 
 https://prose.io/#coordinature/coordinature.github.io/edit/main/development/applications/familysigns/content/questions/profile/initiator.md
 
-  5. start interview
+	5. Phase 1 End text
+### Klaar met fase 1
+Geweldig gedaan, dankjewel.
+We nodigen je graag uit voor een video gesprek, waarin we kennismaken met jou en eventueel jouw partner.
+Daarna beginnen we met fase 2, waarin jouw familie begint met hun deelnamen.
+
+  6. start interview
  ### Maak een video-afspraak - initiatiefnemer
  _Graag maken we kennis met jou en een eventuele partner. Plan een datum en tijdstip in waarop het jouw het beste uitkomt om een video interview af te leggen._
  
@@ -172,9 +178,14 @@ https://prose.io/#coordinature/coordinature.github.io/edit/main/development/appl
     
     5. States questionnaire
 https://prose.io/#coordinature/coordinature.github.io/edit/main/development/applications/familysigns/content/statements.md    
+
+	6. Phase 2 End text All
+### Klaar!
+Geweldig gedaan!
+In de volgende activiteit zul je via een chat verschillende vragen beantwoorden en oefenen met het maken van gebaren. Je mag dit zovaak doen en zo lang doen als je zelf wilt. Je mag nu beginnen met de Gids.
     
-	6. question loop 
-### Chat met de Signs Assistent.
+	7. question loop 
+### Chat met de Signs Gids.
 _Hi, leuk dat je er bent. Ik leer graag meer over jou en al jouw verhalen! Samen bedenken we nieuwe onderwerpen waar we over willen vertellen en oefenen we met het maken van gebaren_
 
 Example:
