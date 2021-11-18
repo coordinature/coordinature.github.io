@@ -26,12 +26,11 @@ Table Of Content
 	1. phase 3 intro
 	2. end questionnaire all
     3. state questionnaire
-    4. end questionanaire initiator
+    4. end evaluation - initiator
     4. end interview: video call
     
  ---
  
-
 
 ### 1. Introduction Email
 https://docs.google.com/document/d/1tykZ9NbOw4RibScdMmkFMp3VrlSLDMJwM_t1oH7D6Lw/edit?usp=sharing
@@ -205,13 +204,16 @@ _Omschrijf hoe en waarom._
 
 - Wil je iets anders kwijt?
 _Laat hier een bericht achter of neem contact met ons op._
+https://prose.io/#coordinature/coordinature.github.io/edit/main/development/applications/familysigns/content/questions/evaluation/mid.md
 
 ### 6. Research Phase 3: evaluation
 	1. phase 3 introduction
+ ### Fase 3: evaluatie
  We zijn bijna klaar met het onderzoek! Goed gedaan!
 Voordat we stoppen, hebben we nog een aantal vragen voor je. Net zoals aan het begin vul je twee vragenlijsten in. Als je hulp nodig hebt, mag je het altijd samen doen. Maar let er wel op dat jij jouw eigen mening geeft!
 
    2. Einde questionnaire alle
+ ### Evaluatie Vragenlijst
  _Je hebt hard je best gedaan met het oefenen van de gebaren en het invullen van alle vragen. Dankjewel! Vul hieronder de vragen in over hoe jij het vond om te doen._ 
  
 - Je hebt geoefend met het maken van gebaren. Wat was je favoriete gebaar om te maken? waarom?
@@ -232,7 +234,10 @@ _Omschrijf de persoon en waarom._
     3. state questionnaire
 https://prose.io/#coordinature/coordinature.github.io/edit/main/development/applications/familysigns/content/statements.md  
     
-	4. end questionnaire initiator
+	4. end evaluation initiator
+ ### Eind Evaluatie met initiatiefnemer
+_We zijn bij het einde van het onderzoek gekomen. Graag nemen we nog een aantal vragen met je door, voordat we een videogesprek inplannen. Vul de vragen zo goed mogelijk in._
+
  - Merk je sinds het moment dat je met het onderzoek bent begonnen een verandering aan de manier waarop je familie met elkaar praat? 
  _Beschrijf de veranderingen._
  
@@ -250,7 +255,7 @@ _laat een bericht achter of neem contact met ons op_
 
 - Wil je jouw bibliotheek opslaan? Of voor altijd verwijderen?
 
-     
+https://prose.io/#coordinature/coordinature.github.io/edit/main/development/applications/familysigns/content/questions/evaluation/end.md    
     
     5. end in depth video interview
  _Graag plannen we een eind video gesprek in met jou en eventueel jouw partner om het onderzoek te evalueren.4 Plan een datum en tijdstip in waarop het jouw het beste uitkomt om een video interview af te leggen._
