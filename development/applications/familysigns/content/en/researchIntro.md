@@ -10,5 +10,5 @@ By participating in the Family Signs Research, you will be part of the search to
 ### What to expect during the study
 During the study you will receive several questionnaires that you can complete alone and together with your family members. Based on the questionnaires we get a better picture of your current communication patterns, the difficulties and the possibilities for Signs to help you with this. There will be three phases during this research: Introduction, Family Activities and Evaluation. After the Introduction phase and Evaluation phase we will ask you to schedule an in-depth interview. During the Family Activities Phase, you will create your own private Family Signs group, in which each family member creates their own profile. During this study you will write stories, express yourself with gestures that can be shared within the family in your own way.
 
-### other questions see:
+### For frequently asked questions see:
 [https://coordinature.github.io/development/applications/familysigns/content/en/faq.md]
