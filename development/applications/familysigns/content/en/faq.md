@@ -16,10 +16,10 @@ We will discuss this together in the first in-depth interview, for a more person
 Yes that is possible. In the Family Acitivity phase, you will be able to add people to your family group by creating a new profile. Your recently added family member will have access to the family group and the already created gestures.
 
 ### My child does not have a mobile phone, can he/she participate?
-Yes, this is possible. Because you create a family group and everyone has their own profile, you can open Signs on every phone. You can easily switch profiles, so that you can fill in the questions one after the other and you don't have to worry about switching phones or laptops.
+Yes, this is possible. Because you can switch from your profile to your childs profile on any phone. This would allow you to fill in the questionnaire for yourself and your child without having to switch phones or laptops.
 
-### Someone in my family can't read well, but would like to participate. Is that possible?
-Yes, that's possible. You can complete the questionnaires together, but do this on the profile of those who answer the questions. Always click: I fill this in myself or I fill it in for someone else.
+### Someone in my family can't read well, but would still like to participate. Is that possible?
+Yes, that's possible. You can complete the questionnaires together, but do this on the profile of those who answer the questions. (Make sure you check the box: 'This was filled on behalf of me.', while using your childs profile)
 
 ### What happens to the data that is collected?
-We understand that this data is very sensitive data. This is also why we have taken a long time to develop this research in a good way. In short: Your data will remain anonymous, will remain in the EU, will be on a secure database, will not be shared with third parties and will only be viewed for this research. See our privacy policy for more information and what steps we have taken: www.familysigns.app/privacypolicy
+We understand that this data is very sensitive and we have taken all necessary precautions. Your data will remain anonymous, will be stored in the EU, will be on a secure database, will not be shared with third parties and will only be viewed for this research. See our privacy policy for more information and what steps we have taken: www.familysigns.app/privacypolicy
