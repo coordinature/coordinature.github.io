@@ -108,29 +108,46 @@ https://prose.io/#coordinature/coordinature.github.io/edit/main/development/appl
 ## 5. Research Phase 2: all family members
 1. phase 2 intro
 
-Welcome to Family Signs. Nice of you to participate.
-During this research we will learn about you and your family. We learn about how you can talk about yourself more easily and in a nicer way, over the phone. By helping us, we can make new inventions to help many more families like yours talk better.
-We will ask you some questions. If you find this difficult, you can always fill it in with someone else, but try to say as much as possible what you think.
+Welcome to Family Signs. We are happy you are here!
+During this research we want to learn more about you and your family. We want to try to make online talking easier and fun. And we need your help to do this!
+We will ask you some questions. If you find this difficult, you can always fill it in with someone else. Are you ready to start? Good luck!
+
 2. Group
-### Create a new group
-_You create a family group for your family. This is a maximum of 1 group per family._
+### Create a new group - iniator
+_Create a group for your family. There is a maximum of 1 group per family._
 
 1. What group name would you like to use?
-_Consider a nice group name for your family. Don't worry, you can always change this._
+_Pick a group name for your family. Don't worry, you can always change this._
 
 2. Who do you want to add to the group?
+_Fill in the name of each participant you would like to add to the group and we will send you a QR code that can be shared._
 
 3. What is your relationship with this person?
-- child
+	- child
     - partner
     - parents
     - otherwise, namely...
 
 3. User Profile.
 ### Create your personal profile
+_Fill out your profile_
+
 1. What username would you like to set?
-2. What languages ​​do you speak?
+_Pick a name, don't worry you can always change it later._
+
+2. What languages do you speak?
+_Select the languages you speak_
+
 3. Do you communicate with sign language?
+ _Add/Select the languages you speak and sort them by preference._
+		- [x] ASL American Sign Language
+		- [x] NGT Nederlandse Gebaren Taal
+        - [ ] Makaton
+        - [ ] BSL British Sign Language
+        - [ ] IS International Sign Language
+        - [ ] NmG Nederlands met Gebaren
+		+ _Add another sign language option from our languages_
+
 4. What devices will you be using for Signs?
 5. Add a profile picture or choose an avatar.
 
