@@ -3,6 +3,8 @@
 ### How long is the study?
 It will last two months and it will vary between ten minutes to an hour each week. You will receive all important information in your email including the starting and end date.
 
+### What happens if I no longer want to participate in the study?
+You are free to opt out at your own will, however we encourage you to stay the entire study as your opinion is highly valued for the development of the app. If you wish to opt-out, we will schedule a final video interview to round up the process.
 
 ### At what age can my child participate?
 We think that children from the age of 10 can participate well in the study. Children younger than 10 are still welcome to participate in this study. During the first in depth interview, we can help see what might be the best option for you and your children.
