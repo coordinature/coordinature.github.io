@@ -33,6 +33,7 @@ Table Of Content
 
 
 ### 1. Introduction Email
+https://docs.google.com/document/d/1tykZ9NbOw4RibScdMmkFMp3VrlSLDMJwM_t1oH7D6Lw/edit?usp=sharing
 
 ### 2. Introduction welcome text
 https://prose.io/#coordinature/coordinature.github.io/edit/main/development/applications/familysigns/content/nl/researchIntro.md
@@ -42,28 +43,7 @@ https://prose.io/#coordinature/coordinature.github.io/edit/main/development/appl
 
 ### 4. Research phase 1: introduction for initiator
   1. introduction text
-Welkom bij Family Signs. Jij hebt jezelf als initiatiefnemer ingeschreven om deel te nemen aan het onderzoek. Het onderzoek gebeurd in drie fases: de beginfase zal enkel met jou en eventueel jouw partner worden gedaan. Fase 2 en 3 doe jij samen met het gehele gezin. 
-
-Hieronder een kort overzicht:
-
-fase 1:
-- Contact: Jij registreert jezelf als initiatiefnemer.
-- Family registeren: Jij registeert jouw familie.
-- Family communicatie: Een korte vragenlijst over jouw familie.
-- Diepte interview: je plant zelf een interview met jouw en eventueel jouw partner in om kennis te maken.
-
-fase 2:
-- Familiegroep:  jij maakt een groep aan voor jouw familie.
-- Profiel: alle gezinsleden maken een profiel aan.
-- kennismaking: alle gezinsleden vullen de kennismakingsvragenlijst in.
-- Statement vragenlijst: alle gezinsleden vullen ieder een begin vragenlijst is. Ouders mogen helpen.
-- Chat met de Signs assistent: alle gezinsleden mogen zelf spelen en chatten met de assistent.
-- Midterm evaluatie: Vul de vragenlijst in als initiatiefnemer.
-
-Fase 3:
-- Statement vragenlijst: alle gezinsleden vullen ieder een begin vragenlijst is. Ouders mogen helpen.
-- Eind evaluatie vragenlijst: vul deze als initatiefnemer in.
-- Eind diepte interview: je plant zelf een interview met jouw en eventueel jouw partner in om kennis te maken.
+Welkom bij Family Signs. Jij hebt jezelf en jouw familie ingeschreven om deel te nemen aan het onderzoek. Het onderzoek gebeurd in drie fases: de eerste fase zal enkel met jou en eventueel jouw partner worden gedaan. Fase 2 en 3 doe jij samen met het gehele gezin. 
     
   2. register initiator
  
@@ -236,7 +216,7 @@ https://prose.io/#coordinature/coordinature.github.io/edit/main/development/appl
      
     
     5. end in depth video interview
- _Graag plannen we een eind video gesprek in met jou en eventueel jouw partner om het onderzoek te evalueren. Plan een datum en tijdstip in waarop het jouw het beste uitkomt om een video interview af te leggen._
+ _Graag plannen we een eind video gesprek in met jou en eventueel jouw partner om het onderzoek te evalueren.4 Plan een datum en tijdstip in waarop het jouw het beste uitkomt om een video interview af te leggen._
  
 ### videogesprek beëindigen
 - Heb jij tijdens dit onderzoek iets nieuws geleerd over uw gezinsleden? Beschrijf wat je hebt geleerd.
