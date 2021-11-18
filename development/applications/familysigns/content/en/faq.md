@@ -12,9 +12,8 @@ Yes, your child can already participate. During the second phase 'Family Activit
 
 We will discuss this together in the first in-depth interview, for a more personal approach.
 
-### What if everyone wants to join the family group later? is that possible?
-Yes that is possible. Together you create a family group, in which you indicate how many relatives you have.
-This is the beginning of your family library. If a family member wants to join later, this is possible by creating a new profile. Your family member also has access to the family group and the gestures already made and shared.
+### What if someone wants to join the family group later? is that possible?
+Yes that is possible. In the Family Acitivity phase, you will be able to add people to your family group by creating a new profile. Your recently added family member will have access to the family group and the already created gestures.
 
 ### My child does not have a mobile phone, can he/she participate?
 Yes, this is possible. Because you create a family group and everyone has their own profile, you can open Signs on every phone. You can easily switch profiles, so that you can fill in the questions one after the other and you don't have to worry about switching phones or laptops.
