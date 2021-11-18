@@ -27,7 +27,7 @@ Table Of Content
 	2. end questionnaire all
     3. state questionnaire
     4. end evaluation - initiator
-    4. end interview: video call
+    5. end interview: video call
     
  ---
  
@@ -74,7 +74,9 @@ _We krijgen graag een beter beeld van jouw gezin en wie er mogelijk mee kan doen
 - Welke activiteiten doe jij graag met jouw gezin?
 - Welke activiteiten zou jij graag vaker doen met jouw gezin?
 - Over welke onderwerpen wil jij graag met jouw familie praten, maar vind je moeilijk?
-    
+
+https://prose.io/#coordinature/coordinature.github.io/edit/main/development/applications/familysigns/content/questions/profile/initiator.md
+
   5. start interview
  ### Maak een video-afspraak - initiatiefnemer
  _Graag maken we kennis met jou en een eventuele partner. Plan een datum en tijdstip in waarop het jouw het beste uitkomt om een video interview af te leggen._
@@ -99,7 +101,6 @@ Welkom bij Family Signs. Leuk dat je meedoet.
 Tijdens dit onderzoek gaan we leren over jou en jouw familie. We leren over hoe jij makkelijker en op een leukere manier over jezelf te vertellen, via de telefoon. Doordat jij ons helpt, kunnen wij nieuwe uitvindingen maken om veel meer families zoals die van jou te helpen beter met elkaar te praten.
 We zullen jou een aantal vragen stellen. Als je dit moeilijk vindt, mag je dit altijd samen met iemand anders invullen, maar probeer wel zo veel mogelijk te zeggen wat jij zelf vindt.
 
-   
 	2. Group
 ### Maak een nieuwe groep aan
 _Voor jouw familie maak je een familie groep aan. Dit is maximaal 1 groep per familie._
@@ -115,7 +116,6 @@ _Bedenk een leuke groepsnaam voor jouw familie. Maak je geen zorgen, dit kun je 
     - ouders
     - anders namelijk...
 
-
 	3. User Profile.    
 ### Maak je persoonlijke profiel aan
 1. Welke gebruikersnaam zou je willen instellen?
@@ -123,6 +123,8 @@ _Bedenk een leuke groepsnaam voor jouw familie. Maak je geen zorgen, dit kun je 
 3. Communiceer je met gebarentaal?
 4. Welke apparaten ga je gebruiken voor Signs?
 5. Voeg een profielfoto toe of kies een avatar.
+
+https://prose.io/#coordinature/coordinature.github.io/edit/main/development/applications/familysigns/content/questions/task/gesture.md
 
 	4. Profile questionnaire (profile/index)
 ### kennismaking
@@ -204,10 +206,11 @@ _Omschrijf hoe en waarom._
 
 - Wil je iets anders kwijt?
 _Laat hier een bericht achter of neem contact met ons op._
+
 https://prose.io/#coordinature/coordinature.github.io/edit/main/development/applications/familysigns/content/questions/evaluation/mid.md
 
 ### 6. Research Phase 3: evaluation
-	1. phase 3 introduction
+	1. phase 3 intro
  ### Fase 3: evaluatie
  We zijn bijna klaar met het onderzoek! Goed gedaan!
 Voordat we stoppen, hebben we nog een aantal vragen voor je. Net zoals aan het begin vul je twee vragenlijsten in. Als je hulp nodig hebt, mag je het altijd samen doen. Maar let er wel op dat jij jouw eigen mening geeft!
