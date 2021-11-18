@@ -10,9 +10,3 @@
 2. Voor wie maak je deze groep?
 3. Wie wil je toevoegen aan de groep?
 4. Wat is jouw relatie met deze persoon?
-
-### Make your first gesture
-- Hebben alle gezinsleden hun eerste gebaar gemaakt?
-- Kun je een moment in de toekomst zien waar het nuttig is om dit soort gebaren te gebruiken? Beschrijf het moment.
-- Welke gezinsleden hebben het meeste baat bij het maken van gebaren? Waarom?
-- Hoe kan jouw gezin profiteren van het maken van gebaren?
