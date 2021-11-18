@@ -90,7 +90,7 @@ Then we start with phase 2, where your family starts with their participation.
 
   6. start interview
  ### Make a video appointment - initiator
- _We would like to schedule a video appointment to get to know you and your family situation better. Please pick time and date that is most convenient for you in the calender bellow._
+ _We would like to schedule a video appointment to get to know you and your family situation better. Please pick time and date that is most convenient for you in the calender below._
  
  (VERBALLY ASKED QUESTIONS)
  - Family Dynamic: What problems do you experience as a result of poor family communication? What would you like to improve?
@@ -314,10 +314,10 @@ https://prose.io/#coordinature/coordinature.github.io/edit/main/development/appl
 Thank you for your efforts, we really appreciate this.
 Thanks to you and your family's help, we can better help other families like yours in their internal family communication. We will notify you as soon as a new version of the app is available for download. Of course, all your family gestures will be saved, so you can take them with you for the future. The guide remains open for use and you may continue to practice and play with the gestures.
 
-As a final step, we would like to schedule a video conversation with you and possibly your partner to  learn about your experience and thank you personally.
+As a final step, we would like to schedule a video conversation with you and possibly your partner to  learn about your experience and thank you personally. 
  
     7. end in depth video interview
- _We would like to schedule a final video interview with you and (if possible) your partner.to evaluate the research.4 Schedule a date and time at which it is most convenient for you to conduct a video interview._
+ _We would like to schedule a video appointment to learn about your experience and thank you personally. Please pick time and date that is most convenient for you in the calender below._
  
 ### end video call
 - Did you learn anything new about your family members during this survey? Describe what you have learned.
