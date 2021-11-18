@@ -252,8 +252,15 @@ _Omschrijf de persoon en waarom._
 
     3. state questionnaire
 https://prose.io/#coordinature/coordinature.github.io/edit/main/development/applications/familysigns/content/statements.md  
-    
-	4. end evaluation initiator
+  
+  	4. End text  - all
+  ### Klaar
+  Dankjewel voor al jouw hulp! Je hebt het geweldig gedaan.
+  Je blijft toegang houden tot de gids en als je wilt mag je blijven oefenen.
+  Met jouw hulp helpen we andere families zoals die van jou bij het maken van gebaren en het uidrukken van wie je bent. We sturen jouw familie een berichtje, wanneer de app klaar is voor gebruik.
+  Al jouw gebaren zullen dan worden overgezet naar de nieuwe versie van de app.
+  
+	5. end evaluation initiator
  ### Eind Evaluatie met initiatiefnemer
 _We zijn bij het einde van het onderzoek gekomen. Graag nemen we nog een aantal vragen met je door, voordat we een videogesprek inplannen. Vul de vragen zo goed mogelijk in._
 
@@ -276,7 +283,14 @@ _laat een bericht achter of neem contact met ons op_
 
 https://prose.io/#coordinature/coordinature.github.io/edit/main/development/applications/familysigns/content/questions/evaluation/end.md    
     
-    5. end in depth video interview
+    6. End text initiator
+ ### Klaar
+Dankjewel voor jouw inzet, we waarderen dit enorm.
+Dankzij jouw hulp en die van jouw gezin, kunnen we andere families zoals die van jou beter helpen in hun interne familie communicatie. We zullen jou berichten zodra er een nieuwe versie van de app te downloaden is. Uiteraard zullen al jouw familie gebaren dan worden bewaard, zodat je die mee kan nemen voor de toekomst. De gids blijft open voor gebruik en je mag blijven oefenen en spelen met de gebaren.
+
+Als laatste stap plannen we graag een video gesprek met jou en eventueel jouw partner in om te bespreken hoe jullie dit onderzoek en het maken van gebaren hebben ervaren.
+ 
+    7. end in depth video interview
  _Graag plannen we een eind video gesprek in met jou en eventueel jouw partner om het onderzoek te evalueren.4 Plan een datum en tijdstip in waarop het jouw het beste uitkomt om een video interview af te leggen._
  
 ### video gesprek beëindigen
