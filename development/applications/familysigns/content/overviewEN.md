@@ -253,17 +253,20 @@ https://prose.io/#coordinature/coordinature.github.io/edit/main/development/appl
 1. phase 3 intro
  ### Phase 3: Evaluation
  We are almost done with the research! Well done!
-Before we stop, we have a few more questions for you. Just like in the beginning, you will fill in two questionnaires. Please complete the questions as honsetly as possible. Parents are allowed to help. (note to parents: Try not to bias your children's answers.)
+Before we finish the study, we have a few more questions for you. Just like in the beginning, you will fill in two questionnaires. Please complete the questions as honsetly as possible. Parents are allowed to help. (note to parents: Try not to bias your children's answers.)
 
    2. End of questionnaire all
  ### Evaluation Questionnaire
- _You tried hard practicing the gestures and completing all the questions. Thank you! Fill in the questions below about how you liked doing it._
+ _Thank you for practicing making gestures! Please fill in the questions below._
  
 - You have practiced making gestures. What was your favorite gesture to make? Why?
 _Describe your favorite gesture._
 
-- Did you have a funny moment, while making the gestures you want to tell us?
-_Describe the moment._
+- Did you have a funny moment, while making the gestures?
+_Tell us about it._
+
+- In what moments did you find making a gesture hard and why?
+_Tell us about it._
 
 - Describe a moment when you would rather use a gesture than talk.
 _Describe the moment._
@@ -271,7 +274,7 @@ _Describe the moment._
 - Describe a moment when you would rather use a gesture than type a text.
 _Describe the moment._
 
-- Who would you like to share a Sign with other than your family? Why?
+- Who would you like to share a Sign with someone other than your family? Why?
 _Describe the person and why._
 
     3. state questionnaire
@@ -280,13 +283,12 @@ https://prose.io/#coordinature/coordinature.github.io/edit/main/development/appl
   4. End text - all
   ### Finished
   Thank you for all your help! You did a great job.
-  You will continue to have access to the guide and you may continue to practice if you wish.
-  With your help, we help other families like yours make gestures and express who you are. We will send your family a message when the app is ready for use.
-  All your gestures will then be transferred to the new version of the app.
+  You will continue to have access to the chat and you may continue to practice making gestures if you wish.
+  With your help, we can help many other families like yours. Now we know more about how to make online talking easier and more fun! We will send your family a message when a new version of the app is ready for use. All your gestures will be saved and can also be used in the new app.
   
 5. end evaluation initiator
  ### End Evaluation with initiator
-_We have come to the end of the investigation. We would like to discuss a few more questions with you before we schedule a video call. Fill in the questions as accurately as possible._
+_We have come to the end of our study. We would like to discuss a few more questions with you before we schedule a video call. Fill in the questions as honestly as possible._
 
  - Since you started the study, have you noticed a change in the way your family talks to each other?
  _Describe the changes._
@@ -297,7 +299,7 @@ _Describe the changes._
 - Would you like to get in touch with other families just like yours?
 _Describe why._
 
-- Would you recommend Family Signs to other families? Why?
+- Would you recommend Family Signs to other families? Why or why not?
 _Describe what you would recommend._
 
 - Is there anything else you want us to know?
@@ -310,9 +312,9 @@ https://prose.io/#coordinature/coordinature.github.io/edit/main/development/appl
     6. End text initiator
  ### Finished
 Thank you for your efforts, we really appreciate this.
-Thanks to your and your family's help, we can better help other families like yours in their internal family communication. We will notify you as soon as a new version of the app is available for download. Of course, all your family gestures will be saved, so you can take them with you for the future. The guide remains open for use and you may continue to practice and play with the gestures.
+Thanks to you and your family's help, we can better help other families like yours in their internal family communication. We will notify you as soon as a new version of the app is available for download. Of course, all your family gestures will be saved, so you can take them with you for the future. The guide remains open for use and you may continue to practice and play with the gestures.
 
-As a final step, we would like to schedule a video conversation with you and possibly your partner to discuss how you experienced this research and making gestures.
+As a final step, we would like to schedule a video conversation with you and possibly your partner to  learn about your experience and thank you personally.
  
     7. end in depth video interview
  _We would like to schedule a final video interview with you and (if possible) your partner.to evaluate the research.4 Schedule a date and time at which it is most convenient for you to conduct a video interview._
