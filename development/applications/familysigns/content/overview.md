@@ -11,7 +11,8 @@ Table Of Content
     2. contact: register the initiator
     3. family profile
     4. intentions
-    5. Start interview: video call
+    5. phase 1 End text
+    6. Start interview: video call
     
 5. Research Phase 2: all family members
 	1. phase 2 intro
@@ -19,14 +20,18 @@ Table Of Content
     3. User Profile
     4. Profile questionnaire
    	5. States questionnaire
+    6. phase 2 End text all
 	6. question loop: chat with Signs Assistent
     7. mid evaluation - initiator
+    8. phase 2 End text Initiator
 
 6. Research Phase 3: evaluation
 	1. phase 3 intro
 	2. end questionnaire all
     3. state questionnaire
-    4. end evaluation - initiator
+    4. phase 3 End text all
+    5. end evaluation - initiator
+    6. phase 3 End text initiator
     5. end interview: video call
     
  ---
