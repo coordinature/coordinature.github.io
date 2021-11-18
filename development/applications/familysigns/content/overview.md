@@ -7,26 +7,27 @@ Table Of Content
 2. Introduction welcome text
 3. FAQ
 4. Research phase 1: introduction for initiator
-	1. introduction text
-    2. register initiator
-    3. family communication
-    4. create a group
-    5. start in depth video interview
+	1. phase 1 intro: welcome text
+    2. contact: register the initiator
+    3. family profile
+    4. intentions
+    5. Start interview: video call
     
 5. Research Phase 2: all family members
-	1. phase 2 introduction text
-	2. Make a profile for each family member
-    3. Make a new group
-    4. acquaintance questionnaire
+	1. phase 2 intro
+	2. Group
+    3. User Profile
+    4. Profile questionnaire
    	5. States questionnaire
-	6. question loop/ Signs Assistent
-    7. questionnaire 'tussentijdse evaluatie'
+	6. question loop: chat with Signs Assistent
+    7. mid evaluation - initiator
 
 6. Research Phase 3: evaluation
-	1. phase 3 introduction text
-	2. end questionnaire
+	1. phase 3 intro
+	2. end questionnaire all
     3. state questionnaire
-    4. end in depth video interview
+    4. end questionanaire initiator
+    4. end interview: video call
     
  ---
  
@@ -42,10 +43,10 @@ https://prose.io/#coordinature/coordinature.github.io/edit/main/development/appl
 https://prose.io/#coordinature/coordinature.github.io/edit/main/development/applications/familysigns/content/nl/faq.md
 
 ### 4. Research phase 1: introduction for initiator
-  1. introduction text
+  1. Phase 1 intro
 Welkom bij Family Signs. Jij hebt jezelf en jouw familie ingeschreven om deel te nemen aan het onderzoek. Het onderzoek gebeurd in drie fases: de eerste fase zal enkel met jou en eventueel jouw partner worden gedaan. Fase 2 en 3 doe jij samen met het gehele gezin.
     
-  2. register initiator
+  2. Contact
  
  ### Contact
  _Vul hier jouw persoonlijke gegevens in._
@@ -55,19 +56,19 @@ Welkom bij Family Signs. Jij hebt jezelf en jouw familie ingeschreven om deel te
 - Wat is jouw telefoonnummer?
 - Wat is jouw mailadres?
 
-  3. Family register
+  3. Family profile
 
-### Registreer jou familie
-_Om een beter beeld te krijgen van jouw gezin en wie er mogelijk mee kan doen hebben we een aantal vragen opgesteld. Vul deze zo goed mogelijk in._
+### Familie profiel
+_We krijgen graag een beter beeld van jouw gezin en wie er mogelijk mee kan doen. Vul de volgende vragen zo goed mogelijk in._
 
 - Uit hoeveel gezinsleden bestaat jouw gezin?
 - Wonen alle gezinsleden in hetzelfde huis?
 - Welke gezinsleden hebben geen smartphone?
 - Welke gezinsleden hebben een smartphone?
     
-  4. family communication
- ### Familie communicatie
- _Om een beter beeld te krijgen van jouw intenties en jouw familie, hebben we een aantal vragen opgesteld. Vul deze zo volledig mogelijk in_
+  4. Intentions
+ ### Intenties
+ _Om je zo goed mogelijk te begeleiden tijdens dit onderzoek, willen we graag meer leren over jouw intenties. Vul de volgende vragen zo volledig mogelijk in._
  
 - Waarom wil je deelnemen aan dit onderzoek?
 - Wat zou je van dit onderzoek willen leren?
@@ -75,7 +76,7 @@ _Om een beter beeld te krijgen van jouw gezin en wie er mogelijk mee kan doen he
 - Welke activiteiten zou jij graag vaker doen met jouw gezin?
 - Over welke onderwerpen wil jij graag met jouw familie praten, maar vind je moeilijk?
     
-  5. start in depth video interview
+  5. start interview
  ### Maak een video-afspraak - initiatiefnemer
  _Graag maken we kennis met jou en een eventuele partner. Plan een datum en tijdstip in waarop het jouw het beste uitkomt om een video interview af te leggen._
  
@@ -93,14 +94,14 @@ https://prose.io/#coordinature/coordinature.github.io/edit/main/development/appl
 
     
 ### 5. Research Phase 2: all family members
-1. phase 2 introduction
+1. phase 2 intro
 
 Welkom bij Family Signs. Leuk dat je meedoet.
 Tijdens dit onderzoek gaan we leren over jou en jouw familie. We leren over hoe jij makkelijker en op een leukere manier over jezelf te vertellen, via de telefoon. Doordat jij ons helpt, kunnen wij nieuwe uitvindingen maken om veel meer families zoals die van jou te helpen beter met elkaar te praten.
 We zullen jou een aantal vragen stellen. Als je dit moeilijk vindt, mag je dit altijd samen met iemand anders invullen, maar probeer wel zo veel mogelijk te zeggen wat jij zelf vindt.
 
    
-	2. Make a new family group
+	2. Group
 ### Maak een nieuwe groep aan
 _Voor jouw familie maak je een familie groep aan. Dit is maximaal 1 groep per familie._
 
@@ -115,7 +116,8 @@ _Bedenk een leuke groepsnaam voor jouw familie. Maak je geen zorgen, dit kun je 
     - ouders
     - anders namelijk...
 
-	3. Make a profile for each family member
+
+	3. User Profile.    
 ### Maak je persoonlijke profiel aan
 1. Welke gebruikersnaam zou je willen instellen?
 2. Welke talen spreek je?
@@ -123,8 +125,7 @@ _Bedenk een leuke groepsnaam voor jouw familie. Maak je geen zorgen, dit kun je 
 4. Welke apparaten ga je gebruiken voor Signs?
 5. Voeg een profielfoto toe of kies een avatar.
 
-	4. Acquaintance- questionnaire (profile/index)
-    
+	4. Profile questionnaire (profile/index)
 ### kennismaking
 _Om jou beter te leren kennen, willen we je graag wat vragen. Vul de vragen zo goed mogelijk in. Ouders mogen dit samen met de kinderen doen. Probeer hierbij niet te veel te sturen in de antwoorden._
 
@@ -186,8 +187,8 @@ _ wanneer was de laatste keer dat je boos was?_
  Beoordeel in moeilijkheidsgraad.    
  
     
-   7. questionnaire 'tussentijdse evaluatie' - initator
- ### midterm initiator Evaluation
+   7. mid evaluation - initiator
+ ### Mid- Evaluatie met de initiatiefnemer
  _Je bent halverwege het onderzoek. Goed gedaan! Vul de volgende vragen zo goed mogelijk in._
  
 - Hebben alle gezinsleden hun eerste gebaar gemaakt?
@@ -201,6 +202,9 @@ _Beschrijf wie en waarom_
 
 - Hoe kan jouw gezin profiteren van het maken van gebaren?
 _Omschrijf hoe en waarom._
+
+- Wil je iets anders kwijt?
+_Laat hier een bericht achter of neem contact met ons op._
 
 ### 6. Research Phase 3: evaluation
 	1. phase 3 introduction
@@ -229,15 +233,20 @@ _Omschrijf de persoon en waarom._
 https://prose.io/#coordinature/coordinature.github.io/edit/main/development/applications/familysigns/content/statements.md  
     
 	4. end questionnaire initiator
- - Merk je sinds het moment dat je met het onderzoek bent begonnen een verandering aan de manier waarop je familie met elkaar praat? _Beschrijf de veranderingen._
+ - Merk je sinds het moment dat je met het onderzoek bent begonnen een verandering aan de manier waarop je familie met elkaar praat? 
+ _Beschrijf de veranderingen._
  
-- Merk je sinds het moment dat je met het onderzoek bent begonnen een verandering aan de manier waarop je familie online met elkaar praat? _Beschrijf de veranderingen._
+- Merk je sinds het moment dat je met het onderzoek bent begonnen een verandering aan de manier waarop je familie online met elkaar praat?
+_Beschrijf de veranderingen._
 
 - Zou je graag in contact willen komen met andere families, net als die van jou?
+_Omschrijf waarom._
 
-- Zou je dit aan andere gezinnen aanbevelen? Waarom?
+- Zou je Family Signs aan andere gezinnen aanbevelen? Waarom?
+_Omschrijf wat je zou aanbevelen._
 
-- Is er nog iets dat je ons wilt laten weten? open ruimte voor feedback
+- Is er nog iets dat je ons wilt laten weten?
+_laat een bericht achter of neem contact met ons op_
 
 - Wil je jouw bibliotheek opslaan? Of voor altijd verwijderen?
 
