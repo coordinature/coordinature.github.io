@@ -37,16 +37,16 @@ Table Of Content
  ---
  
 
-### 1. Introduction Email
+## 1. Introduction Email
 https://docs.google.com/document/d/1tykZ9NbOw4RibScdMmkFMp3VrlSLDMJwM_t1oH7D6Lw/edit?usp=sharing
 
-### 2. Introduction welcome text
+## 2. Introduction welcome text
 https://prose.io/#coordinature/coordinature.github.io/edit/main/development/applications/familysigns/content/nl/researchIntro.md
 
-### 3. FAQ
+## 3. FAQ
 https://prose.io/#coordinature/coordinature.github.io/edit/main/development/applications/familysigns/content/nl/faq.md
 
-### 4. Research phase 1: introduction for initiator
+## 4. Research phase 1: introduction for initiator
   1. Phase 1 intro
 Welkom bij Family Signs. Jij hebt jezelf en jouw familie ingeschreven om deel te nemen aan het onderzoek. Het onderzoek gebeurd in drie fases: de eerste fase zal enkel met jou en eventueel jouw partner worden gedaan. Fase 2 en 3 doe jij samen met het gehele gezin.
     
@@ -105,7 +105,7 @@ Daarna beginnen we met fase 2, waarin jouw familie begint met hun deelnamen.
 https://prose.io/#coordinature/coordinature.github.io/edit/main/development/applications/familysigns/content/questions/interview/start.md
 
     
-### 5. Research Phase 2: all family members
+## 5. Research Phase 2: all family members
 1. phase 2 intro
 
 Welkom bij Family Signs. Leuk dat je meedoet.
@@ -225,7 +225,7 @@ _Laat hier een bericht achter of neem contact met ons op._
 
 https://prose.io/#coordinature/coordinature.github.io/edit/main/development/applications/familysigns/content/questions/evaluation/mid.md
 
-### 6. Research Phase 3: evaluation
+## 6. Research Phase 3: evaluation
 	1. phase 3 intro
  ### Fase 3: evaluatie
  We zijn bijna klaar met het onderzoek! Goed gedaan!
