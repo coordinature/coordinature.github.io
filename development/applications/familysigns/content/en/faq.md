@@ -10,7 +10,7 @@ Check out the second question for more information about the study.
 ### my child can't read or write well yet, but he can chat with me. Can my child participate?
 Yes, your child can already participate. During the second phase 'Family Activities', questions are asked about moments and situations in everyday life. You can read these questions together, write a story together and practice a gesture. This can be a fun exercise for you to get to know each other better and to practice expressing yourself. We are very curious about the age from which children can already make gestures themselves and may even be able to use this offline in communication with their parents. (Make sure you check the box: 'This was filled on behalf of me.', while using your childs profile)
 
-We will discuss this together in the first in-depth interview, so for a more personal approach.
+We will discuss this together in the first in-depth interview, for a more personal approach.
 
 ### What if everyone wants to join the family group later? is that possible?
 Yes that is possible. Together you create a family group, in which you indicate how many relatives you have.
