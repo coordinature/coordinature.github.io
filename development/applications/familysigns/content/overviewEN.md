@@ -149,13 +149,16 @@ _Select the languages you speak_
 		+ _Add another sign language option from our languages_
 
 4. What devices will you be using for Signs?
-5. Add a profile picture or choose an avatar.
+_Add your device_
+
+5. Add a profile picture.
+_Upload a picture._
 
 https://prose.io/#coordinature/coordinature.github.io/edit/main/development/applications/familysigns/content/questions/task/gesture.md
 
 4. Profile questionnaire (profile/index)
-### acquaintance
-_To get to know you better, we would like to ask you a few questions. Please complete the questions as accurately as possible. Parents may do this together with the children. Try not to send too much in the answers._
+### Getting to know you
+_To get to know you better, we would like to ask you a few questions. Please complete the questions as honsetly as possible. Parents are allowed to help. (note to parents: Try not to bias your children's answers.)_
 
 - What do you like to do with the family?
 _When it's the weekend, what would you most like to do together?_
