@@ -48,7 +48,7 @@ https://prose.io/#coordinature/coordinature.github.io/edit/main/development/appl
 
 ## 4. Research phase 1: introduction for initiator
   1. Phase 1 intro
-Welcome to Family Signs. You have registered yourself and your family to participate in the study. The research takes place in three phases: the first phase will only be done with you and (if possible) your partner. You do phase 2 and 3 together with the whole family.
+Welcome to Family Signs. You have registered yourself and your family to participate in the study. The research takes place in three phases: Introduction, Family Activities and Evaluation. This Introduction phase is done alone or with your partner and phase 2 and 3 is done together with the entire family.
     
   2. Contact
  
@@ -63,22 +63,22 @@ Welcome to Family Signs. You have registered yourself and your family to partici
   3. Family profile
 
 ### Family profile
-_We would like to get a better picture of your family and who may be able to participate. Please complete the following questions as accurately as possible._
+_We would like to get a better picture of your family and who might be able to participate. Please complete the following questions as accurately as possible._
 
-- How many family members does your family consist of?
+- How many family members are going to participate?
 - Do all family members live in the same house?
 - Which family members do not have a smartphone?
 - Which family members have a smartphone?
     
   4. Intentions
  ### Intentions
- _In order to guide you as best as possible during this research, we would like to learn more about your intentions. Please complete the following questions as completely as possible._
+ _In order to guide you as best as possible during this research, we would like to learn more about your intentions. Please complete the following questions._
  
 - Why do you want to participate in this research?
 - What would you like to learn from this research?
-What activities do you like to do with your family?
-What activities would you like to do more often with your family?
-- What topics would you like to talk about with your family, but find it difficult?
+- What activities do you like to do with your family?
+- What activities would you like to do more often with your family?
+- What topics do you find difficult to discuss with your family, due to communication barriers?
 
 https://prose.io/#coordinature/coordinature.github.io/edit/main/development/applications/familysigns/content/questions/profile/initiator.md
 
