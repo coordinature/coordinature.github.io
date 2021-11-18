@@ -148,7 +148,7 @@ _You may choose multiple answers._
 - dancing
     - draw
     - make noise.
-    - mimic: With my face, for example by looking angry.
+    - facial expression: With my face, for example by looking angry.
     - make hand gestures.
     - Something else, namely...
 
