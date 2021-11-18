@@ -181,45 +181,47 @@ _Write down the three most used apps._
     - app 2
     - app 3
     
-- What apps do you use to talk to your friends?
-_Write the names of the apps._
+- What apps do you use to talk to your friends and family?
+_Which one do you use for friends?_
 
-- What apps do you use to talk to your family?
-_Write the names of the apps._
+_Which one do you use for family?_
 
-- What do you find difficult about the apps you now use to talk to your family?
+- What do you find difficult about the apps you use to talk to your family?
 _You may choose multiple answers._
-- Group messages
-    - Respond
+	- Group messages
+    - Responding
     - The amount of notifications
     - Emoticons and gifs
     - Start a conversation
+    - it's not easy to use.
     - Something else, namely...
 
 https://prose.io/#coordinature/coordinature.github.io/edit/main/development/applications/familysigns/content/questions/profile/index.md
     
     5. States Questionnaire
-https://prose.io/#coordinature/coordinature.github.io/edit/main/development/applications/familysigns/content/statements.md
+https://prose.io/#coordinature/coordinature.github.io/edit/main/development/applications/familysigns/content/en/statements.md
 
 6. Phase 2 End text All
 ### Finished!
 Great job!
-In the next activity you will answer various questions via chat and practice making gestures. You can do this as often and for as long as you want. You may now start with the Guide.
+In the next activity you will answer various questions via chat, and practice making gestures. You can do this as often and for as long as you want. You may now start by writing a message in the chat.
     
 7. question loop
 ### Chat with the Signs Guide.
 _Hi, nice to have you here. I would love to learn more about you and all your stories! Together we come up with new topics that we want to talk about and we practice making gestures_
 
-Example:
-_ when was the last time you were angry?_
+(Example:
+_ when was the last time you were angry?_)
+
 
 - Are you ready to start the exercise?
 - Select a subject
 - Write a story on the topic
 - Select a tag that best describes your story
 - Write a sentence consisting of these tags. Try to make at least three combinations or as many as you want. It can be about anything.
-- Gesture one or more of the tags or phrases.
-- Select a tag to make a gesture for it.
+- Make a gesture.
+	- Make a gesture for this sentence.
+    - Make a gesture for this word.
     - What gesture would you make for this word?
     - Do you want to save this to your library?
     
@@ -251,7 +253,7 @@ https://prose.io/#coordinature/coordinature.github.io/edit/main/development/appl
 1. phase 3 intro
  ### Phase 3: Evaluation
  We are almost done with the research! Well done!
-Before we stop, we have a few more questions for you. Just like at the beginning, you fill in two questionnaires. If you need help, you can always do it together. But make sure you give your own opinion!
+Before we stop, we have a few more questions for you. Just like in the beginning, you will fill in two questionnaires. Please complete the questions as honsetly as possible. Parents are allowed to help. (note to parents: Try not to bias your children's answers.)
 
    2. End of questionnaire all
  ### Evaluation Questionnaire
