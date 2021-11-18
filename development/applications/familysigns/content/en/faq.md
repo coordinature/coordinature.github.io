@@ -1,5 +1,8 @@
 ## faq
 
+### How long is the study?
+It will last two months. You will receive all important information in your email including the starting and end date.
+
 ### At what age can my child participate?
 We think that children from the age of 10 can participate well in the study. Children younger than 10 are still welcome to participate in this study. During the first in depth interview, we can help see what might be the best option for you and your children.
 
