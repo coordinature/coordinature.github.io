@@ -13,7 +13,7 @@ We also understand that every child is different, so we leave it up to you wheth
 
 Check out the second question for more information about the study.
 
-### my child can't read or write well yet, but he can chat with me. Can my child participate?
+### my child can't read or write well yet, but they can chat with me. Can my child participate?
 Yes, your child can already participate. During the second phase 'Family Activities', questions are asked about moments and situations in everyday life. You can read these questions together, write a story together and practice a gesture. This can be a fun exercise for you to get to know each other better and to practice expressing yourself. We are very curious about the age from which children can already make gestures themselves and may even be able to use this offline in communication with their parents. (Make sure you check the box: 'This was filled on behalf of me.', while using your childs profile)
 
 We will discuss this together in the first in-depth interview, for a more personal approach.
@@ -22,7 +22,7 @@ We will discuss this together in the first in-depth interview, for a more person
 Yes that is possible. In the Family Acitivity phase, you will be able to add people to your family group by creating a new profile. Your recently added family member will have access to the family group and the already created gestures.
 
 ### My child does not have a mobile phone, can he/she participate?
-Yes, this is possible. Because you can switch from your profile to your childs profile on any phone. This would allow you to fill in the questionnaire for yourself and your child without having to switch phones or laptops.
+Yes, this is possible. You can switch from your profile to your childs profile on any phone. This would allow you to fill in the questionnaire for yourself and your child without having to switch phones or laptops.
 
 ### Someone in my family can't read well, but would still like to participate. Is that possible?
 Yes, that's possible. You can complete the questionnaires together, but do this on the profile of those who answer the questions. (Make sure you check the box: 'This was filled on behalf of me.', while using your childs profile)
