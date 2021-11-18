@@ -161,7 +161,7 @@ https://prose.io/#coordinature/coordinature.github.io/edit/main/development/appl
 _To get to know you better, we would like to ask you a few questions. Please complete the questions as honsetly as possible. Parents are allowed to help. (note to parents: Try not to bias your children's answers.)_
 
 - What do you like to do with the family?
-_When it's the weekend, what would you most like to do together?_
+_When it's the weekend, what would you like to do together?_
 
 - If you lived in a world where no one could talk, in what ways would you choose to express your feelings?
 _You may choose multiple answers._
