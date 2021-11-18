@@ -1,16 +1,16 @@
 ## faq
 
-### From what age can my child participate?
-You as the initiator will fill in most of the information. If you have a partner, you may also do this together with your partner. You create a profile for each family member. Regardless of whether the child has its own mobile phone.
+### At what age can my child participate?
+We think that children from the age of 10 can participate well in the study. Children younger than 10 are still welcome to participate in this study. During the first in depth interview, we can help see what might be the best option for you and your children.
 
-During the research, we look for how each family member can best express themselves in the digital environment. We use writing/typing, reading, tapping and gestures. We think that children from the age of 10 can participate well in the test. Children younger than 10 are of course also allowed to participate as far as possible.
+We also understand that every child is different, so we leave it up to you whether you think your child can do the assignments independently or whether you want to complete this completely together. We use writing/typing, reading, tapping and gestures.  We recommend that you first create a profile and go through the interface together, before your child can start using it on their own.
 
-We also understand that every child is different, so we leave it up to you whether you think your child can do the assignments independently or whether you want to complete this completely together. We recommend that you first create a profile and go through the interface together, before your child can start using it on their own.
+Check out the second question for more information about the study.
 
 ### my child can't read or write well yet, but he can chat with me. Can my child participate?
-Yes, your child can already participate. If your child is not yet able to read and write well, you can complete it together. In the main part of the research new questions are asked about moments and situations in everyday life. You can read these questions together, write a story together and practice a gesture. This can be a fun exercise for you to get to know each other better and to practice expressing your own experiences. We are very curious about the age from which children can already make gestures themselves and may even be able to use this offline in communication with their parents. Always click: I fill this in myself or I fill it in for someone else.
+Yes, your child can already participate. During the second phase 'Family Activities', questions are asked about moments and situations in everyday life. You can read these questions together, write a story together and practice a gesture. This can be a fun exercise for you to get to know each other better and to practice expressing yourself. We are very curious about the age from which children can already make gestures themselves and may even be able to use this offline in communication with their parents. (Make sure you check the box: 'This was filled on behalf of me.', while using your childs profile)
 
-We will discuss this together in the first in-depth interview, so that we devise a personal approach for this.
+We will discuss this together in the first in-depth interview, so for a more personal approach.
 
 ### What if everyone wants to join the family group later? is that possible?
 Yes that is possible. Together you create a family group, in which you indicate how many relatives you have.
