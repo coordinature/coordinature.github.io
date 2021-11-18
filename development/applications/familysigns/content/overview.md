@@ -18,13 +18,13 @@ Table Of Content
 	2. Make a profile for each family member
     3. Make a new group
     4. acquaintance questionnaire
-   	5. States questionaire
-	6. questionloop/ Signs Assistent
-    7. questionaire 'tussentijdse evaluatie'
+   	5. States questionnaire
+	6. question loop/ Signs Assistent
+    7. questionnaire 'tussentijdse evaluatie'
 
 6. Research Phase 3: evaluation
 	1. phase 3 introduction text
-	2. end questionaire
+	2. end questionnaire
     3. state questionnaire
     4. end in depth video interview
     
@@ -53,11 +53,11 @@ Welkom bij Family Signs. Jij hebt jezelf en jouw familie ingeschreven om deel te
 - Wat is jouw achternaam?
 - Wat is jouw geboortedatum?
 - Wat is jouw telefoonnummer?
-- Wat is jouw emailadres?
+- Wat is jouw mailadres?
 
   3. Family register
 
-### Registreer jouw familie
+### Registreer jou familie
 _Om een beter beeld te krijgen van jouw gezin en wie er mogelijk mee kan doen hebben we een aantal vragen opgesteld. Vul deze zo goed mogelijk in._
 
 - Uit hoeveel gezinsleden bestaat jouw gezin?
@@ -80,7 +80,7 @@ _Om een beter beeld te krijgen van jouw gezin en wie er mogelijk mee kan doen he
  _Graag maken we kennis met jou en een eventuele partner. Plan een datum en tijdstip in waarop het jouw het beste uitkomt om een video interview af te leggen._
  
  (VERBALLY ASKED QUESTIONS)
- - Family Dynamic: Welke problemen ervaar je als gevolg van slechte familiecommunicatie? Wat zou je willen verbeteren?
+ - Family Dynamic: Welke problemen ervaar je als gevolg van slechte familie communicatie? Wat zou je willen verbeteren?
 - Ervaar je dat jouw gezinsleden tijdens het praten een vorm van handgebaren gebruiken?
 - Drukken alle gezinsleden zich gelijkmatig uit met handgebaren tijdens het praten?
 - Wat merk je op als ze met hun handen praten?
@@ -96,7 +96,7 @@ https://prose.io/#coordinature/coordinature.github.io/edit/main/development/appl
 1. phase 2 introduction
 
 Welkom bij Family Signs. Leuk dat je meedoet.
-Tijdens dit onderzoek gaan we leren over jouw en jouw familie. We leren over hoe jij makkelijker en op een leukere manier over jezelf te vertellen, via de telefoon. Doordat jij ons helpt, kunnen wij nieuwe uitvindingen maken om veel meer families zoals die van jou te helpen beter met elkaar te praten.
+Tijdens dit onderzoek gaan we leren over jou en jouw familie. We leren over hoe jij makkelijker en op een leukere manier over jezelf te vertellen, via de telefoon. Doordat jij ons helpt, kunnen wij nieuwe uitvindingen maken om veel meer families zoals die van jou te helpen beter met elkaar te praten.
 We zullen jou een aantal vragen stellen. Als je dit moeilijk vindt, mag je dit altijd samen met iemand anders invullen, maar probeer wel zo veel mogelijk te zeggen wat jij zelf vindt.
 
    
@@ -123,7 +123,7 @@ _Bedenk een leuke groepsnaam voor jouw familie. Maak je geen zorgen, dit kun je 
 4. Welke apparaten ga je gebruiken voor Signs?
 5. Voeg een profielfoto toe of kies een avatar.
 
-	4. Acquaintance- questionaire (profile/index)
+	4. Acquaintance- questionnaire (profile/index)
     
 ### kennismaking
 _Om jou beter te leren kennen, willen we je graag wat vragen. Vul de vragen zo goed mogelijk in. Ouders mogen dit samen met de kinderen doen. Probeer hierbij niet te veel te sturen in de antwoorden._
@@ -132,23 +132,28 @@ _Om jou beter te leren kennen, willen we je graag wat vragen. Vul de vragen zo g
 _Als het weekend is, wat zou je dan het liefste met elkaar doen?_
 
 - Als je in een wereld zou leven waar niemand zou kunnen praten, op welke manieren zou je dan kiezen om je gevoelens te uiten?
+_Je mag meerdere antwoorden kiezen._
 	- dansen
     - tekenen
-    - geluiden maken.
+    - geluid maken.
     - Met mijn gezicht gebaren door boos te kijken en blij te kijken.
     - handgebaren te maken.
     - Iets anders, namelijk...
 
 - Welke apps gebruik je het meest op je telefoon?
+_Schrijf de drie meest gebruikte apps hier op._
 	- app 1
     - app 2
     - app 3
     
 - Welke apps gebruik je om met je vrienden te praten?
+_Schrijf de namen van de apps op._
 
 - In welke app praat je met je familie?
+_Schrijf de namen van de apps op._
 
 - Wat vind je moeilijk aan de apps die je nu gebruikt om met je familie te praten?
+_Je mag meerdere antwoorden kiezen._
 	- Groepsberichten
     - Reageren
     - De hoeveelheid meldingen
@@ -158,11 +163,13 @@ _Als het weekend is, wat zou je dan het liefste met elkaar doen?_
 
 https://prose.io/#coordinature/coordinature.github.io/edit/main/development/applications/familysigns/content/questions/profile/index.md
     
-    5. States questionaire
+    5. States questionnaire
 https://prose.io/#coordinature/coordinature.github.io/edit/main/development/applications/familysigns/content/statements.md    
     
-	6. questionloop 
+	6. question loop 
 ### Chat met de Signs Assistent.
+_Hi, leuk dat je er bent. Ik leer graag meer over jou en al jouw verhalen! Samen bedenken we nieuwe onderwerpen waar we over willen vertellen en oefenen we met het maken van gebaren_
+
 Example:
 _ wanneer was de laatste keer dat je boos was?_
 
@@ -179,31 +186,49 @@ _ wanneer was de laatste keer dat je boos was?_
  Beoordeel in moeilijkheidsgraad.    
  
     
-   7. questionaire 'tussentijdse evaluatie'
+   7. questionnaire 'tussentijdse evaluatie' - initator
  ### midterm initiator Evaluation
+ _Je bent halverwege het onderzoek. Goed gedaan! Vul de volgende vragen zo goed mogelijk in._
+ 
 - Hebben alle gezinsleden hun eerste gebaar gemaakt?
-- Kun je een moment in de toekomst zien waar het nuttig is om dit soort gebaren te gebruiken? Beschrijf het moment.
+_Omschrijf welke gezinsleden niet en waarom niet._
+
+- Kun je een moment in de toekomst zien waar het nuttig is om dit soort gebaren te gebruiken? 
+_Beschrijf het moment._
+
 - Welke gezinsleden hebben het meeste baat bij het maken van gebaren? Waarom?
+_Beschrijf wie en waarom_
+
 - Hoe kan jouw gezin profiteren van het maken van gebaren?
+_Omschrijf hoe en waarom._
 
 ### 6. Research Phase 3: evaluation
 	1. phase 3 introduction
  We zijn bijna klaar met het onderzoek! Goed gedaan!
 Voordat we stoppen, hebben we nog een aantal vragen voor je. Net zoals aan het begin vul je twee vragenlijsten in. Als je hulp nodig hebt, mag je het altijd samen doen. Maar let er wel op dat jij jouw eigen mening geeft!
 
-   2. Einde questionare alle
+   2. Einde questionnaire alle
  _Je hebt hard je best gedaan met het oefenen van de gebaren en het invullen van alle vragen. Dankjewel! Vul hieronder de vragen in over hoe jij het vond om te doen._ 
  
 - Je hebt geoefend met het maken van gebaren. Wat was je favoriete gebaar om te maken? waarom?
+_Omschrijf jouw favoriete gebaar._
+
 - Heb je een grappig moment gehad, tijdens het maken van de gebaren dat je aan ons wilt vertellen?
+_Omschrijf het moment._
+
 - Beschrijf een moment waarop je liever een gebaar gebruikt dan te praten.
+_Omschrijf het moment._
+
 - Beschrijf een moment waarop je liever een gebaar gebruikt dan een tekst te typen.
+_Omschrijf het moment._
+
 - Met wie zou je een Sign willen delen, behalve je familie? Waarom?
+_Omschrijf de persoon en waarom._
 
     3. state questionnaire
 https://prose.io/#coordinature/coordinature.github.io/edit/main/development/applications/familysigns/content/statements.md  
     
-	4. end questionaire initator
+	4. end questionnaire initiator
  - Merk je sinds het moment dat je met het onderzoek bent begonnen een verandering aan de manier waarop je familie met elkaar praat? _Beschrijf de veranderingen._
  
 - Merk je sinds het moment dat je met het onderzoek bent begonnen een verandering aan de manier waarop je familie online met elkaar praat? _Beschrijf de veranderingen._
@@ -221,10 +246,8 @@ https://prose.io/#coordinature/coordinature.github.io/edit/main/development/appl
     5. end in depth video interview
  _Graag plannen we een eind video gesprek in met jou en eventueel jouw partner om het onderzoek te evalueren.4 Plan een datum en tijdstip in waarop het jouw het beste uitkomt om een video interview af te leggen._
  
-### videogesprek beëindigen
+### video gesprek beëindigen
 - Heb jij tijdens dit onderzoek iets nieuws geleerd over uw gezinsleden? Beschrijf wat je hebt geleerd.
-- zich uiten door middel van gebaren.
-- Hoe reageerden ze?
 - Welk advies zou je willen delen met andere gezinnen die net met de studie zijn begonnen?
 - Hoe heb je deze studie in het algemeen ervaren? Wat was moeilijk, wat was gemakkelijk?
 - Wat was er moeilijk aan het maken van een gebaar?
@@ -232,3 +255,4 @@ https://prose.io/#coordinature/coordinature.github.io/edit/main/development/appl
 - open feedback
 
 https://prose.io/#coordinature/coordinature.github.io/edit/main/development/applications/familysigns/content/questions/interview/end.md
+
