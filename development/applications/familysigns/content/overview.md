@@ -43,7 +43,7 @@ https://prose.io/#coordinature/coordinature.github.io/edit/main/development/appl
 
 ### 4. Research phase 1: introduction for initiator
   1. introduction text
-Welkom bij Family Signs. Jij hebt jezelf en jouw familie ingeschreven om deel te nemen aan het onderzoek. Het onderzoek gebeurd in drie fases: de eerste fase zal enkel met jou en eventueel jouw partner worden gedaan. Fase 2 en 3 doe jij samen met het gehele gezin. 
+Welkom bij Family Signs. Jij hebt jezelf en jouw familie ingeschreven om deel te nemen aan het onderzoek. Het onderzoek gebeurd in drie fases: de eerste fase zal enkel met jou en eventueel jouw partner worden gedaan. Fase 2 en 3 doe jij samen met het gehele gezin.
     
   2. register initiator
  
@@ -58,18 +58,21 @@ Welkom bij Family Signs. Jij hebt jezelf en jouw familie ingeschreven om deel te
   3. Family register
 
 ### Registreer jouw familie
-_Om een beter beeld te krijgen van jouw gezin en wie er mogelijk mee kan doen hebben we een aantal vragen opgesteld. Vul deze zo goed mogelijk in_
+_Om een beter beeld te krijgen van jouw gezin en wie er mogelijk mee kan doen hebben we een aantal vragen opgesteld. Vul deze zo goed mogelijk in._
 
 - Uit hoeveel gezinsleden bestaat jouw gezin?
+- Wonen alle gezinsleden in hetzelfde huis?
 - Welke gezinsleden hebben geen smartphone?
 - Welke gezinsleden hebben een smartphone?
     
   4. family communication
  ### Familie communicatie
  _Om een beter beeld te krijgen van jouw intenties en jouw familie, hebben we een aantal vragen opgesteld. Vul deze zo volledig mogelijk in_
+ 
 - Waarom wil je deelnemen aan dit onderzoek?
 - Wat zou je van dit onderzoek willen leren?
 - Welke activiteiten doe jij graag met jouw gezin?
+- Welke activiteiten zou jij graag vaker doen met jouw gezin?
 - Over welke onderwerpen wil jij graag met jouw familie praten, maar vind je moeilijk?
     
   5. start in depth video interview
@@ -77,12 +80,12 @@ _Om een beter beeld te krijgen van jouw gezin en wie er mogelijk mee kan doen he
  _Graag maken we kennis met jou en een eventuele partner. Plan een datum en tijdstip in waarop het jouw het beste uitkomt om een video interview af te leggen._
  
  (VERBALLY ASKED QUESTIONS)
+ - Family Dynamic: Welke problemen ervaar je als gevolg van slechte familiecommunicatie? Wat zou je willen verbeteren?
 - Ervaar je dat jouw gezinsleden tijdens het praten een vorm van handgebaren gebruiken?
 - Drukken alle gezinsleden zich gelijkmatig uit met handgebaren tijdens het praten?
 - Wat merk je op als ze met hun handen praten?
 - Hoe verschilt het gebruik van handgebaren tijdens verschillende emoties?
 - Wat zijn de meest populaire gebaren in jouw familie?
-- Family Dynamic: Welke problemen ervaar je als gevolg van slechte familiecommunicatie? Wat zou je willen verbeteren?
 - Hoe denk je dat het gebruik van Signs dit kan veranderen?
 -> Samen de demo doorlopen, vragen om hardop te praten.
 -> eventuele moeilijkheden of vragen bespreken.
