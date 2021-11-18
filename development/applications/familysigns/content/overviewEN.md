@@ -161,19 +161,22 @@ https://prose.io/#coordinature/coordinature.github.io/edit/main/development/appl
 _To get to know you better, we would like to ask you a few questions. Please complete the questions as honsetly as possible. Parents are allowed to help. (note to parents: Try not to bias your children's answers.)_
 
 - What do you like to do with the family?
-_When it's the weekend, what would you like to do together?_
+_Describe the activities_
 
 - If you lived in a world where no one could talk, in what ways would you choose to express your feelings?
-_You may choose multiple answers._
-- dancing
-    - draw
-    - make noise.
+_describe what you would do_
+
+- If you had to choose a different way of talking, which options would you pick?
+_You may select multiple answers._
+	- dancing
+    - drawing
+    - making sounds
     - facial expression: With my face, for example by looking angry.
-    - make hand gestures.
+    - hand gestures.
     - Something else, namely...
 
 - Which apps do you use most on your phone?
-_Write down the three most used apps here._
+_Write down the three most used apps._
 	- app 1
     - app 2
     - app 3
@@ -181,7 +184,7 @@ _Write down the three most used apps here._
 - What apps do you use to talk to your friends?
 _Write the names of the apps._
 
-- In which app do you talk to your family?
+- What apps do you use to talk to your family?
 _Write the names of the apps._
 
 - What do you find difficult about the apps you now use to talk to your family?
