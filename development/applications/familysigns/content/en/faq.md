@@ -29,3 +29,6 @@ Yes, that's possible. You can complete the questionnaires together, but do this 
 
 ### What happens to the data that is collected?
 We understand that this data is very sensitive and we have taken all necessary precautions. Your data will remain anonymous, will be stored in the EU, will be on a secure database, will not be shared with third parties and will only be viewed for this research. See our privacy policy for more information and what steps we have taken: www.familysigns.app/privacypolicy
+
+### Other questions
+You can email your questions to: research@2tangosigns.org
