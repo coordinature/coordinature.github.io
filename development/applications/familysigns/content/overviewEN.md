@@ -48,7 +48,7 @@ https://prose.io/#coordinature/coordinature.github.io/edit/main/development/appl
 
 ## 4. Research phase 1: introduction for initiator
   1. Phase 1 intro
-Welcome to Family Signs. You have registered yourself and your family to participate in the study. The research takes place in three phases: the first phase will only be done with you and possibly your partner. You do phase 2 and 3 together with the whole family.
+Welcome to Family Signs. You have registered yourself and your family to participate in the study. The research takes place in three phases: the first phase will only be done with you and (if possible) your partner. You do phase 2 and 3 together with the whole family.
     
   2. Contact
  
@@ -148,7 +148,7 @@ _You may choose multiple answers._
 - dancing
     - draw
     - make noise.
-    - Gesturing with my face by looking angry and looking happy.
+    - mimic: With my face, for example by looking angry.
     - make hand gestures.
     - Something else, namely...
 
@@ -290,7 +290,7 @@ Thanks to your and your family's help, we can better help other families like yo
 As a final step, we would like to schedule a video conversation with you and possibly your partner to discuss how you experienced this research and making gestures.
  
     7. end in depth video interview
- _We would like to schedule a final video interview with you and possibly your partner to evaluate the research.4 Schedule a date and time at which it is most convenient for you to conduct a video interview._
+ _We would like to schedule a final video interview with you and (if possible) your partner.to evaluate the research.4 Schedule a date and time at which it is most convenient for you to conduct a video interview._
  
 ### end video call
 - Did you learn anything new about your family members during this survey? Describe what you have learned.
