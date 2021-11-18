@@ -90,7 +90,7 @@ Then we start with phase 2, where your family starts with their participation.
 
   6. start interview
  ### Make a video appointment - initiator
- _We would like to meet you and a possible partner. Schedule a date and time that is most convenient for you to do a video interview._
+ _We would like to schedule a video appointment to get to know you and your family situation better. Please pick time and date that is most convenient for you in the calender bellow._
  
  (VERBALLY ASKED QUESTIONS)
  - Family Dynamic: What problems do you experience as a result of poor family communication? What would you like to improve?
