@@ -32,3 +32,4 @@ We understand that this data is very sensitive and we have taken all necessary p
 
 ### Other questions
 You can email your questions to: research@2tangosigns.org
+We will make sure to contact you as soon as possible.
