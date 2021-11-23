@@ -15,19 +15,19 @@ Table Of Content
     6. Start interview: video call
     
 5. Research Phase 2: Family practice Signs
-1. phase 2 intro
-2. Group
+	1. phase 2 intro
+	2. Group
     3. User Profile
     4. Profile questionnaire
-   5. States Questionnaire
+   	5. States Questionnaire
     6. phase 2 End text all
-6. question loop: chat with Signs Assistant
+	6. question loop: chat with Signs Assistant
     7. mid evaluation - initiator
     8. phase 2 End text Initiator
 
 6. Research Phase 3: evaluation
-1. phase 3 intro
-2. end questionnaire all
+	1. phase 3 intro
+	2. end questionnaire all
     3. state questionnaire
     4. phase 3 End text all
     5. end evaluation - initiator
@@ -48,7 +48,7 @@ https://prose.io/#coordinature/coordinature.github.io/edit/main/development/appl
 
 ## 4. Research phase 1: introduction for initiator
   1. Phase 1 intro
-Welcome to Family Signs. You have registered yourself and your family to participate in the study. The research takes place in three phases: Introduction, Family Activities and Evaluation. This Introduction phase is done alone or with your partner and phase 2 and 3 is done together with the entire family.
+Welcome to Family Signs! You are amongst the first to have registered yourself and your family to participate in the study. The research takes place in three phases: Introduction, Family Activities and Evaluation. This Introduction phase is done alone or with your partner and phase 2 and 3 is done together with the entire family.
     
   2. Contact
  
@@ -252,12 +252,13 @@ https://prose.io/#coordinature/coordinature.github.io/edit/main/development/appl
 ## 6. Research Phase 3: evaluation
 1. phase 3 intro
  ### Phase 3: Evaluation
- We are almost done with the research! Well done!
-Before we finish the study, we have a few more questions for you. Just like in the beginning, you will fill in two questionnaires. Please complete the questions as honsetly as possible. Parents are allowed to help. (note to parents: Try not to bias your children's answers.)
+We are almost done with the research! Well done!
+With your family members you've made your own library of gestures! Amazing!
+Before we finish the study, we have a few more questions for you. Just like in the beginning, you will fill in two questionnaires. Please complete the questions as honestly as possible. Parents are allowed to help. (note to parents: Try not to bias your children's answers.)
 
    2. End of questionnaire all
  ### Evaluation Questionnaire
- _Thank you for practicing making gestures! Please fill in the questions below._
+ _Thank you for practicing making your own gestures! Please fill in the questions below._
  
 - You have practiced making gestures. What was your favorite gesture to make? Why?
 _Describe your favorite gesture._
