@@ -7,7 +7,7 @@ Table Of Content
 2. Introduction welcome text
 3. FAQ
 4. Research phase 1: introduction for initiator
-1. phase 1 intro: welcome text
+	1. phase 1 intro: welcome text
     2. contact: register the initiator
     3. family profile
     4. intentions
