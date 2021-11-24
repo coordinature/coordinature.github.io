@@ -317,7 +317,7 @@ https://prose.io/#coordinature/coordinature.github.io/edit/main/development/appl
 Thank you for your efforts, we really appreciate this.
 Thanks to you and your family's help, we can better help other families like yours in their internal family communication. We will notify you as soon as a new version of the app is available for download. Of course, all your family gestures will be saved, so you can take them with you for the future. The guide remains open for use and you may continue to practice and play with the gestures.
 
-As a final step, we would like to schedule a video conversation with you and possibly your partner to  learn about your experience and thank you personally. 
+As a final step, we would like to schedule a video conversation with you and possibly your partner to learn about your experience and thank you personally. 
  
     7. end in depth video interview
  _We would like to schedule a video appointment to learn about your experience and thank you personally. Please pick time and date that is most convenient for you in the calender below._
