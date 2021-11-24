@@ -84,7 +84,7 @@ https://prose.io/#coordinature/coordinature.github.io/edit/main/development/appl
 
 5. Phase 1 End text
 ### Done with phase 1
-Great job, thank you.
+Great job, thank you for your participation of the Introduction Phase.
 We would like to invite you for a video conversation, in which we get to know you and possibly your partner.
 Then we start with phase 2, where your family starts with their participation.
 
