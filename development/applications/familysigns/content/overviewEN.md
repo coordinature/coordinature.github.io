@@ -14,7 +14,7 @@ Table Of Content
     5. phase 1 End text
     6. Start interview: video call
     
-5. Research Phase 2: Family practice Signs
+5. Research Phase 2: all family members
 	1. phase 2 intro
 	2. Group
     3. User Profile
