@@ -48,7 +48,7 @@ https://prose.io/#coordinature/coordinature.github.io/edit/main/development/appl
 
 ## 4. Research phase 1: introduction for initiator
   1. Phase 1 intro
-Welkom bij Family Signs. Jij hebt jezelf en jouw familie ingeschreven om deel te nemen aan het onderzoek. Het onderzoek gebeurd in drie fases: de eerste fase zal enkel met jou en eventueel jouw partner worden gedaan. Fase 2 en 3 doe jij samen met het gehele gezin.
+Welkom bij Family Signs! Je maakt deel uit van de eerste pioniers die zichzelf en hun gezin hebben ingeschreven voor dit onderzoek. We zijn je daar dankbaar voor en kijken uit naar een mooie frisse start. Het onderzoek gebeurd in drie fases: Introductie, Gezinsacitiviteiten en Evaluatie. Deze introductiefase zal enkel met jou en eventueel jouw partner worden gedaan. Fase 2 en 3 doe jij samen met het gehele gezin.
     
   2. Contact
  
@@ -84,9 +84,9 @@ https://prose.io/#coordinature/coordinature.github.io/edit/main/development/appl
 
 	5. Phase 1 End text
 ### Klaar met fase 1
-Geweldig gedaan, dankjewel.
+Geweldig gedaan, dankjewel voor jouw deelname aan de Introductie fase.
 We nodigen je graag uit voor een video gesprek, waarin we kennismaken met jou en eventueel jouw partner.
-Daarna beginnen we met fase 2, waarin jouw familie begint met hun deelnamen.
+Daarna beginnen we met fase 2, waarin jij jouw gezin zult introduceren aan het onderzoek.
 
   6. start interview
  ### Maak een video-afspraak - initiatiefnemer
@@ -108,9 +108,9 @@ https://prose.io/#coordinature/coordinature.github.io/edit/main/development/appl
 ## 5. Research Phase 2: all family members
 1. phase 2 intro
 
-Welkom bij Family Signs. Leuk dat je meedoet.
-Tijdens dit onderzoek gaan we leren over jou en jouw familie. We leren over hoe jij makkelijker en op een leukere manier over jezelf te vertellen, via de telefoon. Doordat jij ons helpt, kunnen wij nieuwe uitvindingen maken om veel meer families zoals die van jou te helpen beter met elkaar te praten.
-We zullen jou een aantal vragen stellen. Als je dit moeilijk vindt, mag je dit altijd samen met iemand anders invullen, maar probeer wel zo veel mogelijk te zeggen wat jij zelf vindt.
+Welkom bij Family Signs. Leuk dat je meedoet!
+Tijdens dit onderzoek gaan we leren over jou en jouw familie. We leren over hoe jij makkelijker en op een leukere manier over jezelf te vertellen, via de telefoon. Doordat jij ons helpt, kunnen wij nieuwe oplossingen bedenken om veel meer families zoals die van jou te helpen beter met elkaar te praten.
+We zullen jou een aantal vragen stellen. Als je dit moeilijk vindt, mag je dit altijd samen met iemand anders invullen, maar probeer wel zo veel mogelijk te zeggen wat jij zelf vindt. Ben je klaar om te starten? Veel plezier!
 
 	2. Group
 ### Maak een nieuwe groep aan
@@ -139,7 +139,7 @@ https://prose.io/#coordinature/coordinature.github.io/edit/main/development/appl
 
 	4. Profile questionnaire (profile/index)
 ### kennismaking
-_Om jou beter te leren kennen, willen we je graag wat vragen. Vul de vragen zo goed mogelijk in. Ouders mogen dit samen met de kinderen doen. Probeer hierbij niet te veel te sturen in de antwoorden._
+_Om jou beter te leren kennen, willen we je graag wat vragen. Vul de vragen zo eerlijk mogelijk in. Ouders mogen dit samen met de kinderen doen. (Berichtje aan de ouders: Probeer hierbij zo min mogelijk te sturen in de antwoorden.)_
 
 - Wat vind jij leuk om te doen met het gezin?
 _Als het weekend is, wat zou je dan het liefste met elkaar doen?_
@@ -182,11 +182,11 @@ https://prose.io/#coordinature/coordinature.github.io/edit/main/development/appl
 	6. Phase 2 End text All
 ### Klaar!
 Geweldig gedaan!
-In de volgende activiteit zul je via een chat verschillende vragen beantwoorden en oefenen met het maken van gebaren. Je mag dit zovaak doen en zo lang doen als je zelf wilt. Je mag nu beginnen met de Gids.
+In de volgende activiteit zul je via een chat verschillende vragen beantwoorden en oefenen met het maken van gebaren. Dit doen we door jouw telefoon te veranderen in een toverstaf. Je mag dit zovaak doen en zo lang doen als je zelf wilt. Start de oefening door een berichtje te sturen in de chat.
     
 	7. question loop 
 ### Chat met de Signs Gids.
-_Hi, leuk dat je er bent. Ik leer graag meer over jou en al jouw verhalen! Samen bedenken we nieuwe onderwerpen waar we over willen vertellen en oefenen we met het maken van gebaren_
+_Hi, leuk dat je er bent. Ik leer graag meer over jou en al jouw verhalen! Samen bedenken we nieuwe onderwerpen waar we over willen vertellen en oefenen we met het maken van gebaren met de telefoon._
 
 Example:
 _ wanneer was de laatste keer dat je boos was?_
@@ -206,7 +206,7 @@ _ wanneer was de laatste keer dat je boos was?_
     
    7. mid evaluation - initiator
  ### Mid- Evaluatie met de initiatiefnemer
- _Je bent halverwege het onderzoek. Goed gedaan! Vul de volgende vragen zo goed mogelijk in._
+ _Je bent halverwege het onderzoek. Goed gedaan! Vul de volgende vragen zo eerlijk mogelijk in._
  
 - Hebben alle gezinsleden hun eerste gebaar gemaakt?
 _Omschrijf welke gezinsleden niet en waarom niet._
@@ -228,8 +228,8 @@ https://prose.io/#coordinature/coordinature.github.io/edit/main/development/appl
 ## 6. Research Phase 3: evaluation
 	1. phase 3 intro
  ### Fase 3: evaluatie
- We zijn bijna klaar met het onderzoek! Goed gedaan!
-Voordat we stoppen, hebben we nog een aantal vragen voor je. Net zoals aan het begin vul je twee vragenlijsten in. Als je hulp nodig hebt, mag je het altijd samen doen. Maar let er wel op dat jij jouw eigen mening geeft!
+_We zijn bijna klaar met het onderzoek! Goed gedaan!
+Voordat we stoppen, hebben we nog een aantal vragen voor je. Net zoals aan het begin vul je twee vragenlijsten in. Als je hulp nodig hebt, mag je het altijd samen doen. Maar let er wel op dat jij jouw eigen mening geeft! (Berichtje aan de ouders: Probeer hierbij zo min mogelijk te sturen in de antwoorden.)_
 
    2. Einde questionnaire alle
  ### Evaluatie Vragenlijst
@@ -255,14 +255,14 @@ https://prose.io/#coordinature/coordinature.github.io/edit/main/development/appl
   
   	4. End text  - all
   ### Klaar
-  Dankjewel voor al jouw hulp! Je hebt het geweldig gedaan.
-  Je blijft toegang houden tot de gids en als je wilt mag je blijven oefenen.
-  Met jouw hulp helpen we andere families zoals die van jou bij het maken van gebaren en het uidrukken van wie je bent. We sturen jouw familie een berichtje, wanneer de app klaar is voor gebruik.
-  Al jouw gebaren zullen dan worden overgezet naar de nieuwe versie van de app.
+Dankjewel voor al jouw hulp. Je hebt het geweldig gedaan!
+Met jouw hulp kunnen we veel andere gezinnen zoals die van jou helpen. Dankzij jou weten we meer over het gebruiken van de telefoon voor het maken van gebaren om online praten leuker en makkelijker te maken.
+Je blijft toegang houden tot de chat en je kunt gebaren blijven toevoegen aan de family bibliotheek. We sturen jouw familie een berichtje, wanneer de nieuwe app klaar is voor gebruik. Al jouw gebaren zullen dan worden overgezet naar de nieuwe versie van de Family Signs app. 
+Wij vinden dat iedereen het verdient het om begrepen te worden, al helemaal als het familie is. We willen je bedanken dat je ons hebt geholpen dichter bij ons doel te komen.
   
 	5. end evaluation initiator
  ### Eind Evaluatie met initiatiefnemer
-_We zijn bij het einde van het onderzoek gekomen. Graag nemen we nog een aantal vragen met je door, voordat we een videogesprek inplannen. Vul de vragen zo goed mogelijk in._
+_We zijn bij het einde van het onderzoek gekomen. Graag nemen we nog een aantal vragen met je door, voordat we een videogesprek inplannen. Vul de vragen zo eerlijk mogelijk in._
 
  - Merk je sinds het moment dat je met het onderzoek bent begonnen een verandering aan de manier waarop je familie met elkaar praat? 
  _Beschrijf de veranderingen._
@@ -286,9 +286,9 @@ https://prose.io/#coordinature/coordinature.github.io/edit/main/development/appl
     6. End text initiator
  ### Klaar
 Dankjewel voor jouw inzet, we waarderen dit enorm.
-Dankzij jouw hulp en die van jouw gezin, kunnen we andere families zoals die van jou beter helpen in hun interne familie communicatie. We zullen jou berichten zodra er een nieuwe versie van de app te downloaden is. Uiteraard zullen al jouw familie gebaren dan worden bewaard, zodat je die mee kan nemen voor de toekomst. De gids blijft open voor gebruik en je mag blijven oefenen en spelen met de gebaren.
+Dankzij jouw hulp en die van jouw gezin, kunnen we andere families zoals die van jou beter helpen in hun interne familie communicatie. We zullen jou berichten zodra er een nieuwe versie van de Family Signs app te downloaden is. Uiteraard zullen al jouw familie gebaren dan worden bewaard, zodat je die mee kan nemen voor de toekomst. De chat blijft open voor gebruik en je mag blijven oefenen en spelen met de gebaren.
 
-Als laatste stap plannen we graag een video gesprek met jou en eventueel jouw partner in om te bespreken hoe jullie dit onderzoek en het maken van gebaren hebben ervaren.
+Als laatste stap plannen we graag een video gesprek met jou en eventueel jouw partner in om te leren hoe jullie dit onderzoek hebben ervaren en jullie persoonlijk te bedanken voor jullie geduld en deelname.
  
     7. end in depth video interview
  _Graag plannen we een eind video gesprek in met jou en eventueel jouw partner om het onderzoek te evalueren.4 Plan een datum en tijdstip in waarop het jouw het beste uitkomt om een video interview af te leggen._
@@ -302,4 +302,3 @@ Als laatste stap plannen we graag een video gesprek met jou en eventueel jouw pa
 - open feedback
 
 https://prose.io/#coordinature/coordinature.github.io/edit/main/development/applications/familysigns/content/questions/interview/end.md
-
