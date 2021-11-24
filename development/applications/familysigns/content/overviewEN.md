@@ -44,7 +44,7 @@ https://docs.google.com/document/d/1tykZ9NbOw4RibScdMmkFMp3VrlSLDMJwM_t1oH7D6Lw/
 https://prose.io/#coordinature/coordinature.github.io/edit/main/development/applications/familysigns/content/nl/researchIntro.md
 
 ## 3. FAQ
-https://prose.io/#coordinature/coordinature.github.io/edit/main/development/applications/familysigns/content/nl/faq.md
+https://prose.io/#coordinature/coordinature.github.io/edit/main/development/applications/familysigns/content/en/faq.md
 
 ## 4. Research phase 1: introduction for initiator
   1. Phase 1 intro
