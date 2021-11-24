@@ -285,7 +285,9 @@ https://prose.io/#coordinature/coordinature.github.io/edit/main/development/appl
   ### Finished
 Thank you for all your help. You did a great job!
 With your help, we can help many other families like yours. Now we know more about how to use gestures to make online talking easier and more fun!
-You will continue to have access to the chat and you may continue to add gestures to your family libary. We will send your family a message when a new version of the app is ready for use. All your gestures will be saved and can also be used in the new Family Signs app. Everyone deserves to be understood, especially when it's family. We want to thank you for getting us closer to making that possible.
+You will continue to have access to the chat and you may continue to add gestures to your family libary. We will send your family a message when a new version of the app is ready for use. All your gestures will be saved and can also be used in the new Family Signs app. 
+
+We believe that everyone deserves to be understood, especially when it comes to family. We want to thank you for helping us get closer to our goal.
   
 5. end evaluation initiator
  ### End Evaluation with initiator
