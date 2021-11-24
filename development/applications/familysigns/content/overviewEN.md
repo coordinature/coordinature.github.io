@@ -204,11 +204,11 @@ https://prose.io/#coordinature/coordinature.github.io/edit/main/development/appl
 6. Phase 2 End text All
 ### Finished!
 Great job!
-In the next activity you will answer various questions via chat, and practice making gestures. You can do this as often and for as long as you want. You may now start by writing a message in the chat.
+In the next activity you will answer various questions via chat, and practice making gestures. You will be able to create gestures, by turning your phone into a magic wand! You can do this as often and for as long as you want. You may now start by writing a message in the chat.
     
 7. question loop
 ### Chat with the Signs Guide.
-_Hi, nice to have you here. I would love to learn more about you and all your stories! Together we come up with new topics that we want to talk about and we practice making gestures_
+_Hi, nice to have you here. I would love to learn more about you and all your stories! Together we come up with new topics that we want to talk about and we practice making gestures with your phone._
 
 (Example:
 _ when was the last time you were angry?_)
@@ -252,9 +252,9 @@ https://prose.io/#coordinature/coordinature.github.io/edit/main/development/appl
 ## 6. Research Phase 3: evaluation
 1. phase 3 intro
  ### Phase 3: Evaluation
-We are almost done with the research! Well done!
+_We are almost done with the research! Well done!
 With your family members you've made your own library of gestures! Amazing!
-Before we finish the study, we have a few more questions for you. Just like in the beginning, you will fill in two questionnaires. Please complete the questions as honestly as possible. Parents are allowed to help. (note to parents: Try not to bias your children's answers.)
+Before we finish the study, we have a few more questions for you. Just like in the beginning, you will fill in two questionnaires. Please complete the questions as honestly as possible. Parents are allowed to help. (note to parents: Try not to bias your children's answers.)_
 
    2. End of questionnaire all
  ### Evaluation Questionnaire
@@ -284,7 +284,7 @@ https://prose.io/#coordinature/coordinature.github.io/edit/main/development/appl
   4. End text - all
   ### Finished
 Thank you for all your help. You did a great job!
-With your help, we can help many other families like yours. Now we know more about how to use gestures to make online and offline talking easier and more fun!
+With your help, we can help many other families like yours. Now we know more about how to use gestures to make online talking easier and more fun!
 You will continue to have access to the chat and you may continue to add gestures to your family libary. We will send your family a message when a new version of the app is ready for use. All your gestures will be saved and can also be used in the new Family Signs app. Everyone deserves to be understood, especially when it's family. We want to thank you for getting us closer to making that possible.
   
 5. end evaluation initiator
