@@ -14,7 +14,7 @@ Table Of Content
     5. phase 1 End text
     6. Start interview: video call
     
-5. Research Phase 2: Family practice Signs
+5. Research Phase 2: all family members
 	1. phase 2 intro
 	2. Group
     3. User Profile
@@ -41,6 +41,7 @@ Table Of Content
 https://docs.google.com/document/d/1tykZ9NbOw4RibScdMmkFMp3VrlSLDMJwM_t1oH7D6Lw/edit?usp=sharing
 
 ## 2. Introduction welcome text
+img: ill-21-signs
 https://prose.io/#coordinature/coordinature.github.io/edit/main/development/applications/familysigns/content/nl/researchIntro.md
 
 ## 3. FAQ
