@@ -6,6 +6,9 @@ marp: true
 ## Make it matter
 Discover what really matters, to you or your target audience.
 
+Social insight network
+We don't track people, we track insights.
+
 <Get Started>
 
 ---
@@ -17,16 +20,28 @@ Discover what really matters, to you or your target audience.
 
 ## benefits
 
-- keep track of your data.
+### keep track of your data.
 by getting insights in what types of data each platform collects of you.
 Link your platform and see an overview of your information.
 
-- See insights in your data.
+### See insights in your data.
 Learn from your own data, by retrieving insights.
 
 ![Alt text](./images/matcap2tang1.jpg "chatbubble")
 
 ---
+
+### Be yourself completely
+When you post on social media, it's about building a continuous brand.
+Yet there are so many more sides of you, that you might want to share.
+You know your followers, and maybe you don't want to share these stories with your followers. You can share your stories with people who write similar stories, so that you can truly talk about what matters to you, without it having to be part of your brand or showing up on Google. 
+
+### A safe environment
+It's a safe environment, because personal information, commenting and private chatting is not allowed.
+
+
+---
+
 ## Features
 1. **Create** stories that truly matter to you. (studio)
 2. **Compare** and contrast your story with others across the globe.
