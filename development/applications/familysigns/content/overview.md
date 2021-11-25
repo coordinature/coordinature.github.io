@@ -55,6 +55,7 @@ Welkom bij Family Signs! Je maakt deel uit van de eerste pioniers die zichzelf e
   2. Contact
  
  ### Contact
+ img: ill-21-namesign
  _Vul hier jouw persoonlijke gegevens in._
 - Wat is jouw voornaam?
 - Wat is jouw achternaam?
@@ -65,6 +66,7 @@ Welkom bij Family Signs! Je maakt deel uit van de eerste pioniers die zichzelf e
   3. Family profile
 
 ### Familie profiel
+ img: ill-21-familySign
 _We krijgen graag een beter beeld van jouw gezin en wie er mogelijk mee kan doen. Vul de volgende vragen zo goed mogelijk in._
 
 - Uit hoeveel gezinsleden bestaat jouw gezin?
