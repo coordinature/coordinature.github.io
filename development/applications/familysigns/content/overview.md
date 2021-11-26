@@ -41,7 +41,7 @@ Table Of Content
 https://docs.google.com/document/d/1tykZ9NbOw4RibScdMmkFMp3VrlSLDMJwM_t1oH7D6Lw/edit?usp=sharing
 
 ## 2. Introduction welcome text
-img: ill-21-signs
+img: ill-21-family
 https://prose.io/#coordinature/coordinature.github.io/edit/main/development/applications/familysigns/content/nl/researchIntro.md
 
 ## 3. FAQ
@@ -49,11 +49,13 @@ https://prose.io/#coordinature/coordinature.github.io/edit/main/development/appl
 
 ## 4. Research phase 1: introduction for initiator
   1. Phase 1 intro
+img: ill-21-foryourself
 Welkom bij Family Signs! Je maakt deel uit van de eerste pioniers die zichzelf en hun gezin hebben ingeschreven voor dit onderzoek. We zijn je daar dankbaar voor en kijken uit naar een mooie frisse start. Het onderzoek gebeurd in drie fases: Introductie, Gezinsacitiviteiten en Evaluatie. Deze introductiefase zal enkel met jou en eventueel jouw partner worden gedaan. Fase 2 en 3 doe jij samen met het gehele gezin.
     
   2. Contact
  
  ### Contact
+ img: ill-21-namesign
  _Vul hier jouw persoonlijke gegevens in._
 - Wat is jouw voornaam?
 - Wat is jouw achternaam?
@@ -64,6 +66,7 @@ Welkom bij Family Signs! Je maakt deel uit van de eerste pioniers die zichzelf e
   3. Family profile
 
 ### Familie profiel
+ img: ill-21-familySign
 _We krijgen graag een beter beeld van jouw gezin en wie er mogelijk mee kan doen. Vul de volgende vragen zo goed mogelijk in._
 
 - Uit hoeveel gezinsleden bestaat jouw gezin?
