@@ -2,15 +2,14 @@
 
 <!--index 2tangosigns-pagina-->
 
-### 2Tango-tekens
+### 2Tango- Signs
 ## Iedereen verdient het om begrepen te worden.
 
-Maak communiceren makkelijker en spannender door Signs te gebruiken.
+Maak communiceren makkelijker en leuker door Signs te gebruiken.
 Family Signs vervangt het toetsenbord met gebaren.
-Begin vandaag nog met het bouwen van uw gebarenbibliotheek:
+Begin vandaag nog met het bouwen van jouw gebarenbibliotheek:
 
 <afbeelding met gebaren in de lucht>
-
 
 ### Voor jezelf
 Maak je eerste gebaar
@@ -27,10 +26,10 @@ Maak een gedeelde familietaal
 Als je je gebaren kent, zul je merken dat je ze ondertekent, zelfs als je je telefoon niet gebruikt.
   
 ##### Creëer een gedeelde familietaal
-Deel uw tekens binnen uw gezin en leer elkaar beter kennen.
+Deel jouw gebaren binnen jouw gezin en leer elkaar beter kennen.
   
 ##### Privé familiekanaal
-Creëer een veilige ruimte. Stuur berichten in een ruimte die alleen voor uw gezinsleden is gemaakt.
+Creëer een veilige ruimte. Stuur berichten in een ruimte die alleen voor jouw gezinsleden is gemaakt.
 
 #####  Probeer het zelf!
 Scan de QR-code en maak een gebaar voor je eerste woord.
@@ -38,21 +37,21 @@ Scan de QR-code en maak een gebaar voor je eerste woord.
   
 {Pre-order} of {voer speciale test-ID in}
 
-### Voor uw team
-Maak effectieve communicatie mogelijk met uw #teamgenoten, #collega's. #De-escalatie
+### Voor jouw team
+Maak effectieve communicatie mogelijk met jouw #teamgenoten, #collega's. #De-escalatie
 
 ---
   
 
 ### hoe het werkt
 ## 1. Verander je telefoon in een toverstaf
-Schilder een bord dat een woord of zin vertegenwoordigt. Wat is het eerste woord dat u wilt ondertekenen?
+Schilder een bord dat een woord of zin vertegenwoordigt. Wat is het eerste woord dat je wilt Signen?
 
 ## 2. Maak een gebaar voor je bericht # statements
 Op momenten dat je je overprikkeld voelt, overweldigd of direct iets nodig hebt, kan het moeilijk zijn om de juiste woorden te vinden. Maak een gebaar voor een zin en navigeer gemakkelijk door moeilijke situaties.
 
 ## 3 Bouw een gebarenbibliotheek
-Sla je borden op en creëer een bibliotheek vol met verschillende manieren om uit te drukken wat je nodig hebt.
+Sla je gebaren op en creëer een bibliotheek vol met verschillende manieren om uit te drukken wat je nodig hebt.
 
 ---
 ### Kenmerken
@@ -64,10 +63,10 @@ Sla je borden op en creëer een bibliotheek vol met verschillende manieren om ui
 
 ### Voorafgaande bestelling
 ## Creëer je bibliotheek met gebaren
-Wilt u uw eigen persoonlijke gebarenbibliotheek bouwen? Pre-order nu voor uzelf, uw gezin of doneer om andere gezinnen een Family Signs-ervaring te schenken.
+Wil je jouw eigen persoonlijke gebarenbibliotheek bouwen? Pre-order nu voor uzelf, jouw gezin of doneer om andere gezinnen een Family Signs-ervaring te schenken.
 
 #### Voor jezelf
-Druk jezelf op nieuwe manieren uit. Begin met het bouwen van uw gebarenbibliotheek.
+Druk jezelf op nieuwe manieren uit. Begin met het bouwen van jouw gebarenbibliotheek.
 €25,-
 
 #### Voor jouw familie
@@ -91,9 +90,9 @@ ondersteun gezinnen of ondersteun jezelf
 
 - Een jaar vrij vanaf het moment dat we in de release candidate zitten
 - Updates over hoe het met ons gaat
-- Begin uw bibliotheek met gebaren lang voordat alle anderen te trainen.
+- Begin jouw bibliotheek met gebaren lang voordat alle anderen te trainen.
 - Krijg toegang tot de bètastudie
-- Laat uw naam vermelden als een van de donateurs.
+- Laat jouw naam vermelden als een van de donateurs.
 
 ### tijdlijn
 We zijn momenteel bezig met het ontwikkelen van Family Signs.
