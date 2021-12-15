@@ -1,7 +1,22 @@
 ## Website
 
-<!--index 2tangosigns page-->
+### 2Tango Signs 4x slider
+(new text 4x slider dots)
 
+## Make your own Signs
+ 
+- 2Tango is creating a library of gestures that you can use with your family or bring with you.
+- Join the signs community by collecting a universal languge
+
+1. Show them what it looks 
+like while they are making a gesture.
+2. Show them what it looks 
+when you use a *gestured* message
+3. Give them a place to browse/look up other gestures.
+4. Give them a place to see/save gestures.
+
+<!--index 2tangosigns page-->
+(original)
 ### 2Tango Signs
 ## Everybody deserves to be understood.
 
