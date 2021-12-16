@@ -72,9 +72,10 @@ Earthly.ai >
 - AR experience where we represented Bamboo (fargesia rufa) and a Banana plant. (musa basjoo)
 
 ### What is the plan for Earthly?
-- Creating an expert network
+- Expert network
 - Earthly Search MVP
-- Creating Earthly.ai visual storyteller mvp
+- Earthly.ai visual storyteller mvp
+- Earthly Pulse MVP alpha test
 
 ### What are the challenges?
 - Data collection on the spot
