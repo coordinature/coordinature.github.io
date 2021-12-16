@@ -46,6 +46,8 @@ We do this by representing earthly matters in the digital sphere, through Earthl
 - Timeline
 
 ---
+layout: image-right
+image: 
 
 ---
 ### Why Earthly
