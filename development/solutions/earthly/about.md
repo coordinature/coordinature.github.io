@@ -32,6 +32,7 @@ We do this by representing earthly matters in the digital sphere, through Earthl
 - Creating a search engine where questions about entities or ecological processes can be answered through interactive animations.
 
 ---
+
 ### Content
 - Why Earthly
 - What is the issue?
@@ -43,24 +44,37 @@ We do this by representing earthly matters in the digital sphere, through Earthl
 - What are the challenges?
 - Mangrove project
 - Timeline
+
+---
+
 ---
 ### Why Earthly
 Earthly's larger goal is to contribute in the transformation where the ecological wealth of an area is equivalant to the economical wealth of that area.
 
+---
+
 ### What is the issue?
 Maintaining and keeping a biodiverse area is expensive and drains money, while cutting deforesting and using land for agriculture is more profitable.
 
+---
+
 ### What is Earthly? and how is it solving a problem?
 We tokenize the wealth of a ecological entity by representing earthly matters in the digital sphere, through storytelling and animation.
+
+---
 
 ### What is the process?
 1. Mapping out the an Area Entity: creating a DAO. *What is the geolocation and the boundaries of the area*
 2. Mapping out the Earthly Entities within the area: Collecting and Tokenizing. *What are the main entities we can track?*
 3. Monitoring & Experiencing the entities: Maintaining & Visualising. *How can we experience the state of the Entities?*
 
+---
+
 ### Who are we?
 We are Omotola Bolarin & Elise Marcus.
 Within our company Coordinature we create tools & experiences to represent digital agents.
+
+---
 
 ### What is our experience?
 Mother Earth Network>
@@ -71,22 +85,29 @@ Earthly.ai >
 - VR experience about Earthlyai
 - AR experience where we represented Bamboo (fargesia rufa) and a Banana plant. (musa basjoo)
 
+---
+
 ### What is the plan for Earthly?
 - Expert network
 - Earthly Search MVP
 - Earthly.ai visual storyteller mvp
 - Earthly Pulse MVP alpha test
 
+---
+
 ### What are the challenges?
 - Data collection on the spot
 - Expert network of data interpretation
 - Tokenizing each state & activity
+
+---
 
 ### Mangrove project
 1. Mapping out the Area entity 
 2. Mapping out the main entities
 3. Monitoring & Experiencing the entities
 
+---
 
 ### Timeline
 December: Building our MVP for our Searchtool
