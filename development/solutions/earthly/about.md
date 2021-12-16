@@ -30,3 +30,32 @@ We do this by representing earthly matters in the digital sphere, through Earthl
 - Adding any ecological organism, as an digital entity that you can track and interact with.
 - Tokenizing the actions taken to maintain their health.
 - Creating a search engine where questions about entities or ecological processes can be answered through interactive animations.
+
+---
+### Content
+- Why Earthly
+- What is the issue?
+- What is Earthly? and how is it solving a problem?
+- What is our process?
+- Who are we and what is our experience?
+- What is the plan for Earthly?
+- Mangrove project
+- Timeline
+---
+### Why Earthly
+Earthly's larger goal is to contribute in the transformation where the ecological wealth of an area is equivalant to the economical wealth of that area.
+
+### What is the issue?
+Maintaining and keeping a biodiverse area is expensive and drains money, while cutting deforesting and using land for agriculture is more profitable.
+This means that 
+
+### What is Earthly? and how is it solving a problem?
+We do this by representing earthly matters in the digital sphere, through Earthly.ai.
+
+### What is our process?
+### Who are we and what is our experience?
+### What is the plan for Earthly?
+### Mangrove project
+### Timeline
+
+
