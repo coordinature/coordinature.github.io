@@ -67,17 +67,24 @@ Mother Earth Network>
 - Multimedia experience
 - Translation of soil entities, plants and air data into storytelling & animation.
 
-
 Earthly.ai >
 - VR experience about Earthlyai
 - AR experience where we represented Bamboo (fargesia rufa) and a Banana plant. (musa basjoo)
 
 ### What is the plan for Earthly?
-
+- Creating an expert network
+- Earthly Search MVP
+- 
 
 
 ### What are the challenges?
+- Data collection
+- 
+
 ### Mangrove project
 ### Timeline
+- Setting up a mini testlab in studio
+- Building our MVP for our Searchtool
+- Setting up a ML system for dashboard
 
 
