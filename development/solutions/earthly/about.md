@@ -48,7 +48,6 @@ We do this by representing earthly matters in the digital sphere, through Earthl
 ---
 layout: image-right
 image: 
-
 ---
 ### Why Earthly
 Earthly's larger goal is to contribute in the transformation where the ecological wealth of an area is equivalant to the economical wealth of that area.
