@@ -55,8 +55,8 @@ We tokenize the wealth of a ecological entity by representing earthly matters in
 
 ### What is the process?
 1. Mapping out the an Area Entity: creating a DAO. *What is the geolocation and the boundaries of the area*
-2. Mapping out the Earthly Entities within the area: Tokenizing. *What are the main entities we can track?*
-3. Monitoring & Experiencing the entities: Collecting and Visualising. *How can we experience the state of the Entities?*
+2. Mapping out the Earthly Entities within the area: Collecting and Tokenizing. *What are the main entities we can track?*
+3. Monitoring & Experiencing the entities: Maintaining & Visualising. *How can we experience the state of the Entities?*
 
 ### Who are we?
 We are Omotola Bolarin & Elise Marcus.
@@ -74,17 +74,23 @@ Earthly.ai >
 ### What is the plan for Earthly?
 - Creating an expert network
 - Earthly Search MVP
-- 
-
+- Creating Earthly.ai visual storyteller mvp
 
 ### What are the challenges?
-- Data collection
-- 
+- Data collection on the spot
+- Expert network of data interpretation
+- Tokenizing each state & activity
 
 ### Mangrove project
+1. Mapping out the Area entity 
+2. Mapping out the main entities
+3. Monitoring & Experiencing the entities
+
+
 ### Timeline
-- Setting up a mini testlab in studio
-- Building our MVP for our Searchtool
-- Setting up a ML system for dashboard
+December: Building our MVP for our Searchtool
+December - mid January: Setting up a mini testlab in studio
+January: Setting up a ML system for dashboard
+January - Februari: Visual & storytelling based on testlab
 
 
