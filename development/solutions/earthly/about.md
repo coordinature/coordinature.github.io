@@ -36,9 +36,11 @@ We do this by representing earthly matters in the digital sphere, through Earthl
 - Why Earthly
 - What is the issue?
 - What is Earthly? and how is it solving a problem?
-- What is our process?
-- Who are we and what is our experience?
+- What is the process?
+- Who are we?
+- what is our experience?
 - What is the plan for Earthly?
+- What are the challenges?
 - Mangrove project
 - Timeline
 ---
@@ -47,14 +49,34 @@ Earthly's larger goal is to contribute in the transformation where the ecologica
 
 ### What is the issue?
 Maintaining and keeping a biodiverse area is expensive and drains money, while cutting deforesting and using land for agriculture is more profitable.
-This means that 
 
 ### What is Earthly? and how is it solving a problem?
-We do this by representing earthly matters in the digital sphere, through Earthly.ai.
+We tokenize the wealth of a ecological entity by representing earthly matters in the digital sphere, through storytelling and animation.
 
-### What is our process?
-### Who are we and what is our experience?
+### What is the process?
+1. Mapping out the an Area Entity: creating a DAO. *What is the geolocation and the boundaries of the area*
+2. Mapping out the Earthly Entities within the area: Tokenizing. *What are the main entities we can track?*
+3. Monitoring & Experiencing the entities: Collecting and Visualising. *How can we experience the state of the Entities?*
+
+### Who are we?
+We are Omotola Bolarin & Elise Marcus.
+Within our company Coordinature we create tools & experiences to represent digital agents.
+
+### What is our experience?
+Mother Earth Network>
+- Multimedia experience
+- Translation of soil entities, plants and air data into storytelling & animation.
+
+
+Earthly.ai >
+- VR experience about Earthlyai
+- AR experience where we represented Bamboo (fargesia rufa) and a Banana plant. (musa basjoo)
+
 ### What is the plan for Earthly?
+
+
+
+### What are the challenges?
 ### Mangrove project
 ### Timeline
 
