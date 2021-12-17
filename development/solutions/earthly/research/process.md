@@ -13,7 +13,7 @@ Research Questions & Goals
 1- People can talk to a tokenized entity.
 2- People can see a digital representation of a tokenized entity.
 3- People can share the value that is held in a tokenized entity.
-4. People can take actions that support the custodians of the tokenized entity.
+4- People can take actions that support the custodians of the tokenized entity.
 
 ### Questions we want to make answerable for people who interact with the gathered data. via a dialogue/conversational interface.
 
