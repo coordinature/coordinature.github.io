@@ -1,7 +1,13 @@
-## Research Process
+# Research Design
 
-### Earthly Area Entity: DAO
+Earthly Area Entity: DAO
+---
+
 First we will map out the area entity. This is the DAO that will represent the area, which will contains of all entities that are logged in the area and represent the estimation of all entities that are not logged in the area.
+
+
+Research Questions
+---
 
 1. What do we know about this entity?
     - Coordinates: 
