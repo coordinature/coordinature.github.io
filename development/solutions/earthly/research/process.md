@@ -32,6 +32,13 @@ Our End Goal
     - Features:
 		- What features define this entity? 
           Example: [ Houses, Hills/Mountains, Vegetation, Bodies of Water (Channels, Streams, Banks) ]
+     - Entitites:
+        What entities does this ecosystem maku-up?
+        - Plants are entities that stay in one position and are therefore tokenized. They can have their own id, and will develop their own history as we are able to track their health.
+    - What is their role in the ecosystem
+    - What are the other entities that are not easy to tokenize, yet will interact with the tokenized entity? 
+        - There are other entities that will influence the state of the entity we are trying to tokenize and the ecosytem we are trying to map. Yet, we want to log them as much as possible to get an idea of who is involved in the ecosystem and to understand the health of the area. When we have spotted (for example fish) around the mangroves and have a picture of the fish, we can log the fish in as a known entity that is spotted in the area. We can use this as estimates. They will have a more general representation, as we cannot know (yet) when we see this fish type again, if its the same fish.
+    - What are their roles in the ecosystem?
 
 2. What can we show you about this entity?
     - Scanning the area for more precize view of the proppery.
@@ -54,6 +61,11 @@ Our End Goal
 
 With the information from the questions about, we will create a agent for a localised ecosystem  and the organisms that make it up.
 
+7. How does the entitiy connect to the community/(Local) organisations?
+    - Which (local) organisations are connected to this location?
+    - What is their role in the ecosystem?
+    - Who is able to enter the area? What is their role/ reason?
+    - Which citizen scientist can be involved in tracking the area's health?
 
 ## Data points we want to simulate to create an interactive visualisation. 
 
@@ -77,14 +89,6 @@ With the information from the questions about, we will create a agent for a loca
 ### Earhtly Entities within the area
 Secondly, we will map out as many entities that make up the area.
 
-5. Mapping out the main entities:
-    - What are the main entities interacting with the location? > type of plants.
-        - Plants are entities that stay in one position and are therefore tokenized as main entity. They can have their own id, and will develop their own history as we are able to track their health.
-    - What is their role in the ecosystem
-    - What are the other entities? 
-        - Other entities that are in the ecosystem and are moving are not the main entities. Yet we want to log them as much as possible to get an idea of who is involved in the ecosystem and to understand the health of the area. When we have spotted (for example fish) around the mangroves and have a picture of the fish, we can log the fish in as a known entity that is spotted in the area. We can use this as estimates. Yet they will have a more general representation, as we cannot know (yet) when we see this fish type again, if its the same fish.
-    - What are their roles in the ecosystem?
-    
 6. Earthly Entities: Database of entities
     - When a new entity is entered, we start building a general entity profile.
     - Each general profile has information pulled from known sources and information manually added by expert or citizen admin.
@@ -103,14 +107,9 @@ in a visual and conversational form, for people to experience the life of the to
         
 ---
 
-### Monitoring, Maintaining & Experiencing
+### Experiencing
 Finally, we will need to keep track of the entities, add more entities and we want to be able to experience the Earthly experience and share this with others around the world. We do this by using the Pulse App and the Earthly Search tool.
 
-9. Local organisations
-    - Which (local) organisations are connected to this location?
-    - What is their role in the ecosystem?
-    - Who is able to enter the area? What is their role/ reason?
-    - Which citizen scientist can be involved in tracking the area's health?
 
 10. Earthly Pulse app  
    - People on location can start logging new entities on the ground: mappoints, entity scans.
