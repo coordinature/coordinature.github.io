@@ -10,10 +10,18 @@ Research Questions & Goals
 ---
 
 ### Goals we want to meet for people who interact with the gathered data.
-1- People can talk to a tokenized entity.
-2- People can see a digital representation of a tokenized entity.
-3- People can share the value that is held in a tokenized entity.
-4- People can take actions that support the custodians of the tokenized entity.
+
+Our Current Stage:
+1- People can see a digital representation of a tokenized entity.
+2- People can talk to a tokenized entity.
+
+Our Next Stage
+3- People can see the value (cultural, economic, social, political) that is held in a tokenized entity.
+4- People can share the value (cultural, economic, social, political) that is held in a tokenized entity.
+
+Our End Goal
+4- People can see how their actions impact the tokenized entity.
+5- People can take actions that support the goals of the tokenized entity (DAO) or the custodians of the tokenized entity (Shareholders/Stakeholders of the tokenized entity).
 
 ### Questions we want to make answerable for people who interact with the gathered data. via a dialogue/conversational interface.
 
