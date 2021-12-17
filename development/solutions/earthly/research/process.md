@@ -32,6 +32,10 @@ First we will map out the area entity. This is the DAO that will represent the a
 
 ---
 
+1. 
+
+---
+
 ### Earhtly Entities within the area
 Secondly, we will map out as many entities that make up the area.
 
