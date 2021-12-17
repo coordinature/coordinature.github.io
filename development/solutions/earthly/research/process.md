@@ -55,10 +55,7 @@ Our End Goal
 With the information from the questions about, we will create a agent for a localised ecosystem  and the organisms that make it up.
 
 
-
----
-
-Information we want to visualise 
+## Data points we want to simulate to create an interactive visualisation. 
 
 	Air
 		oxygen, 
