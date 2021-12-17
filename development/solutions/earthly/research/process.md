@@ -87,17 +87,22 @@ Secondly, we will map out as many entities that make up the area.
     
 6. Earthly Entities: Database of entities
     - When a new entity is entered, we start building a general entity profile.
-    - Each general profile has information pulled from known sources and information manually added by admin.
+    - Each general profile has information pulled from known sources and information manually added by expert or citizen admin.
     
-7. Earthly Ecosystems: Machine learning model ecosystems
-    - We have an ecosystem machine learning model, that is specifically trained to become an expert in recognizing what type of ecosystem we are tracking and what entities are most likely common in this area.
-    - This goes for: tropical areas near water, tropical areas near mountains, dry lands, wetlands etc.
+7. Earthly Ecosystems: 
+	- predicting the state of untokenized ecosystems (entities in an ecosystem) and suggesting actions we can take to clarify.
+    - example: tropical areas near water, tropical areas near mountains, dry lands, wetlands will most likely have these entities... etc.
 
-8. Digital fingerprint NFT plant
-    - For each main vegetative entity that we want to track, we can create a NFT that is representing the fingerprint of each plant.
-        - 3d model of the shape of the plant on that moment (space/time)
-        - Sensor data with the soil moist and ph, the bark width, the bark juice, tree resin.
-       
+8. Digital Ledger of Properties / Actions / SideEffects
+    - For each main vegetative entity that we want to track, we can create a NFT that is representing the history of actions taken on or by each entity.
+       - Sensor data with the soil moist and ph, the bark width, the bark juice, tree resin.
+
+9. Digital simulation of this tokenised entity. in a visual and conversational form, for
+people to experience the life of the tokenized entity (in 2D. 3D, VR, AR). This is the part we want to make NFT's for. The wallet is the thing that gives the tokenized entity it's sharable value. The virtual space is the NFT, which gives access to the wallet and or votes for what the custodian of the wallet show do next with the entity.
+ 	- 3d model of the shape of the plant on that moment (space/time)
+        
+---
+
 ### Monitoring, Maintaining & Experiencing
 Finally, we will need to keep track of the entities, add more entities and we want to be able to experience the Earthly experience and share this with others around the world. We do this by using the Pulse App and the Earthly Search tool.
 
