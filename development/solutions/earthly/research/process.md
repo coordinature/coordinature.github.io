@@ -97,8 +97,8 @@ Secondly, we will map out as many entities that make up the area.
     - For each main vegetative entity that we want to track, we can create a NFT that is representing the history of actions taken on or by each entity.
        - Sensor data with the soil moist and ph, the bark width, the bark juice, tree resin.
 
-9. Digital simulation of this tokenised entity. in a visual and conversational form, for
-people to experience the life of the tokenized entity (in 2D. 3D, VR, AR). This is the part we want to make NFT's for. The wallet is the thing that gives the tokenized entity it's sharable value. The virtual space is the NFT, which gives access to the wallet and or votes for what the custodian of the wallet show do next with the entity.
+9. Digital simulation of this tokenised entity. 
+in a visual and conversational form, for people to experience the life of the tokenized entity (in 2D. 3D, VR, AR). This is the part we want to make NFT's for. The wallet is the thing that gives the tokenized entity it's sharable value. The virtual space is the NFT, which gives access to the wallet and or votes for what the custodian of the wallet show do next with the entity.
  	- 3d model of the shape of the plant on that moment (space/time)
         
 ---
