@@ -3,25 +3,35 @@
 ### Earthly Area Entity: DAO
 First we will map out the area entity. This is the DAO that will represent the area, which will contains of all entities that are logged in the area and represent the estimation of all entities that are not logged in the area.
 
-1. What is the geolocation?
-    - what are the coordinates?
-    - What are the boundries of slot of land?
-   
-2. Satalite data:
-    - How is the area structured with mountains, water, vegetation, housing.
+1. What do we know about this entity?
+    - Coordinates: 
+    	- Where is this entity?
+    	- Where are it's boundaries?
+    - Features:
+		- What features define this entity? 
+          Example: [ Houses, Hills/Mountains, Vegetation, Bodies of Water (Channels, Streams, Banks) ]
 
-3. Drones:
+2. What can we show you about this entity?
     - Scanning the area for more precize view of the proppery.
     - Creating a visual database of the space.
     - Creating a 3d map out of the visual.
     - Combining this information with the satalite data of the map to mark central entities that can be seen from above.
+
+3. How can you interact with this entity?
+
+4. How can we calculate the value of this entity to you?
     
-4.  Earthly DAO wallet
-    - The piece of land that we want to protect will have it's own wallet that is represented by one area entity: a DAO.
+
+5. How does this entity (or it's features) interact with other entities (or their feature) in it's ecossystem? 
+
+6. How can we show a global view of all the entities, their features, and the values they hold.
+	    - The piece of land that we want to protect will have it's own wallet that is represented by one area entity: a DAO.
     - This Decentralised Autonoumus Organisation will be made up of all the entities that we have logged in the area.
     - The wallet will contain Carbon Credits that is connected to the amount of carbon we offset, that is created by AMCX.
     - The goal is to represent the wealth that hosted by the entity and that will dissolve when trees are burned or chopped down.
-   
+
+---
+
 ### Earhtly Entities within the area
 Secondly, we will map out as many entities that make up the area.
 
