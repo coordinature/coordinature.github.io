@@ -32,7 +32,21 @@ First we will map out the area entity. This is the DAO that will represent the a
 
 ---
 
-1. 
+1.  earthly.ai will ask the above questions to create a DAO for an ecosystem and the organisms that make it up, and the state of their environmental factors like: 
+	Air
+		oxygen, 
+        H2O, 
+        C02, 
+        Particulate Matter (PM2.5 or lower wherever possible)
+	Soil
+    	H2O/Moist
+        O2
+        Acidity
+	Nearby Bodies of Water
+    	H2O/Moist
+        O2
+        Acidity
+2. The first version of earthly.ai will only gather knowledge from scientific papers or experts.
 
 ---
 
