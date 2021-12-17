@@ -6,8 +6,16 @@ Earthly Area Entity: DAO
 First we will map out the area entity. This is the DAO that will represent the area, which will contains of all entities that are logged in the area and represent the estimation of all entities that are not logged in the area.
 
 
-Research Questions
+Research Questions & Goals
 ---
+
+### Goals we want to meet for people who interact with the gathered data.
+1- People can talk to a tokenized entity.
+2- People can see a digital representation of a tokenized entity.
+3- People can share the value that is held in a tokenized entity.
+4. People can take actions that support the custodians of the tokenized entity.
+
+### Questions we want to make answerable for people who interact with the gathered data. via a dialogue/conversational interface.
 
 1. What do we know about this entity?
     - Coordinates: 
@@ -36,9 +44,14 @@ Research Questions
     - The wallet will contain Carbon Credits that is connected to the amount of carbon we offset, that is created by AMCX.
     - The goal is to represent the wealth that hosted by the entity and that will dissolve when trees are burned or chopped down.
 
+With the information from the questions about, we will create a agent for a localised ecosystem  and the organisms that make it up.
+
+
+
 ---
 
-1.  earthly.ai will ask the above questions to create a DAO for an ecosystem and the organisms that make it up, and the state of their environmental factors like: 
+Information we want to visualise 
+
 	Air
 		oxygen, 
         H2O, 
