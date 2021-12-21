@@ -184,7 +184,8 @@ https://prose.io/#coordinature/coordinature.github.io/edit/main/development/appl
 https://prose.io/#coordinature/coordinature.github.io/edit/main/development/applications/familysigns/content/statements.md    
 
 	6. Phase 2 End text All
-### Klaar!
+### Klaar met fase 2!
+img: ill-21-celebrate
 Geweldig gedaan!
 In de volgende activiteit zul je via een chat verschillende vragen beantwoorden en oefenen met het maken van gebaren. Dit doen we door jouw telefoon te veranderen in een toverstaf. Je mag dit zovaak doen en zo lang doen als je zelf wilt. Start de oefening door een berichtje te sturen in de chat.
     
@@ -259,6 +260,7 @@ https://prose.io/#coordinature/coordinature.github.io/edit/main/development/appl
   
   	4. End text  - all
   ### Klaar
+img: ill-21-party
 Dankjewel voor al jouw hulp. Je hebt het geweldig gedaan!
 Met jouw hulp kunnen we veel andere gezinnen zoals die van jou helpen. Dankzij jou weten we meer over het gebruiken van de telefoon voor het maken van gebaren om online praten leuker en makkelijker te maken.
 Je blijft toegang houden tot de chat en je kunt gebaren blijven toevoegen aan de family bibliotheek. We sturen jouw familie een berichtje, wanneer de nieuwe app klaar is voor gebruik. Al jouw gebaren zullen dan worden overgezet naar de nieuwe versie van de Family Signs app. 
