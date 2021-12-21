@@ -56,7 +56,7 @@ Welkom bij Family Signs! Je maakt deel uit van de eerste pioniers die zichzelf e
   2. Contact
  
  ### Contact
- img: ill-21-namesign
+![](https://coordinature.github.io/development/applications/familysigns/images/ill-21-namesign.png)
  _Vul hier jouw persoonlijke gegevens in._
 - Wat is jouw voornaam?
 - Wat is jouw achternaam?
@@ -67,7 +67,7 @@ Welkom bij Family Signs! Je maakt deel uit van de eerste pioniers die zichzelf e
   3. Family profile
 
 ### Familie profiel
- img: ill-21-familySign
+![](https://coordinature.github.io/development/applications/familysigns/images/ill-21-familysign.png)
 _We krijgen graag een beter beeld van jouw gezin en wie er mogelijk mee kan doen. Vul de volgende vragen zo goed mogelijk in._
 
 - Uit hoeveel gezinsleden bestaat jouw gezin?
@@ -89,6 +89,8 @@ https://prose.io/#coordinature/coordinature.github.io/edit/main/development/appl
 
 	5. Phase 1 End text
 ### Klaar met fase 1
+![](https://coordinature.github.io/development/applications/familysigns/images/ill-21-heart.png)
+
 Geweldig gedaan, dankjewel voor jouw deelname aan de Introductie fase.
 We nodigen je graag uit voor een video gesprek, waarin we kennismaken met jou en eventueel jouw partner.
 Daarna beginnen we met fase 2, waarin jij jouw gezin zult introduceren aan het onderzoek.
@@ -186,7 +188,7 @@ https://prose.io/#coordinature/coordinature.github.io/edit/main/development/appl
 
 	6. Phase 2 End text All
 ### Klaar met fase 2!
-img: ill-21-celebrate
+![](https://coordinature.github.io/development/applications/familysigns/images/ill-21-celebrate.png)
 Geweldig gedaan!
 In de volgende activiteit zul je via een chat verschillende vragen beantwoorden en oefenen met het maken van gebaren. Dit doen we door jouw telefoon te veranderen in een toverstaf. Je mag dit zovaak doen en zo lang doen als je zelf wilt. Start de oefening door een berichtje te sturen in de chat.
     
@@ -261,7 +263,7 @@ https://prose.io/#coordinature/coordinature.github.io/edit/main/development/appl
   
   	4. End text  - all
   ### Klaar
-img: ill-21-party
+![](https://coordinature.github.io/development/applications/familysigns/images/ill-21-party.png)
 Dankjewel voor al jouw hulp. Je hebt het geweldig gedaan!
 Met jouw hulp kunnen we veel andere gezinnen zoals die van jou helpen. Dankzij jou weten we meer over het gebruiken van de telefoon voor het maken van gebaren om online praten leuker en makkelijker te maken.
 Je blijft toegang houden tot de chat en je kunt gebaren blijven toevoegen aan de family bibliotheek. We sturen jouw familie een berichtje, wanneer de nieuwe app klaar is voor gebruik. Al jouw gebaren zullen dan worden overgezet naar de nieuwe versie van de Family Signs app. 
@@ -292,7 +294,8 @@ https://prose.io/#coordinature/coordinature.github.io/edit/main/development/appl
     
     6. End text initiator
  ### Klaar
-img: ill-21-thankyou
+![](https://coordinature.github.io/development/applications/familysigns/images/ill-21-thankyou.png)
+
 
 Dankjewel voor jouw inzet, we waarderen dit enorm.
 Dankzij jouw hulp en die van jouw gezin, kunnen we andere families zoals die van jou beter helpen in hun interne familie communicatie. We zullen jou berichten zodra er een nieuwe versie van de Family Signs app te downloaden is. Uiteraard zullen al jouw familie gebaren dan worden bewaard, zodat je die mee kan nemen voor de toekomst. De chat blijft open voor gebruik en je mag blijven oefenen en spelen met de gebaren.
