@@ -291,6 +291,8 @@ https://prose.io/#coordinature/coordinature.github.io/edit/main/development/appl
     
     6. End text initiator
  ### Klaar
+img: ill-21-thankyou
+
 Dankjewel voor jouw inzet, we waarderen dit enorm.
 Dankzij jouw hulp en die van jouw gezin, kunnen we andere families zoals die van jou beter helpen in hun interne familie communicatie. We zullen jou berichten zodra er een nieuwe versie van de Family Signs app te downloaden is. Uiteraard zullen al jouw familie gebaren dan worden bewaard, zodat je die mee kan nemen voor de toekomst. De chat blijft open voor gebruik en je mag blijven oefenen en spelen met de gebaren.
 
