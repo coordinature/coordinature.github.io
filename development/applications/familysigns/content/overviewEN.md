@@ -113,7 +113,7 @@ https://prose.io/#coordinature/coordinature.github.io/edit/main/development/appl
     
 ## 5. Research Phase 2: all family members
 1. phase 2 intro
-
+![](https://coordinature.github.io/development/applications/familysigns/images/ill-21-family.png)
 Welcome to Family Signs. We are happy you are here!
 During this research we want to learn more about you and your family. We want to try to make online talking easier and fun. And we need your help to do this!
 We will ask you some questions. If you find this difficult, you can always fill it in with someone else. Are you ready to start? Good luck!
@@ -164,6 +164,7 @@ https://prose.io/#coordinature/coordinature.github.io/edit/main/development/appl
 
 4. Profile questionnaire (profile/index)
 ### Getting to know you
+ ![](https://coordinature.github.io/development/applications/familysigns/images/ill-21-lovesign.png)
 _To get to know you better, we would like to ask you a few questions. Please complete the questions as honsetly as possible. Parents are allowed to help. (note to parents: Try not to bias your children's answers.)_
 
 - What do you like to do with the family?
