@@ -42,7 +42,7 @@ https://docs.google.com/document/d/1tykZ9NbOw4RibScdMmkFMp3VrlSLDMJwM_t1oH7D6Lw/
 
 ## 2. Introduction welcome text
 img: ill-21-family
-https://prose.io/#coordinature/coordinature.github.io/edit/main/development/applications/familysigns/content/nl/researchIntro.md
+https://prose.io/#coordinature/coordinature.github.io/edit/main/development/applications/familysigns/content/en/researchIntro.md
 
 ## 3. FAQ
 https://prose.io/#coordinature/coordinature.github.io/edit/main/development/applications/familysigns/content/en/faq.md
@@ -200,13 +200,13 @@ _You may choose multiple answers._
     - it's not easy to use.
     - Something else, namely...
 
-https://prose.io/#coordinature/coordinature.github.io/edit/main/development/applications/familysigns/content/questions/profile/index.md
     
     5. States Questionnaire
 https://prose.io/#coordinature/coordinature.github.io/edit/main/development/applications/familysigns/content/en/statements.md
 
 6. Phase 2 End text All
-### Finished!
+### Finished phase 2!
+img: ill-21-celebrate
 Great job!
 In the next activity you will answer various questions via chat, and practice making gestures. You will be able to create gestures, by turning your phone into a magic wand! You can do this as often and for as long as you want. You may now start by writing a message in the chat.
     
@@ -287,6 +287,7 @@ https://prose.io/#coordinature/coordinature.github.io/edit/main/development/appl
   
   4. End text - all
   ### Finished
+img: ill-21-party
 Thank you for all your help. You did a great job!
 With your help, we can help many other families like yours. Now we know more about how to use gestures to make online talking easier and more fun!
 You will continue to have access to the chat and you may continue to add gestures to your family libary. We will send your family a message when a new version of the app is ready for use. All your gestures will be saved and can also be used in the new Family Signs app. 
