@@ -21,9 +21,9 @@ Table Of Content
     4. Profile questionnaire
    	5. States Questionnaire
     6. phase 2 End text all
-	6. question loop: chat with Signs Assistant
-    7. mid evaluation - initiator
-    8. phase 2 End text Initiator
+	7. question loop: chat with Signs Assistant
+    8. mid evaluation - initiator
+    9. phase 2 End text Initiator
 
 6. Research Phase 3: evaluation
 	1. phase 3 intro
@@ -257,6 +257,12 @@ _Describe how and why._
 _Leave a message here or contact us._
 
 https://prose.io/#coordinature/coordinature.github.io/edit/main/development/applications/familysigns/content/questions/evaluation/mid.md
+
+9. Phase 2 End text Initiator
+### End of phase 2
+![](https://coordinature.github.io/development/applications/familysigns/images/ill-21-celebrate.png)
+We have arrived at the end of phase 2. For the coming weeks, We ask you to practice gesturing as much as possible in the chat.
+Do you have questions about this? Then you can contact us or leave a message in the chat. The last phase is the evaluation phase, in which you fill in a questionnaire together with your family and we round off the research with a video conversation.
 
 ## 6. Research Phase 3: evaluation
 1. phase 3 intro
