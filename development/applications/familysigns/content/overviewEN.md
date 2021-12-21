@@ -55,7 +55,7 @@ Welcome to Family Signs! You are amongst the first to have registered yourself a
   2. Contact
  
  ### Contact
- img: ill-21-namesign
+![](https://coordinature.github.io/development/applications/familysigns/images/ill-21-namesign.png)
  _Enter your personal details here._
 - What is your first name?
 - What's your last name?
@@ -66,7 +66,7 @@ Welcome to Family Signs! You are amongst the first to have registered yourself a
   3. Family profile
 
 ### Family profile
- img: ill-21-familysign
+![](https://coordinature.github.io/development/applications/familysigns/images/ill-21-familysign.png)
 _We would like to get a better picture of your family and who might be able to participate. Please complete the following questions as accurately as possible._
 
 - How many family members are going to participate?
@@ -88,6 +88,8 @@ https://prose.io/#coordinature/coordinature.github.io/edit/main/development/appl
 
 5. Phase 1 End text
 ### Done with phase 1
+![](https://coordinature.github.io/development/applications/familysigns/images/ill-21-heart.png)
+
 Great job, thank you for your participation of the Introduction Phase.
 We would like to invite you for a video conversation, in which we get to know you and possibly your partner.
 Then we start with phase 2, where your family starts with their participation.
@@ -206,7 +208,7 @@ https://prose.io/#coordinature/coordinature.github.io/edit/main/development/appl
 
 6. Phase 2 End text All
 ### Finished phase 2!
-img: ill-21-celebrate
+![](https://coordinature.github.io/development/applications/familysigns/images/ill-21-celebrate.png)
 Great job!
 In the next activity you will answer various questions via chat, and practice making gestures. You will be able to create gestures, by turning your phone into a magic wand! You can do this as often and for as long as you want. You may now start by writing a message in the chat.
     
@@ -287,7 +289,7 @@ https://prose.io/#coordinature/coordinature.github.io/edit/main/development/appl
   
   4. End text - all
   ### Finished
-img: ill-21-party
+![](https://coordinature.github.io/development/applications/familysigns/images/ill-21-party.png)
 Thank you for all your help. You did a great job!
 With your help, we can help many other families like yours. Now we know more about how to use gestures to make online talking easier and more fun!
 You will continue to have access to the chat and you may continue to add gestures to your family libary. We will send your family a message when a new version of the app is ready for use. All your gestures will be saved and can also be used in the new Family Signs app. 
@@ -319,7 +321,7 @@ https://prose.io/#coordinature/coordinature.github.io/edit/main/development/appl
     
     6. End text initiator
  ### Finished
-img: ill-21-thankyou
+![](https://coordinature.github.io/development/applications/familysigns/images/ill-21-thankyou.png)
 Thank you for your efforts, we really appreciate this.
 Thanks to you and your family's help, we can better help other families like yours in their internal family communication. We will notify you as soon as a new version of the app is available for download. Of course, all your family gestures will be saved, so you can take them with you for the future. The guide remains open for use and you may continue to practice and play with the gestures.
 
