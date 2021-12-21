@@ -114,7 +114,7 @@ https://prose.io/#coordinature/coordinature.github.io/edit/main/development/appl
     
 ## 5. Research Phase 2: all family members
 1. phase 2 intro
-
+![](https://coordinature.github.io/development/applications/familysigns/images/ill-21-family.png)
 Welkom bij Family Signs. Leuk dat je meedoet!
 Tijdens dit onderzoek gaan we leren over jou en jouw familie. We leren over hoe jij makkelijker en op een leukere manier over jezelf te vertellen, via de telefoon. Doordat jij ons helpt, kunnen wij nieuwe oplossingen bedenken om veel meer families zoals die van jou te helpen beter met elkaar te praten.
 We zullen jou een aantal vragen stellen. Als je dit moeilijk vindt, mag je dit altijd samen met iemand anders invullen, maar probeer wel zo veel mogelijk te zeggen wat jij zelf vindt. Ben je klaar om te starten? Veel plezier!
@@ -146,6 +146,7 @@ https://prose.io/#coordinature/coordinature.github.io/edit/main/development/appl
 
 	4. Profile questionnaire (profile/index)
 ### kennismaking
+ ![](https://coordinature.github.io/development/applications/familysigns/images/ill-21-lovesign.png)
 _Om jou beter te leren kennen, willen we je graag wat vragen. Vul de vragen zo eerlijk mogelijk in. Ouders mogen dit samen met de kinderen doen. (Berichtje aan de ouders: Probeer hierbij zo min mogelijk te sturen in de antwoorden.)_
 
 - Wat vind jij leuk om te doen met het gezin?
@@ -187,13 +188,14 @@ https://prose.io/#coordinature/coordinature.github.io/edit/main/development/appl
 https://prose.io/#coordinature/coordinature.github.io/edit/main/development/applications/familysigns/content/statements.md    
 
 	6. Phase 2 End text All
-### Klaar met fase 2!
+### Gelwedig gedaan!
 ![](https://coordinature.github.io/development/applications/familysigns/images/ill-21-celebrate.png)
 Geweldig gedaan!
 In de volgende activiteit zul je via een chat verschillende vragen beantwoorden en oefenen met het maken van gebaren. Dit doen we door jouw telefoon te veranderen in een toverstaf. Je mag dit zovaak doen en zo lang doen als je zelf wilt. Start de oefening door een berichtje te sturen in de chat.
     
 	7. question loop 
 ### Chat met de Signs Gids.
+![](https://coordinature.github.io/development/applications/familysigns/images/ill-21-devicegesture.png)
 _Hi, leuk dat je er bent. Ik leer graag meer over jou en al jouw verhalen! Samen bedenken we nieuwe onderwerpen waar we over willen vertellen en oefenen we met het maken van gebaren met de telefoon._
 
 Example:
@@ -212,7 +214,7 @@ _ wanneer was de laatste keer dat je boos was?_
  Beoordeel in moeilijkheidsgraad.    
  
     
-   7. mid evaluation - initiator
+ 8. mid evaluation - initiator
  ### Mid- Evaluatie met de initiatiefnemer
  _Je bent halverwege het onderzoek. Goed gedaan! Vul de volgende vragen zo eerlijk mogelijk in._
  
@@ -236,6 +238,7 @@ https://prose.io/#coordinature/coordinature.github.io/edit/main/development/appl
 ## 6. Research Phase 3: evaluation
 	1. phase 3 intro
  ### Fase 3: evaluatie
+ ![](https://coordinature.github.io/development/applications/familysigns/images/ill-21-thumbsup.png)
 _We zijn bijna klaar met het onderzoek! Goed gedaan!
 Voordat we stoppen, hebben we nog een aantal vragen voor je. Net zoals aan het begin vul je twee vragenlijsten in. Als je hulp nodig hebt, mag je het altijd samen doen. Maar let er wel op dat jij jouw eigen mening geeft! (Berichtje aan de ouders: Probeer hierbij zo min mogelijk te sturen in de antwoorden.)_
 
