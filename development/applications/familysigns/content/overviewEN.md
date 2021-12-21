@@ -50,7 +50,7 @@ https://prose.io/#coordinature/coordinature.github.io/edit/main/development/appl
 ## 4. Research phase 1: introduction for initiator
   1. Phase 1 intro
 ![](https://coordinature.github.io/development/applications/familysigns/images/ill-21-signs.png)
-Welcome to Family Signs! You are amongst the first to have registered yourself and your family to participate in the study. The research takes place in three phases: Introduction, Family Activities and Evaluation. This Introduction phase is done alone or with your partner and phase 2 and 3 is done together with the entire family.
+Welcome to Family Signs! You are amongst the first to have registered yourself and your family to participate in the study. The research takes place in three phases: Introduction, Family Activities, and Evaluation. This Introduction phase is done alone or with your partner and phase 2 and 3 is done together with the entire family.
     
   2. Contact
  
@@ -76,7 +76,7 @@ _We would like to get a better picture of your family and who might be able to p
     
   4. Intentions
  ### Intentions
- _In order to guide you as best as possible during this research, we would like to learn more about your intentions. Please complete the following questions._
+ _To guide you as best as possible during this research, we would like to learn more about your intentions. Please complete the following questions._
  
 - Why do you want to participate in this research?
 - What would you like to learn from this research?
@@ -90,13 +90,13 @@ https://prose.io/#coordinature/coordinature.github.io/edit/main/development/appl
 ### Done with phase 1
 ![](https://coordinature.github.io/development/applications/familysigns/images/ill-21-heart.png)
 
-Great job, thank you for your participation of the Introduction Phase.
-We would like to invite you for a video conversation, in which we get to know you and possibly your partner.
+Great job, thank you for your participation in the Introduction Phase.
+We would like to invite you for a video conversation, in which we get to know you (if applicable) your partner.
 Then we start with phase 2, where your family starts with their participation.
 
-  6. start interview
+  6. start the interview
  ### Make a video appointment - initiator
- _We would like to schedule a video appointment to get to know you and your family situation better. Please pick time and date that is most convenient for you in the calender below._
+ _We would like to schedule a video appointment to get to know you and your family situation better. Please pick a time and date that is most convenient for you in the calendar below._
  
  (VERBALLY ASKED QUESTIONS)
  - Family Dynamic: What problems do you experience as a result of poor family communication? What would you like to improve?
@@ -115,11 +115,11 @@ https://prose.io/#coordinature/coordinature.github.io/edit/main/development/appl
 1. phase 2 intro
 ![](https://coordinature.github.io/development/applications/familysigns/images/ill-21-family.png)
 Welcome to Family Signs. We are happy you are here!
-During this research we want to learn more about you and your family. We want to try to make online talking easier and fun. And we need your help to do this!
+During this research, we want to learn more about you and your family. We want to try to make online talking easier and more fun. And we need your help to do this!
 We will ask you some questions. If you find this difficult, you can always fill it in with someone else. Are you ready to start? Good luck!
 
 2. Group
-### Create a new group - iniator
+### Create a new group - intiator
 _Create a group for your family. There is a maximum of 1 group per family._
 
 1. What group name would you like to use?
@@ -165,7 +165,7 @@ https://prose.io/#coordinature/coordinature.github.io/edit/main/development/appl
 4. Profile questionnaire (profile/index)
 ### Getting to know you
  ![](https://coordinature.github.io/development/applications/familysigns/images/ill-21-lovesign.png)
-_To get to know you better, we would like to ask you a few questions. Please complete the questions as honsetly as possible. Parents are allowed to help. (note to parents: Try not to bias your children's answers.)_
+_To get to know you better, we would like to ask you a few questions. Please complete the questions as honestly as possible. Parents are allowed to help. (note to parents: Try not to bias your children's answers.)_
 
 - What do you like to do with the family?
 _Describe the activities_
@@ -183,21 +183,21 @@ _You may select multiple answers._
     - Something else, namely...
 
 - Which apps do you use most on your phone?
-_Write down the three most used apps._
+_Write down the three most-used apps._
 	- app 1
     - app 2
     - app 3
     
 - What apps do you use to talk to your friends and family?
-_Which one do you use for friends?_
+_Which one do you use for your friends?_
 
-_Which one do you use for family?_
+_Which one do you use for your family?_
 
 - What do you find difficult about the apps you use to talk to your family?
 _You may choose multiple answers._
 	- Group messages
     - Responding
-    - The amount of notifications
+    - The number of notifications
     - Emoticons and gifs
     - Start a conversation
     - it's not easy to use.
@@ -211,7 +211,7 @@ https://prose.io/#coordinature/coordinature.github.io/edit/main/development/appl
 ### Great Job!
 ![](https://coordinature.github.io/development/applications/familysigns/images/ill-21-celebrate.png)
 Great job!
-In the next activity you will answer various questions via chat, and practice making gestures. You will be able to create gestures, by turning your phone into a magic wand! You can do this as often and for as long as you want. You may now start by writing a message in the chat.
+In the next activity, you will answer various questions via chat, and practice making gestures. You will be able to create gestures, by turning your phone into a magic wand! You can do this as often and for as long as you want. You may now start by writing a message in the chat.
     
 7. question loop
 ### Chat with the Signs Guide.
@@ -250,7 +250,7 @@ _Describe the moment._
 - Which family members benefit most from gesturing? Why?
 _Describe who and why_
 
-- How can your family benefit from gesture making?
+- How can your family benefit from gesture-making?
 _Describe how and why._
 
 - Do you want to say something else?
@@ -269,7 +269,7 @@ Do you have questions about this? Then you can contact us or leave a message in 
  ### Phase 3: Evaluation
   ![](https://coordinature.github.io/development/applications/familysigns/images/ill-21-thumbsup.png)
 _We are almost done with the research! Well done!
-With your family members you've made your own library of gestures! Amazing!
+With your family members, you've made your own library of gestures! Amazing!
 Before we finish the study, we have a few more questions for you. Just like in the beginning, you will fill in two questionnaires. Please complete the questions as honestly as possible. Parents are allowed to help. (note to parents: Try not to bias your children's answers.)_
 
    2. End of questionnaire all
@@ -302,7 +302,7 @@ https://prose.io/#coordinature/coordinature.github.io/edit/main/development/appl
 ![](https://coordinature.github.io/development/applications/familysigns/images/ill-21-party.png)
 Thank you for all your help. You did a great job!
 With your help, we can help many other families like yours. Now we know more about how to use gestures to make online talking easier and more fun!
-You will continue to have access to the chat and you may continue to add gestures to your family libary. We will send your family a message when a new version of the app is ready for use. All your gestures will be saved and can also be used in the new Family Signs app. 
+You will continue to have access to the chat and you may continue to add gestures to your family library. We will send your family a message when a new version of the app is ready for use. All your gestures will be saved and can also be used in the new Family Signs app. 
 
 We believe that everyone deserves to be understood, especially when it comes to family. We want to thank you for helping us get closer to our goal.
   
@@ -332,13 +332,13 @@ https://prose.io/#coordinature/coordinature.github.io/edit/main/development/appl
     6. End text initiator
  ### Finished
 ![](https://coordinature.github.io/development/applications/familysigns/images/ill-21-thankyou.png)
-Thank you for your efforts, we really appreciate this.
-Thanks to you and your family's help, we can better help other families like yours in their internal family communication. We will notify you as soon as a new version of the app is available for download. Of course, all your family gestures will be saved, so you can take them with you for the future. The guide remains open for use and you may continue to practice and play with the gestures.
+Thank you for your efforts, we appreciate this.
+Thanks to you and your family's help, we can better help other families like yours in their internal family communication. We will notify you as soon as a new version of the app is available for download. Of course, all your family gestures will be saved, so you can take them with you in the future. The guide remains open for use and you may continue to practice and play with the gestures.
 
 As a final step, we would like to schedule a video conversation with you and possibly your partner to learn about your experience and thank you personally. 
  
-    7. end in depth video interview
- _We would like to schedule a video appointment to learn about your experience and thank you personally. Please pick time and date that is most convenient for you in the calender below._
+    7. end in-depth video interview
+ _We would like to schedule a video appointment to learn about your experience and thank you personally. Please pick a time and date that is most convenient for you in the calendar below._
  
 ### end video call
 - Did you learn anything new about your family members during this survey? Describe what you have learned.
