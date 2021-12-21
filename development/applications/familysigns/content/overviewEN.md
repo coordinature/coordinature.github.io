@@ -208,13 +208,14 @@ _You may choose multiple answers._
 https://prose.io/#coordinature/coordinature.github.io/edit/main/development/applications/familysigns/content/en/statements.md
 
 6. Phase 2 End text All
-### Finished phase 2!
+### Great Job!
 ![](https://coordinature.github.io/development/applications/familysigns/images/ill-21-celebrate.png)
 Great job!
 In the next activity you will answer various questions via chat, and practice making gestures. You will be able to create gestures, by turning your phone into a magic wand! You can do this as often and for as long as you want. You may now start by writing a message in the chat.
     
 7. question loop
 ### Chat with the Signs Guide.
+![](https://coordinature.github.io/development/applications/familysigns/images/ill-21-devicegesture.png)
 _Hi, nice to have you here. I would love to learn more about you and all your stories! Together we come up with new topics that we want to talk about and we practice making gestures with your phone._
 
 (Example:
@@ -235,9 +236,10 @@ _ when was the last time you were angry?_)
  Rate in difficulty.
  
     
-   7. mid evaluation - initiator
+  8. mid evaluation - initiator
  ### Mid-Evaluation with the initiator
- _You are halfway through the investigation. Well done! Please complete the following questions as accurately as possible._
+  ![](https://coordinature.github.io/development/applications/familysigns/images/ill-21-write.png)
+ _You are halfway through the research. Well done! Please complete the following questions as accurately as possible._
  
 - Did all family members make their first gesture?
 _Describe which family members do not and why not._
@@ -259,6 +261,7 @@ https://prose.io/#coordinature/coordinature.github.io/edit/main/development/appl
 ## 6. Research Phase 3: evaluation
 1. phase 3 intro
  ### Phase 3: Evaluation
+  ![](https://coordinature.github.io/development/applications/familysigns/images/ill-21-thumbsup.png)
 _We are almost done with the research! Well done!
 With your family members you've made your own library of gestures! Amazing!
 Before we finish the study, we have a few more questions for you. Just like in the beginning, you will fill in two questionnaires. Please complete the questions as honestly as possible. Parents are allowed to help. (note to parents: Try not to bias your children's answers.)_
