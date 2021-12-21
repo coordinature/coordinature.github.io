@@ -216,6 +216,7 @@ _ wanneer was de laatste keer dat je boos was?_
     
  8. mid evaluation - initiator
  ### Mid- Evaluatie met de initiatiefnemer
+  ![](https://coordinature.github.io/development/applications/familysigns/images/ill-21-write.png)
  _Je bent halverwege het onderzoek. Goed gedaan! Vul de volgende vragen zo eerlijk mogelijk in._
  
 - Hebben alle gezinsleden hun eerste gebaar gemaakt?
