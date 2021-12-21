@@ -41,7 +41,7 @@ Table Of Content
 https://docs.google.com/document/d/1tykZ9NbOw4RibScdMmkFMp3VrlSLDMJwM_t1oH7D6Lw/edit?usp=sharing
 
 ## 2. Introduction welcome text
-img: ill-21-family
+![](https://coordinature.github.io/development/applications/familysigns/images/ill-21-family.png)
 https://prose.io/#coordinature/coordinature.github.io/edit/main/development/applications/familysigns/content/en/researchIntro.md
 
 ## 3. FAQ
@@ -49,7 +49,7 @@ https://prose.io/#coordinature/coordinature.github.io/edit/main/development/appl
 
 ## 4. Research phase 1: introduction for initiator
   1. Phase 1 intro
-img: ill-21-foryourself
+![](https://coordinature.github.io/development/applications/familysigns/images/ill-21-signs.png)
 Welcome to Family Signs! You are amongst the first to have registered yourself and your family to participate in the study. The research takes place in three phases: Introduction, Family Activities and Evaluation. This Introduction phase is done alone or with your partner and phase 2 and 3 is done together with the entire family.
     
   2. Contact
