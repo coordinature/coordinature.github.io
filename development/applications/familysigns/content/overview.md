@@ -21,9 +21,9 @@ Table Of Content
     4. Profile questionnaire
    	5. States questionnaire
     6. phase 2 End text all
-	6. question loop: chat with Signs Assistent
-    7. mid evaluation - initiator
-    8. phase 2 End text Initiator
+	7. question loop: chat with Signs Assistent
+    8. mid evaluation - initiator
+    9. phase 2 End text Initiator
 
 6. Research Phase 3: evaluation
 	1. phase 3 intro
@@ -213,6 +213,7 @@ _ wanneer was de laatste keer dat je boos was?_
     
  Beoordeel in moeilijkheidsgraad.    
  
+ 
     
  8. mid evaluation - initiator
  ### Mid- Evaluatie met de initiatiefnemer
@@ -235,6 +236,12 @@ _Omschrijf hoe en waarom._
 _Laat hier een bericht achter of neem contact met ons op._
 
 https://prose.io/#coordinature/coordinature.github.io/edit/main/development/applications/familysigns/content/questions/evaluation/mid.md
+
+9. Phase 2 End text Initiator
+### Einde fase 2
+![](https://coordinature.github.io/development/applications/familysigns/images/ill-21-celebrate.png)
+We zijn nu aan het einde van fase 2 gekomen. We vragen je om de komende weken nog zo veel mogelijk te oefenen in de chat en het maken van gebaren.
+Heb je hier vragen over? Dan kun je met ons contact opnemen of laat een berichtje achter in de chat. De laatste fase is de evaluatie fase, hierin vul je nog een keer samen met jouw gezin een vragenlijst in en ronden we het onderzoek af met een video-gesprek.
 
 ## 6. Research Phase 3: evaluation
 	1. phase 3 intro
