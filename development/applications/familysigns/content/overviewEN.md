@@ -319,6 +319,7 @@ https://prose.io/#coordinature/coordinature.github.io/edit/main/development/appl
     
     6. End text initiator
  ### Finished
+img: ill-21-thankyou
 Thank you for your efforts, we really appreciate this.
 Thanks to you and your family's help, we can better help other families like yours in their internal family communication. We will notify you as soon as a new version of the app is available for download. Of course, all your family gestures will be saved, so you can take them with you for the future. The guide remains open for use and you may continue to practice and play with the gestures.
 
