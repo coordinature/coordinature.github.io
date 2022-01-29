@@ -1,0 +1,87 @@
+/// patterns
+// 1. gradient black to white horizontal
+    // float strength = vUv.x;
+  
+// 2. gradient black to white vertical and inverted
+     // float strength = vUv.y;
+     // float strength = 1.0 - vUv.y;
+     
+// 3. black to white hard cut small begin
+     //float strength =vUv.y *10.0;
+      
+// 4. horizontal stripes
+     //float strength = mod(vUv.y * 10.0, 1.0 );
+    // strength = step(0.5, strength);
+    
+// 5.vertical stripes
+      //float strength = step(0.8, mod(vUv.x * 10.0 , 1.0));
+
+// 6. black white boxes
+     // float strength = step(0.8, mod(vUv.x * 10.0 , 1.0));
+      //strength += step(0.8, mod(vUv.y * 10.0 , 1.0));
+      
+// 7.black white dots
+        // float strength = step(0.8, mod(vUv.x * 10.0 , 1.0));
+        // strength *= step(0.5, mod(vUv.y * 10.0 , 1.0));
+
+// 8. black white stripes dotted
+      //float strength = step(0.4, mod(vUv.x * 10.0 , 1.0));
+      //strength *= step(0.8, mod(vUv.y * 10.0 , 1.0)); 
+
+// 9. black white horizontal en vertical bars combined
+      //float barX= step(0.4, mod(vUv.x * 10.0 , 1.0));
+      //barX *= step(0.8, mod(vUv.y * 10.0 , 1.0));
+
+    //10 gradient middle
+      // float strength = abs(vUv.x - 0.5);
+
+    //11. crossings minimum value
+    // float strength = min(abs(vUv.x - 0.5), abs(vUv.y - 0.5));
+    
+    //12. crossings max value
+       // float strength = max(abs(vUv.x - 0.5), abs(vUv.y - 0.5));
+    
+    //13. cutout square
+        // float strength = step(0.4, max(abs(vUv.x - 0.5), abs(vUv.y - 0.5)));
+
+  //14.
+  //    float strength = step(0.1, max(abs(vUv.x - 0.1), abs(vUv.y - 0.9)));
+
+  // 15.grid patterns
+  // float strength = floor(vUv.x * 8.0) / 10.0 * floor(vUv.y * 8.0) / 10.0;
+
+  // 16. noise
+  // float strength = random2(vUv);
+
+  // 17. random grid pattern
+  //vec2 gridUv = vec2(
+    //floor(vUv.x *10.0)/10.0,
+    //floor(vUv.y *10.0)/10.0
+  //);
+  //float strength = random(gridUv);
+
+  // 18. random grid pattern slanted
+ // vec2 gridUv = vec2(
+   // floor((vUv.x) *10.0)/10.0,
+   //floor((vUv.y+vUv.x * 0.5) *10.0)/10.0
+ // );
+
+  //float strength = random(gridUv);
+
+// 19. random grid four squares random collor
+ // vec2 gridUv = vec2(
+ //   floor((vUv.x) *2.0)/2.0,
+ //   floor((vUv.y) *2.0)/2.0
+ // );
+
+ // float strength = random(gridUv);
+    
+    // 20. soft gradient
+  //vec2 gridUv = vec2(
+ //   floor((vUv.x) *2.0)/2.0,
+  //  floor((vUv.y) *2.0)/2.0);
+
+ // float strength = random(gridUv);
+
+        
+  gl_FragColor = vec4(strength, strength, strength, 1.0);
