@@ -21,9 +21,9 @@ Table Of Content
     4. Profile questionnaire
    	5. States questionnaire
     6. phase 2 End text all
-	6. question loop: chat with Signs Assistent
-    7. mid evaluation - initiator
-    8. phase 2 End text Initiator
+	7. question loop: chat with Signs Assistent
+    8. mid evaluation - initiator
+    9. phase 2 End text Initiator
 
 6. Research Phase 3: evaluation
 	1. phase 3 intro
@@ -41,7 +41,8 @@ Table Of Content
 https://docs.google.com/document/d/1tykZ9NbOw4RibScdMmkFMp3VrlSLDMJwM_t1oH7D6Lw/edit?usp=sharing
 
 ## 2. Introduction welcome text
-img: ill-21-family
+![](https://coordinature.github.io/development/applications/familysigns/images/ill-21-family.png)
+
 https://prose.io/#coordinature/coordinature.github.io/edit/main/development/applications/familysigns/content/nl/researchIntro.md
 
 ## 3. FAQ
@@ -49,13 +50,13 @@ https://prose.io/#coordinature/coordinature.github.io/edit/main/development/appl
 
 ## 4. Research phase 1: introduction for initiator
   1. Phase 1 intro
-img: ill-21-foryourself
+![](https://coordinature.github.io/development/applications/familysigns/images/ill-21-signs.png)
 Welkom bij Family Signs! Je maakt deel uit van de eerste pioniers die zichzelf en hun gezin hebben ingeschreven voor dit onderzoek. We zijn je daar dankbaar voor en kijken uit naar een mooie frisse start. Het onderzoek gebeurd in drie fases: Introductie, Gezinsacitiviteiten en Evaluatie. Deze introductiefase zal enkel met jou en eventueel jouw partner worden gedaan. Fase 2 en 3 doe jij samen met het gehele gezin.
     
   2. Contact
  
  ### Contact
- img: ill-21-namesign
+![](https://coordinature.github.io/development/applications/familysigns/images/ill-21-namesign.png)
  _Vul hier jouw persoonlijke gegevens in._
 - Wat is jouw voornaam?
 - Wat is jouw achternaam?
@@ -66,7 +67,7 @@ Welkom bij Family Signs! Je maakt deel uit van de eerste pioniers die zichzelf e
   3. Family profile
 
 ### Familie profiel
- img: ill-21-familySign
+![](https://coordinature.github.io/development/applications/familysigns/images/ill-21-familysign.png)
 _We krijgen graag een beter beeld van jouw gezin en wie er mogelijk mee kan doen. Vul de volgende vragen zo goed mogelijk in._
 
 - Uit hoeveel gezinsleden bestaat jouw gezin?
@@ -88,6 +89,8 @@ https://prose.io/#coordinature/coordinature.github.io/edit/main/development/appl
 
 	5. Phase 1 End text
 ### Klaar met fase 1
+![](https://coordinature.github.io/development/applications/familysigns/images/ill-21-heart.png)
+
 Geweldig gedaan, dankjewel voor jouw deelname aan de Introductie fase.
 We nodigen je graag uit voor een video gesprek, waarin we kennismaken met jou en eventueel jouw partner.
 Daarna beginnen we met fase 2, waarin jij jouw gezin zult introduceren aan het onderzoek.
@@ -111,7 +114,7 @@ https://prose.io/#coordinature/coordinature.github.io/edit/main/development/appl
     
 ## 5. Research Phase 2: all family members
 1. phase 2 intro
-
+![](https://coordinature.github.io/development/applications/familysigns/images/ill-21-family.png)
 Welkom bij Family Signs. Leuk dat je meedoet!
 Tijdens dit onderzoek gaan we leren over jou en jouw familie. We leren over hoe jij makkelijker en op een leukere manier over jezelf te vertellen, via de telefoon. Doordat jij ons helpt, kunnen wij nieuwe oplossingen bedenken om veel meer families zoals die van jou te helpen beter met elkaar te praten.
 We zullen jou een aantal vragen stellen. Als je dit moeilijk vindt, mag je dit altijd samen met iemand anders invullen, maar probeer wel zo veel mogelijk te zeggen wat jij zelf vindt. Ben je klaar om te starten? Veel plezier!
@@ -143,6 +146,7 @@ https://prose.io/#coordinature/coordinature.github.io/edit/main/development/appl
 
 	4. Profile questionnaire (profile/index)
 ### kennismaking
+ ![](https://coordinature.github.io/development/applications/familysigns/images/ill-21-lovesign.png)
 _Om jou beter te leren kennen, willen we je graag wat vragen. Vul de vragen zo eerlijk mogelijk in. Ouders mogen dit samen met de kinderen doen. (Berichtje aan de ouders: Probeer hierbij zo min mogelijk te sturen in de antwoorden.)_
 
 - Wat vind jij leuk om te doen met het gezin?
@@ -184,12 +188,14 @@ https://prose.io/#coordinature/coordinature.github.io/edit/main/development/appl
 https://prose.io/#coordinature/coordinature.github.io/edit/main/development/applications/familysigns/content/statements.md    
 
 	6. Phase 2 End text All
-### Klaar!
+### Gelwedig gedaan!
+![](https://coordinature.github.io/development/applications/familysigns/images/ill-21-celebrate.png)
 Geweldig gedaan!
 In de volgende activiteit zul je via een chat verschillende vragen beantwoorden en oefenen met het maken van gebaren. Dit doen we door jouw telefoon te veranderen in een toverstaf. Je mag dit zovaak doen en zo lang doen als je zelf wilt. Start de oefening door een berichtje te sturen in de chat.
     
 	7. question loop 
 ### Chat met de Signs Gids.
+![](https://coordinature.github.io/development/applications/familysigns/images/ill-21-devicegesture.png)
 _Hi, leuk dat je er bent. Ik leer graag meer over jou en al jouw verhalen! Samen bedenken we nieuwe onderwerpen waar we over willen vertellen en oefenen we met het maken van gebaren met de telefoon._
 
 Example:
@@ -207,9 +213,11 @@ _ wanneer was de laatste keer dat je boos was?_
     
  Beoordeel in moeilijkheidsgraad.    
  
+ 
     
-   7. mid evaluation - initiator
+ 8. mid evaluation - initiator
  ### Mid- Evaluatie met de initiatiefnemer
+  ![](https://coordinature.github.io/development/applications/familysigns/images/ill-21-write.png)
  _Je bent halverwege het onderzoek. Goed gedaan! Vul de volgende vragen zo eerlijk mogelijk in._
  
 - Hebben alle gezinsleden hun eerste gebaar gemaakt?
@@ -229,9 +237,16 @@ _Laat hier een bericht achter of neem contact met ons op._
 
 https://prose.io/#coordinature/coordinature.github.io/edit/main/development/applications/familysigns/content/questions/evaluation/mid.md
 
+9. Phase 2 End text Initiator
+### Einde fase 2
+![](https://coordinature.github.io/development/applications/familysigns/images/ill-21-celebrate.png)
+We zijn nu aan het einde van fase 2 gekomen. We vragen je om de komende weken nog zo veel mogelijk te oefenen in de chat en het maken van gebaren.
+Heb je hier vragen over? Dan kun je met ons contact opnemen of laat een berichtje achter in de chat. De laatste fase is de evaluatie fase, hierin vul je nog een keer samen met jouw gezin een vragenlijst in en ronden we het onderzoek af met een video-gesprek.
+
 ## 6. Research Phase 3: evaluation
 	1. phase 3 intro
  ### Fase 3: evaluatie
+ ![](https://coordinature.github.io/development/applications/familysigns/images/ill-21-thumbsup.png)
 _We zijn bijna klaar met het onderzoek! Goed gedaan!
 Voordat we stoppen, hebben we nog een aantal vragen voor je. Net zoals aan het begin vul je twee vragenlijsten in. Als je hulp nodig hebt, mag je het altijd samen doen. Maar let er wel op dat jij jouw eigen mening geeft! (Berichtje aan de ouders: Probeer hierbij zo min mogelijk te sturen in de antwoorden.)_
 
@@ -259,6 +274,7 @@ https://prose.io/#coordinature/coordinature.github.io/edit/main/development/appl
   
   	4. End text  - all
   ### Klaar
+![](https://coordinature.github.io/development/applications/familysigns/images/ill-21-party.png)
 Dankjewel voor al jouw hulp. Je hebt het geweldig gedaan!
 Met jouw hulp kunnen we veel andere gezinnen zoals die van jou helpen. Dankzij jou weten we meer over het gebruiken van de telefoon voor het maken van gebaren om online praten leuker en makkelijker te maken.
 Je blijft toegang houden tot de chat en je kunt gebaren blijven toevoegen aan de family bibliotheek. We sturen jouw familie een berichtje, wanneer de nieuwe app klaar is voor gebruik. Al jouw gebaren zullen dan worden overgezet naar de nieuwe versie van de Family Signs app. 
@@ -289,6 +305,9 @@ https://prose.io/#coordinature/coordinature.github.io/edit/main/development/appl
     
     6. End text initiator
  ### Klaar
+![](https://coordinature.github.io/development/applications/familysigns/images/ill-21-thankyou.png)
+
+
 Dankjewel voor jouw inzet, we waarderen dit enorm.
 Dankzij jouw hulp en die van jouw gezin, kunnen we andere families zoals die van jou beter helpen in hun interne familie communicatie. We zullen jou berichten zodra er een nieuwe versie van de Family Signs app te downloaden is. Uiteraard zullen al jouw familie gebaren dan worden bewaard, zodat je die mee kan nemen voor de toekomst. De chat blijft open voor gebruik en je mag blijven oefenen en spelen met de gebaren.
 
