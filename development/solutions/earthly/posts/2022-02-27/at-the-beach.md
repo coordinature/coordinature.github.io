@@ -8,6 +8,7 @@ The mussels were all having a long tale or body that was hanging out of the shel
 
 image of a close-up of the mussels
 ![collection of mussels](https://coordinature.github.io/development/solutions/earthly/pictures/22-02-27/19.34.36-mussel-close.jpeg)
+
 *copyright image of Floris Marcus*
 
 image of a collection of the mussels
@@ -20,6 +21,7 @@ image of a collection of the starfish
 
 image of a close-up of the starfish
 ![close-up of a starfish](https://coordinature.github.io/development/solutions/earthly/pictures/22-02-27/19.36.41-starfish-close.jpeg)
+
 *copyright image of Floris Marcus*
 
 Many people started asking questions and asking each other. I was one of those people. Therefore a short summery of those questions and possible answers below:
