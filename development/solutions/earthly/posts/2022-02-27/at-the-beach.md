@@ -59,8 +59,8 @@ links of other newchannels who reported this event happening earlier this month 
 
 - <https://www.nhnieuws.nl/nieuws/299301/weer-duizenden-zeesterren-aangespoeld-op-strand-indrukwekkend-maar-niet-uitzonderlijk>
 
-- <https://noordkopcentraal.nl/veel-zeesterren-aangespoeld-in-callantsoog/>
+- [noordkopcentraal](https://noordkopcentraal.nl/veel-zeesterren-aangespoeld-in-callantsoog/)
 
-- [lokaalaanzee] (https://www.lokaalaanzee.nl/nieuws/bloemendaal/782993/veel-zeesterren-aangespoeld-op-strand-bloemendaal)
+- [lokaalaanzee](https://www.lokaalaanzee.nl/nieuws/bloemendaal/782993/veel-zeesterren-aangespoeld-op-strand-bloemendaal)
 
-
+[Duck Duck Go](https://duckduckgo.com "The best search engine for privacy").
