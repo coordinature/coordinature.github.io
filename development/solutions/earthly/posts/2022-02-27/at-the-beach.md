@@ -57,9 +57,9 @@ other questions:
 ### What is the correlation between starfish and these mussels?
 
 links of other newchannels who reported this event happening earlier this month and year:
-- <https://nos.nl/artikel/2412721-zeesterren-spoelen-massaal-aan-op-strand-bij-bloemendaal>
+- [nos](https://nos.nl/artikel/2412721-zeesterren-spoelen-massaal-aan-op-strand-bij-bloemendaal)
 
-- <https://www.nhnieuws.nl/nieuws/299301/weer-duizenden-zeesterren-aangespoeld-op-strand-indrukwekkend-maar-niet-uitzonderlijk>
+- [nh nieuws](https://www.nhnieuws.nl/nieuws/299301/weer-duizenden-zeesterren-aangespoeld-op-strand-indrukwekkend-maar-niet-uitzonderlijk)
 
 - [noordkopcentraal](https://noordkopcentraal.nl/veel-zeesterren-aangespoeld-in-callantsoog/)
 
