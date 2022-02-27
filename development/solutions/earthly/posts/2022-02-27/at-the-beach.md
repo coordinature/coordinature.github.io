@@ -6,16 +6,16 @@ The sun was shining, there wasn't a cloud in the sky and the wind wasn't to stro
 The mussels were all having a long tale or body that was hanging out of the shell. A lot of them were still alive and where only slowly moving when you softly touched them or moved them. The starfish were not moving anymore and had all past away. These starfish don't survive to long after being out of the water. 
 
 image of a close-up of the mussels
-https://coordinature.github.io/development/solutions/earthly/pictures/22-02-27/19.34.36-mussel-close.jpeg
+<https://coordinature.github.io/development/solutions/earthly/pictures/22-02-27/19.34.36-mussel-close.jpeg>
 
 image of a collection of the mussels
-https://coordinature.github.io/development/solutions/earthly/pictures/22-02-27/19.34.36-mussel-collection.jpeg
+<https://coordinature.github.io/development/solutions/earthly/pictures/22-02-27/19.34.36-mussel-collection.jpeg>
 
 image of a collection of the starfish
-https://coordinature.github.io/development/solutions/earthly/pictures/22-02-27/19.34.36-starfish-collection.jpeg
+<https://coordinature.github.io/development/solutions/earthly/pictures/22-02-27/19.34.36-starfish-collection.jpeg>
 
 image of a close-up of the starfish
-https://coordinature.github.io/development/solutions/earthly/pictures/22-02-27/19.36.41-starfish-close.jpeg
+<https://coordinature.github.io/development/solutions/earthly/pictures/22-02-27/19.36.41-starfish-close.jpeg>
 
 ### What was the cause of this event?
 Last week there were three different storms. Most likely the storm caused the current to be heavier and any washed groups of starfish and mussels away to the shore. 
@@ -24,11 +24,11 @@ Another cause could be that the storm brought in more sweet water and therefore 
 
 In England 2018 there were thousands of starfish reported to be washed up on the UK beaches.
 An article below explains:
-https://www.nhm.ac.uk/discover/news/2018/march/thousands-of-dead-starfish-wash-up-on-a-kent-beach.html
+<https://www.nhm.ac.uk/discover/news/2018/march/thousands-of-dead-starfish-wash-up-on-a-kent-beach.html>
 Dr Chris Mah, a starfish researcher from the Smithsonian Institution explaines: 'In almost every instance that this has been reported, there have been reports of either storms or high winds. 
 
 'Bear in mind that storms don't just mean high winds and rough water current. It also means fresh water input. Echinoderms are notoriously intolerant of freshwater. Low salinity water might serve to weaken or otherwise just disable enough of them to be washed ashore.'
-This is his blogpost that dr Mah wrote about starfish around this time with an elaborate FAQ: http://echinoblog.blogspot.com/search?q=stranding 
+This is his blogpost that dr Mah wrote about starfish around this time with an elaborate FAQ: <http://echinoblog.blogspot.com/search?q=stranding>
 
 ### Does it happend more often?
 Yes, often reported after a storm. It happened in the netherlands already more often this year, according to different news channels.
@@ -63,4 +63,4 @@ links of other newchannels who reported this event happening earlier this month 
 
 - [lokaalaanzee](https://www.lokaalaanzee.nl/nieuws/bloemendaal/782993/veel-zeesterren-aangespoeld-op-strand-bloemendaal)
 
-[Duck Duck Go](https://duckduckgo.com "The best search engine for privacy").
+
