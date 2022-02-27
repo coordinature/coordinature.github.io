@@ -56,6 +56,9 @@ other questions:
 
 links of other newchannels who reported this event happening earlier this month and year:
 https://nos.nl/artikel/2412721-zeesterren-spoelen-massaal-aan-op-strand-bij-bloemendaal
+
 https://www.nhnieuws.nl/nieuws/299301/weer-duizenden-zeesterren-aangespoeld-op-strand-indrukwekkend-maar-niet-uitzonderlijk
+
 https://noordkopcentraal.nl/veel-zeesterren-aangespoeld-in-callantsoog/
+
 https://www.lokaalaanzee.nl/nieuws/bloemendaal/782993/veel-zeesterren-aangespoeld-op-strand-bloemendaal
