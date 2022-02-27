@@ -8,15 +8,19 @@ The mussels were all having a long tale or body that was hanging out of the shel
 
 image of a close-up of the mussels
 ![collection of mussels](https://coordinature.github.io/development/solutions/earthly/pictures/22-02-27/19.34.36-mussel-close.jpeg)
+*copyright image of Floris Marcus*
 
 image of a collection of the mussels
 <https://coordinature.github.io/development/solutions/earthly/pictures/22-02-27/19.34.36-mussel-collection.jpeg>
+*copyright image of Floris Marcus*
 
 image of a collection of the starfish
 <https://coordinature.github.io/development/solutions/earthly/pictures/22-02-27/19.34.36-starfish-collection.jpeg>
+*copyright image of Floris Marcus*
 
 image of a close-up of the starfish
-<https://coordinature.github.io/development/solutions/earthly/pictures/22-02-27/19.36.41-starfish-close.jpeg>
+![close-up of a starfish](https://coordinature.github.io/development/solutions/earthly/pictures/22-02-27/19.36.41-starfish-close.jpeg)
+*copyright image of Floris Marcus*
 
 ### What was the cause of this event?
 Last week there were three different storms. Most likely the storm caused the current to be heavier and any washed groups of starfish and mussels away to the shore. 
