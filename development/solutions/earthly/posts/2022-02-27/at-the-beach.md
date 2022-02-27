@@ -1,6 +1,6 @@
 ## Starfish & Mussels at the beach
 
-On a lovely sunday afternoon on the last weekend of februari, I decided to go to the beach.
+On a lovely sunday afternoon on the last weekend of februari, me and my family decided to go to the beach.
 The sun was shining, there wasn't a cloud in the sky and the wind wasn't to strong. It was great for a walk on the sand. Yet to the surprise of many other visitors, there was a gloomy view that welcomed us. Agros the coastline there were hundred, maybe thousands, of dead seastars and mussels that were washed up the shore.
 
 The mussels were all having a long tale or body that was hanging out of the shell. A lot of them were still alive and where only slowly moving when you softly touched them or moved them. The starfish were not moving anymore and had all past away. These starfish don't survive to long after being out of the water. 
