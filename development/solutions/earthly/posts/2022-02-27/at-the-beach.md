@@ -22,6 +22,8 @@ image of a close-up of the starfish
 ![close-up of a starfish](https://coordinature.github.io/development/solutions/earthly/pictures/22-02-27/19.36.41-starfish-close.jpeg)
 *copyright image of Floris Marcus*
 
+Many people started asking questions and asking each other. I was one of those people. Therefore a short summery of those questions and possible answers below:
+
 ### What was the cause of this event?
 Last week there were three different storms. Most likely the storm caused the current to be heavier and any washed groups of starfish and mussels away to the shore. 
 
