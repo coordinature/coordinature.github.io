@@ -5,7 +5,6 @@ The sun was shining, there wasn't a cloud in the sky and the wind wasn't to stro
 
 The mussels were all having a long tale or body that was hanging out of the shell. A lot of them were still alive and where only slowly moving when you softly touched them or moved them. The starfish were not moving anymore and had all past away. These starfish don't survive to long after being out of the water. 
 
-    ![Tux, the Linux mascot](/assets/images/tux.png)
 
 image of a close-up of the mussels
 ![collection of mussels](https://coordinature.github.io/development/solutions/earthly/pictures/22-02-27/19.34.36-mussel-close.jpeg)
