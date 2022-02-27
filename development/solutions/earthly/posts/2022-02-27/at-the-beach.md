@@ -50,6 +50,7 @@ other questions:
 - can it harm the system that so many are dying?
 - how often do they create new babies?
 - How do they procreate?
+- If these died, will there offspring die to?
 
 ### What is the correlation between starfish and these mussels?
 
