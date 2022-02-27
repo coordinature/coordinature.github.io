@@ -25,6 +25,10 @@ Another cause could be that the storm brought in more sweet water and therefore 
 In England 2018 there were thousands of starfish reported to be washed up on the UK beaches.
 An article below explains:
 https://www.nhm.ac.uk/discover/news/2018/march/thousands-of-dead-starfish-wash-up-on-a-kent-beach.html
+Dr Chris Mah, a starfish researcher from the Smithsonian Institution explaines: 'In almost every instance that this has been reported, there have been reports of either storms or high winds. 
+
+'Bear in mind that storms don't just mean high winds and rough water current. It also means fresh water input. Echinoderms are notoriously intolerant of freshwater. Low salinity water might serve to weaken or otherwise just disable enough of them to be washed ashore.'
+This is his blogpost that dr Mah wrote about starfish around this time with an elaborate FAQ: http://echinoblog.blogspot.com/search?q=stranding 
 
 ### Does it happend more often?
 
