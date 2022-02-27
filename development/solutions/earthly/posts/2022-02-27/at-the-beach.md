@@ -31,10 +31,30 @@ Dr Chris Mah, a starfish researcher from the Smithsonian Institution explaines: 
 This is his blogpost that dr Mah wrote about starfish around this time with an elaborate FAQ: http://echinoblog.blogspot.com/search?q=stranding 
 
 ### Does it happend more often?
+Yes, often reported after a storm. It happened in the netherlands already more often this year, according to different news channels.
 
 ### Does it say anything about climate change?
+An assumption is that one could say is that the storm says something about climate change, but not nescecary the starfish type or mussel type that was washed. Because the heavy-ness of the storm, where it came from and how often it occurred right after each other.
 
 ### Is there anything we can do to rescue them, when we see them?
+depending on the species. But this species: only onces you see them being washed to the shore, within seconds you can bring them back to the sea. 
+
+other questions:
+- can it hurt them for me to touch them with my skin?
+- is it save for me?
+- when I put it back to the sea, how for into the water does it have to go?
+- won't it just be washed right back?
+- Is there a way to predict it? And can we do something? Is there a time?
+- what would happen if we would be able to predict and bring them back to sea as soon as they are arriving?
+- Is it important or beneficial for the ecosystem that these starfish are being flushed to the beach?
+- can it harm the system that so many are dying?
+- how often do they create new babies?
+- How do they procreate?
 
 ### What is the correlation between starfish and these mussels?
 
+links of other newchannels who reported this event happening earlier this month and year:
+https://nos.nl/artikel/2412721-zeesterren-spoelen-massaal-aan-op-strand-bij-bloemendaal
+https://www.nhnieuws.nl/nieuws/299301/weer-duizenden-zeesterren-aangespoeld-op-strand-indrukwekkend-maar-niet-uitzonderlijk
+https://noordkopcentraal.nl/veel-zeesterren-aangespoeld-in-callantsoog/
+https://www.lokaalaanzee.nl/nieuws/bloemendaal/782993/veel-zeesterren-aangespoeld-op-strand-bloemendaal
