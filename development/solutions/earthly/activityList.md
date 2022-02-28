@@ -1,9 +1,9 @@
 ## Activity List of past activities and ideas
 
-| Date  | Description 			| Description 				| reason of stopping     	|
-| :---:  |    :----:  			|          :---: 			|		---: 				|
-| 2018  | **horizon and pulse**   | a dashboard for governments and organisations and an app for citizen scientist. A way for both to collaborate together.   |  |
-| 2018  | **pulse plantcare**   | taking a picture of a plant, recognizing the type of plant, pinning this on the map, start the creation of a new entity, asking a question about this plant, receive answers, add a sensor, add activities taken. All data about the plant is formulated by a generated story and 3D visual.  | examples conversations have been made, examples of plant tracking data has been created, plant libraries and sources have been collected. |
+| Date  | Description 			| Description 				| reason of stopping     	| check |
+| :---:  |    :----:  			|          :---: 			|		---: 				|---: 	|
+| 2018  | **horizon and pulse**   | a dashboard for governments and organisations and an app for citizen scientist. A way for both to collaborate together.   | ? |  |
+| 2018  | **pulse plantcare**   | taking a picture of a plant, recognizing the type of plant, pinning this on the map, start the creation of a new entity, asking a question about this plant, receive answers, add a sensor, add activities taken. All data about the plant is formulated by a generated story and 3D visual.  | examples conversations have been made, examples of plant tracking data has been created, plant libraries and sources have been collected. | [x]  |
 | 2018  | **modular sensor kit 1.0**   |    | working together with Eric, Alexey and Omotola.  |
 | 2018  | **pulse air game**   | focussing earthly.ai game of pulse first on air data.   | Designed app framework, designed app game rules. Created a list of examples sentences. In need for air data and actual training. Focus shifted to production of air sensor. |
 | 2018-2019  | **modular sensor kit 2.0**    | air, soil and plants sensors, first prototyped with 3d printers and later produced in factory | 	We saw that some of the sensors were really bad quality. Omotola suggested we make our own air sensor. The 3D printer had to go back to it's owner. 2Tango's pressure of more interns started. Dare2payitforward started.|
@@ -19,7 +19,7 @@
 | 2020  | **rotating platform for plant scanner**   | using a rotating platform to scan your plant. Either with the phone, to rotate the plant itself and hold the phone still. or with small camera's that scan the plant    | It had a lot of practical problems for the plant owner. Having to do with scale and weight. Some plants are 2 meter high and weigh a lot, some plants are 2 cm high. The modularity wasn't scalable. For the plantshop owner. Also in terms of extra work and space for this task. |
 | 2020  | **3D printed Plant scanner camera rig** | for training our own plant models and hand models | We formed it into the plan with 2Tango. We would first be doing it for 2Tango and then we would focus on plants. Plan: 1.app design for the messenger, 2.pipeline for mvp, 3.dashboard and family-only intranet, 4.3D rig. We delayed with the pipeline and with the mvp of the messenger. Plan was stopped after design of the dashboard. Even though we started 3D rig design. 3D rig design stagnated at the following part: a platform or holder for the camera was created. Yet the part of how to connect the platforms in a circle wasn't designed. Elise coudn't continue on this part due to difficulty with engeneering this circle shape. Omotola didn't have time to focus on this, due to mvp of Signs messenger and work for sustainable-it. |
 | 2020  | **earthly.ai - webbrowser extention**  | adding any information to your ai contiousness by selecting and adding in a webbrowser extention.  | transformed into what if this was not only for earthly, but also for mini.ai. Started with building vue browser extention. |
-| 2020  | **earthly.ai - search**  | graph search  for earthly questions  | ?  |
+| 2020  | **earthly.ai - search**  | graph search  for earthly questions  | ?  | [x]  |
 | 2020  | **earthly.ai travelplan**  | making a list of locations to visit, to put them on the map. | started making a list. Why did we stop?  |
 | 2020  | **earthly.ai mapping sustainable projects**  | putting sustainable projects on the map. | there are a lot of things we need to create first: Such as graph search, and an infrastructure of collaboration, a method of progress checking and activity tracking. Otherwise it is just like many other sustainable project collection websites: not complete, cluthered, filled with projects that stranded and are offline, not being used by the targetgroup and target for greenwashing. |
 | 2020  | **3d history teller'how did we get here?'**  | an automated storyteller that starts from the timeline of when earth first started to create live.   | Original devision: omotola focussing on the research facts and Elise would collect questions and form the research facts into small stories. After a few examples we would try to automate it. The first activity that Omotola decided to that focus was needed was the protocol for time and space. Still in progress. |
@@ -27,11 +27,11 @@
 | 2021  | **sciencefiction story of future earthly**  | an origin story about earthly matters, timeframe in the future.   | Lost the text during the "big reset" of the folder structures in italy. Elise continued on paper and in booklet, but stopped after a while. Elise found it difficult to start over, needs a silence time in the week to focus on writing. Omotola needed to go through the folder, but didn't make time or mental space yet. |
 | 2021  | **invisble edit interface**  | to create your own galery, based on what we did with dagmar. Being able to edit the content that is added.  | stagnated after the dagmar projects endend, continued in the implementation in the thismedium project.  |
 | 2021  | **bubble collection of elements**  |An overview of different elements: water, air, soil as a bubble. With real time data example. Showing the different data streams that could form the complete visual.  |  |
-| 2021  | **3d storytelling studio**  | being able to drag and drop 3d models, animate them on a timeline, add text comments.  | in progress  |
+| 2021  | **3d storytelling studio**  | being able to drag and drop 3d models, animate them on a timeline, add text comments.  | in progress  |[x]  |
 | 2021  | **mangrove monitoring and storytelling**  | mangrove |  |
 | 2021  | **simulation of an ecosystem**  | a mini version of an ecosystem, that we could use as a base for realtime data. | Omotola wants to use the whole garden, instead of the small terranium.  |
 | 2021  | **tokenizing plants**  |    |  |
-| 2021  | **Proof Of Presence**  |    |  |
+| 2021  | **Proof Of Presence**  | Tokenizing an activity, entering a space and recording the entering of this space, assigning a token to the visitation of that space.   |  | [x]  |
 | 2021  | **idea**  |    |  |
 | 2022  | **virtual pop-up book of earthly stories**  |    |  |
 
