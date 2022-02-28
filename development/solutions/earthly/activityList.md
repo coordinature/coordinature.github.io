@@ -25,8 +25,8 @@
 | 2021  | **DIY grow pot**   		| a small biodecradable jar with a 3d printed seedholder and seed. To sell it at Earthly.ai/store as a small kit. Monthly or quarterly. With a chapter of a book.	| Tolu started helping with engineering. Tolu stopped due to personal reasons. We've Got stuck at the engineeringspoint of the accordion model that Tolu prototyped with paper. The last idea was to not use 3D printed seed holder but from another material. |
 | 2021  | **sciencefiction story of future earthly**  | an origin story about earthly matters, timeframe in the future.   | Lost the text during the "big reset" of the folder structures in italy. Elise continued on paper and in booklet, but stopped after a while. Elise found it difficult to start over, needs a silence time in the week to focus on writing. Omotola needed to go through the folder, but didn't make time or mental space yet. |
 | 2021  | **invisble edit interface**  | to create your own galery, based on what we did with dagmar.   |  |
-| 2021  | **bubble collection of elements**  |An overview of different elements  |  |
-| 2021  | **3d storytelling studio**  |  | in progress  |
+| 2021  | **bubble collection of elements**  |An overview of different elements: water, air, soil as a bubble. With real time data example. Showing the different data streams that could form the complete visual.  |  |
+| 2021  | **3d storytelling studio**  | being able to drag and drop 3d models, animate them on a timeline, add text comments and  | in progress  |
 | 2021  | **mangrove monitoring and storytelling**  | mangrove |  |
 | 2021  | **simulation of an ecosystem**  | a mini version of an ecosystem, that we could use as a base for realtime data. | Omotola wants to use the whole garden, instead of the small terranium.  |
 | 2021  | **idea**  |    |  |
