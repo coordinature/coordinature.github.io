@@ -31,3 +31,4 @@
 | 2021  | **simulation of an ecosystem**  | a mini version of an ecosystem, that we could use as a base for realtime data. | Omotola wants to use the whole garden, instead of the small terranium.  |
 | 2021  | **idea**  |    |  |
 | 2022  | **virtual pop-up book of earthly stories**  |    |  |
+
