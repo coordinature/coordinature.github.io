@@ -23,5 +23,6 @@
 | 2020  | **earthly.ai travelplan**  | making a list of locations to visit, to put them on the map. | started making a list. Why did we stop?  |
 | 2020  | **earthly.ai mapping sustainable projects**  | putting sustainable projects on the map. | there are a lot of things we need to create first: Such as graph search, and an infrastructure of collaboration, a method of progress checking and activity tracking. Otherwise it is just like many other sustainable project collection websites: not complete, cluthered, filled with projects that stranded and are offline, not being used by the targetgroup and target for greenwashing. |
 | 2020  | **3d history teller'how did we get here?'**  | an automated storyteller that starts from the timeline of when earth first started to create live.   | Original devision: omotola focussing on the research facts and Elise would collect questions and form the research facts into small stories. After a few examples we would try to automate it. The first activity that Omotola decided to that focus was needed was the protocol for time and space. Still in progress. |
-| 2020  | **idea**  |    |  |
+| 2021  | **idea**  |    |  |
+| 2021  | **idea**  |    |  |
 | 2022  | **virtual pop-up book of earthly stories**  |    |  |
