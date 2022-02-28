@@ -12,9 +12,16 @@ Thinking of this, makes me realise what is being written right now, that we migh
 This is the reason why we need to make the information that comes out of (environmental) research papers so much more accesable for the bigger public. To make something accessable, we do not just mean: putting a link up on a website... Because the IPCC raport is indeed available for the entire world. But when talking about accesibility, we are talking about being able to process the information. We don't only have to think about who are not able to read well, have a low litteracy or issues with their sight. We are also talking about those who don't have the time or the patience to read.
 
 
-## party pooper
+### party pooper
 Writing or talking about climate change, makes the energy in the room change. It feels like the biggest party crasher. You can compare it to a parent showing up at a teenage house party. No one wants the person who takes live to seriously around, when you are about to let go of the things that really matter. 
 
 It is hard to only talk about something, if you feel like you can't really do much about it. Climate change and environmental issues are like a dark cloud hanging above the heads of many. For those who focus on the cloud.
 
 Because this imaginative cloud, is not really bothering us... as long as we focus on our own problems. We can't really do anything about a cloud, can we?
+
+### contiousness in other entities
+- what is contiousness?
+- Can we program contiousness?
+- When we program an natural language model to speak as if it is aware, humans will get empathy for this entity. Is this ethical to do so?
+- How can simulating contiousness contribute in sustainabiltiy?
+- Is it ethical to simulate contiousness or express contiousness of other entities such as plants, in order to create empathy?
