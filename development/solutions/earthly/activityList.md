@@ -20,7 +20,7 @@
 | 2020  | **3D printed Plant scanner camera rig** | for training our own plant models and hand models | We formed it into the plan with 2Tango. We would first be doing it for 2Tango and then we would focus on plants. Plan: 1.app design for the messenger, 2.pipeline for mvp, 3.dashboard and family-only intranet, 4.3D rig. We delayed with the pipeline and with the mvp of the messenger. Plan was stopped after design of the dashboard. Even though we started 3D rig design. 3D rig design stagnated at the following part: a platform or holder for the camera was created. Yet the part of how to connect the platforms in a circle wasn't designed. Elise coudn't continue on this part due to difficulty with engeneering this circle shape. Omotola didn't have time to focus on this, due to mvp of Signs messenger and work for sustainable-it. |
 | 2020  | **earthly.ai - webbrowser extention**  | adding any information to your ai contiousness by selecting and adding in a webbrowser extention.  | transformed into what if this was not only for earthly, but also for mini.ai. Started with building vue browser extention. |
 | 2020  | **earthly.ai - search**  | graph search  for earthly questions  |  |
-| 2020  | **earthly.ai travelplan**  | making a list of locations to visit, to put them on the map. |  |
+| 2020  | **earthly.ai travelplan**  | making a list of locations to visit, to put them on the map. | started making a list.   |
 | 2020  | **idea**  |    |  |
 | 2020  | **idea**  |    |  |
 | 2022  | **virtual pop-up book of earthly stories**  |    |  |
