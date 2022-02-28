@@ -30,6 +30,8 @@
 | 2021  | **3d storytelling studio**  | being able to drag and drop 3d models, animate them on a timeline, add text comments.  | in progress  |
 | 2021  | **mangrove monitoring and storytelling**  | mangrove |  |
 | 2021  | **simulation of an ecosystem**  | a mini version of an ecosystem, that we could use as a base for realtime data. | Omotola wants to use the whole garden, instead of the small terranium.  |
+| 2021  | **tokenizing plants**  |    |  |
+| 2021  | **Proof Of Presence**  |    |  |
 | 2021  | **idea**  |    |  |
 | 2022  | **virtual pop-up book of earthly stories**  |    |  |
 
