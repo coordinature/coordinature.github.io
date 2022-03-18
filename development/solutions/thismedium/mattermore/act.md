@@ -62,6 +62,3 @@ You don't just write what matters to you, by saying: I think it matters that all
 you can find a more meaningful version in a story that someone was grateful when a stranger was kind to them. This way we focus on the experience instead of the demand for the future. In the end, that is what we as humans have always done: we have created stories that capture our experiences and teaches the person who hasn't seen it from this side, a lesson on how to view their live differently.
 celebrate your similarities and differences, by not forcing us all to be the same. And appreciating that everyone has a different story to tell.
 We also then don't encourage people to spread misinformation and lies. Because every story is about **'your truth**' and **your experience** and no-one else. And we connect people by their **similar experience**. Which is completely fine.
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
