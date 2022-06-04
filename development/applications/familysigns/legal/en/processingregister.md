@@ -6,7 +6,7 @@ phone number: +31614034299
 **Responsible:** Tjerk Feitsma, e-mail address: tjerk@2tango.org, telephone number: +31614034299
 
 ### Processing activities of regular personal data:
-- Category of personal data(s): Name, address, place of residence
+**Category of personal data(s): Name, address, place of residence**
 - Category involved: Customers
 - Basis for processing: Agreement
 - Purpose of processing: Services
