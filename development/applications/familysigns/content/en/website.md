@@ -29,10 +29,9 @@ Start building your gesture library today:
 
 ### For Yourself
 Make your first gesture
-  
-#### benefits
-## lower your barrier to communicating
 
+  
+  
 ### [For Family](familysigns.app/get-started)
 Create a shared family language
   
@@ -45,9 +44,10 @@ When you know your gestures, you'll find yourself signing them even when your no
 Share your signs within your family and get to know each other better.
   
 ##### Private Family Channel
-Creata a safe space. Send messages in a space made only for your family members.
+Create a safe space. Send messages in a space made only for your family members.
 
-#####  Try it yourself!
+  
+**Try it yourself!**
 Scan the QR code and create a gesture for your first word.
 {try}
 
