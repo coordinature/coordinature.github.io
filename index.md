@@ -10,7 +10,7 @@ We are working on ways to understand and implement the nature of work that is ef
 
 - Use shared knowledge to <a href="https://logic.to" target="_blank">build your services</a>.
 
-// ## Tailored Cooperative Applications
+/* ## Tailored Cooperative Applications
 // - Earthly Matters & Sustainability #simulations.
 	// - Stories
 		// - Moments
@@ -33,7 +33,7 @@ We are working on ways to understand and implement the nature of work that is ef
 	// - Self-learning services
 
 // ## Studios
-// - Headquarters: Rotterdam
+// - Headquarters: Rotterdam  */
 
 // ## Partners
 // - <a href="https://elisemarcus.com" target="_blank">Elise Marcus</a>.
